@@ -1,0 +1,822 @@
+[
+  {
+    "Asia": "Thailand",
+    "slug": "/thailand"
+  },
+  {
+    "Asia": "Argentina",
+    "slug": "/argentina"
+  },
+  {
+    "Asia": "Indonesia",
+    "slug": "/indonesia"
+  },
+  {
+    "Asia": "Mexico",
+    "slug": "/mexico"
+  },
+  {
+    "Asia": "Portugal",
+    "slug": "/portugal"
+  },
+  {
+    "Asia": "Colombia",
+    "slug": "/colombia"
+  },
+  {
+    "Asia": "Spain",
+    "slug": "/spain"
+  },
+  {
+    "Asia": "Romania",
+    "slug": "/romania"
+  },
+  {
+    "Asia": "Malaysia",
+    "slug": "/malaysia"
+  },
+  {
+    "Asia": "India",
+    "slug": "/india"
+  },
+  {
+    "Asia": "South Africa",
+    "slug": "/south-africa"
+  },
+  {
+    "Asia": "Vietnam",
+    "slug": "/vietnam"
+  },
+  {
+    "Asia": "Nepal",
+    "slug": "/nepal"
+  },
+  {
+    "Asia": "Georgia",
+    "slug": "/georgia"
+  },
+  {
+    "Asia": "United States",
+    "slug": "/united-states"
+  },
+  {
+    "Asia": "Estonia",
+    "slug": "/estonia"
+  },
+  {
+    "Asia": "Philippines",
+    "slug": "/philippines"
+  },
+  {
+    "Asia": "Germany",
+    "slug": "/germany"
+  },
+  {
+    "Asia": "Kenya",
+    "slug": "/kenya"
+  },
+  {
+    "Asia": "Poland",
+    "slug": "/poland"
+  },
+  {
+    "Asia": "Bulgaria",
+    "slug": "/bulgaria"
+  },
+  {
+    "Asia": "Brazil",
+    "slug": "/brazil"
+  },
+  {
+    "Asia": "Lebanon",
+    "slug": "/lebanon"
+  },
+  {
+    "Asia": "Serbia",
+    "slug": "/serbia"
+  },
+  {
+    "Asia": "Peru",
+    "slug": "/peru"
+  },
+  {
+    "Asia": "Ecuador",
+    "slug": "/ecuador"
+  },
+  {
+    "Asia": "Turkey",
+    "slug": "/turkey"
+  },
+  {
+    "Asia": "Cambodia",
+    "slug": "/cambodia"
+  },
+  {
+    "Asia": "South Korea",
+    "slug": "/south-korea"
+  },
+  {
+    "Asia": "Croatia",
+    "slug": "/croatia"
+  },
+  {
+    "Asia": "Mauritius",
+    "slug": "/mauritius"
+  },
+  {
+    "Asia": "Hungary",
+    "slug": "/hungary"
+  },
+  {
+    "Asia": "Slovenia",
+    "slug": "/slovenia"
+  },
+  {
+    "Asia": "China",
+    "slug": "/china"
+  },
+  {
+    "Asia": "Cuba",
+    "slug": "/cuba"
+  },
+  {
+    "Asia": "Australia",
+    "slug": "/australia"
+  },
+  {
+    "Asia": "Laos",
+    "slug": "/laos"
+  },
+  {
+    "Asia": "Guatemala",
+    "slug": "/guatemala"
+  },
+  {
+    "Asia": "Morocco",
+    "slug": "/morocco"
+  },
+  {
+    "Asia": "North Macedonia",
+    "slug": "/north-macedonia"
+  },
+  {
+    "Asia": "Czechia",
+    "slug": "/czechia"
+  },
+  {
+    "Asia": "Sri Lanka",
+    "slug": "/sri-lanka"
+  },
+  {
+    "Asia": "Taiwan",
+    "slug": "/taiwan"
+  },
+  {
+    "Asia": "Suriname",
+    "slug": "/suriname"
+  },
+  {
+    "Asia": "Slovakia",
+    "slug": "/slovakia"
+  },
+  {
+    "Asia": "United Kingdom",
+    "slug": "/united-kingdom"
+  },
+  {
+    "Asia": "Canada",
+    "slug": "/canada"
+  },
+  {
+    "Asia": "Greece",
+    "slug": "/greece"
+  },
+  {
+    "Asia": "Singapore",
+    "slug": "/singapore"
+  },
+  {
+    "Asia": "Armenia",
+    "slug": "/armenia"
+  },
+  {
+    "Asia": "Chile",
+    "slug": "/chile"
+  },
+  {
+    "Asia": "Sweden",
+    "slug": "/sweden"
+  },
+  {
+    "Asia": "New Zealand",
+    "slug": "/new-zealand"
+  },
+  {
+    "Asia": "Latvia",
+    "slug": "/latvia"
+  },
+  {
+    "Asia": "Zimbabwe",
+    "slug": "/zimbabwe"
+  },
+  {
+    "Asia": "Hong Kong",
+    "slug": "/hong-kong"
+  },
+  {
+    "Asia": "Egypt",
+    "slug": "/egypt"
+  },
+  {
+    "Asia": "Bosnia",
+    "slug": "/bosnia"
+  },
+  {
+    "Asia": "Kazakhstan",
+    "slug": "/kazakhstan"
+  },
+  {
+    "Asia": "Albania",
+    "slug": "/albania"
+  },
+  {
+    "Asia": "Uzbekistan",
+    "slug": "/uzbekistan"
+  },
+  {
+    "Asia": "Denmark",
+    "slug": "/denmark"
+  },
+  {
+    "Asia": "Nigeria",
+    "slug": "/nigeria"
+  },
+  {
+    "Asia": "Netherlands",
+    "slug": "/netherlands"
+  },
+  {
+    "Asia": "Cyprus",
+    "slug": "/cyprus"
+  },
+  {
+    "Asia": "United Arab Emirates",
+    "slug": "/united-arab-emirates"
+  },
+  {
+    "Asia": "Moldova",
+    "slug": "/moldova"
+  },
+  {
+    "Asia": "Paraguay",
+    "slug": "/paraguay"
+  },
+  {
+    "Asia": "Zambia",
+    "slug": "/zambia"
+  },
+  {
+    "Asia": "Fiji",
+    "slug": "/fiji"
+  },
+  {
+    "Asia": "Japan",
+    "slug": "/japan"
+  },
+  {
+    "Asia": "Finland",
+    "slug": "/finland"
+  },
+  {
+    "Asia": "Bangladesh",
+    "slug": "/bangladesh"
+  },
+  {
+    "Asia": "Panama",
+    "slug": "/panama"
+  },
+  {
+    "Asia": "Dominican Republic",
+    "slug": "/dominican-republic"
+  },
+  {
+    "Asia": "Costa Rica",
+    "slug": "/costa-rica"
+  },
+  {
+    "Asia": "Bolivia",
+    "slug": "/bolivia"
+  },
+  {
+    "Asia": "France",
+    "slug": "/france"
+  },
+  {
+    "Asia": "Namibia",
+    "slug": "/namibia"
+  },
+  {
+    "Asia": "Senegal",
+    "slug": "/senegal"
+  },
+  {
+    "Asia": "Uganda",
+    "slug": "/uganda"
+  },
+  {
+    "Asia": "Pakistan",
+    "slug": "/pakistan"
+  },
+  {
+    "Asia": "Tunisia",
+    "slug": "/tunisia"
+  },
+  {
+    "Asia": "Lithuania",
+    "slug": "/lithuania"
+  },
+  {
+    "Asia": "Jordan",
+    "slug": "/jordan"
+  },
+  {
+    "Asia": "Kyrgyzstan",
+    "slug": "/kyrgyzstan"
+  },
+  {
+    "Asia": "Azerbaijan",
+    "slug": "/azerbaijan"
+  },
+  {
+    "Asia": "Madagascar",
+    "slug": "/madagascar"
+  },
+  {
+    "Asia": "Iceland",
+    "slug": "/iceland"
+  },
+  {
+    "Asia": "Algeria",
+    "slug": "/algeria"
+  },
+  {
+    "Asia": "Ireland",
+    "slug": "/ireland"
+  },
+  {
+    "Asia": "Montenegro",
+    "slug": "/montenegro"
+  },
+  {
+    "Asia": "Norway",
+    "slug": "/norway"
+  },
+  {
+    "Asia": "Cura√ßao",
+    "slug": "/curacao"
+  },
+  {
+    "Asia": "Qatar",
+    "slug": "/qatar"
+  },
+  {
+    "Asia": "Guyana",
+    "slug": "/guyana"
+  },
+  {
+    "Asia": "Austria",
+    "slug": "/austria"
+  },
+  {
+    "Asia": "Switzerland",
+    "slug": "/switzerland"
+  },
+  {
+    "Asia": "Kosovo",
+    "slug": "/kosovo"
+  },
+  {
+    "Asia": "Samoa",
+    "slug": "/samoa"
+  },
+  {
+    "Asia": "Botswana",
+    "slug": "/botswana"
+  },
+  {
+    "Asia": "Nicaragua",
+    "slug": "/nicaragua"
+  },
+  {
+    "Asia": "Congo",
+    "slug": "/congo"
+  },
+  {
+    "Asia": "Niger",
+    "slug": "/niger"
+  },
+  {
+    "Asia": "Italy",
+    "slug": "/italy"
+  },
+  {
+    "Asia": "Ghana",
+    "slug": "/ghana"
+  },
+  {
+    "Asia": "DR Congo",
+    "slug": "/dr-congo"
+  },
+  {
+    "Asia": "Uruguay",
+    "slug": "/uruguay"
+  },
+  {
+    "Asia": "Venezuela",
+    "slug": "/venezuela"
+  },
+  {
+    "Asia": "Togo",
+    "slug": "/togo"
+  },
+  {
+    "Asia": "Belgium",
+    "slug": "/belgium"
+  },
+  {
+    "Asia": "Angola",
+    "slug": "/angola"
+  },
+  {
+    "Asia": "Rwanda",
+    "slug": "/rwanda"
+  },
+  {
+    "Asia": "Gambia",
+    "slug": "/gambia"
+  },
+  {
+    "Asia": "East Timor",
+    "slug": "/east-timor"
+  },
+  {
+    "Asia": "Palestine",
+    "slug": "/palestine"
+  },
+  {
+    "Asia": "Tajikistan",
+    "slug": "/tajikistan"
+  },
+  {
+    "Asia": "Belize",
+    "slug": "/belize"
+  },
+  {
+    "Asia": "Jamaica",
+    "slug": "/jamaica"
+  },
+  {
+    "Asia": "Kurdistan",
+    "slug": "/kurdistan"
+  },
+  {
+    "Asia": "Haiti",
+    "slug": "/haiti"
+  },
+  {
+    "Asia": "Guam",
+    "slug": "/guam"
+  },
+  {
+    "Asia": "El Salvador",
+    "slug": "/el-salvador"
+  },
+  {
+    "Asia": "North Korea",
+    "slug": "/north-korea"
+  },
+  {
+    "Asia": "Cape Verde",
+    "slug": "/cape-verde"
+  },
+  {
+    "Asia": "Burkina Faso",
+    "slug": "/burkina-faso"
+  },
+  {
+    "Asia": "Cote d'Ivoire",
+    "slug": "/cote-divoire"
+  },
+  {
+    "Asia": "Bahrain",
+    "slug": "/bahrain"
+  },
+  {
+    "Asia": "Brunei",
+    "slug": "/brunei"
+  },
+  {
+    "Asia": "Guinea",
+    "slug": "/guinea"
+  },
+  {
+    "Asia": "Malawi",
+    "slug": "/malawi"
+  },
+  {
+    "Asia": "Puerto Rico",
+    "slug": "/puerto-rico"
+  },
+  {
+    "Asia": "Cameroon",
+    "slug": "/cameroon"
+  },
+  {
+    "Asia": "Lesotho",
+    "slug": "/lesotho"
+  },
+  {
+    "Asia": "Israel",
+    "slug": "/israel"
+  },
+  {
+    "Asia": "Iran",
+    "slug": "/iran"
+  },
+  {
+    "Asia": "Sierra Leone",
+    "slug": "/sierra-leone"
+  },
+  {
+    "Asia": "Honduras",
+    "slug": "/honduras"
+  },
+  {
+    "Asia": "Tonga",
+    "slug": "/tonga"
+  },
+  {
+    "Asia": "Tuvalu",
+    "slug": "/tuvalu"
+  },
+  {
+    "Asia": "Aruba",
+    "slug": "/aruba"
+  },
+  {
+    "Asia": "Malta",
+    "slug": "/malta"
+  },
+  {
+    "Asia": "Trinidad and Tobago",
+    "slug": "/trinidad-and-tobago"
+  },
+  {
+    "Asia": "Monaco",
+    "slug": "/monaco"
+  },
+  {
+    "Asia": "Cayman Islands",
+    "slug": "/cayman-islands"
+  },
+  {
+    "Asia": "Mongolia",
+    "slug": "/mongolia"
+  },
+  {
+    "Asia": "Western Sahara",
+    "slug": "/western-sahara"
+  },
+  {
+    "Asia": "Oman",
+    "slug": "/oman"
+  },
+  {
+    "Asia": "Caribbean Netherlands",
+    "slug": "/caribbean-netherlands"
+  },
+  {
+    "Asia": "British Virgin Islands",
+    "slug": "/british-virgin-islands"
+  },
+  {
+    "Asia": "Gibraltar",
+    "slug": "/gibraltar"
+  },
+  {
+    "Asia": "Jersey",
+    "slug": "/jersey"
+  },
+  {
+    "Asia": "Saint Helena",
+    "slug": "/saint-helena"
+  },
+  {
+    "Asia": "Saudi Arabia",
+    "slug": "/saudi-arabia"
+  },
+  {
+    "Asia": "Solomon Islands",
+    "slug": "/solomon-islands"
+  },
+  {
+    "Asia": "Mauritania",
+    "slug": "/mauritania"
+  },
+  {
+    "Asia": "Kuwait",
+    "slug": "/kuwait"
+  },
+  {
+    "Asia": "Falkland Islands",
+    "slug": "/falkland-islands"
+  },
+  {
+    "Asia": "Antarctica",
+    "slug": "/antarctica"
+  },
+  {
+    "Asia": "The Bahamas",
+    "slug": "/the-bahamas"
+  },
+  {
+    "Asia": "Bermuda",
+    "slug": "/bermuda"
+  },
+  {
+    "Asia": "Luxembourg",
+    "slug": "/luxembourg"
+  },
+  {
+    "Asia": "Moon",
+    "slug": "/moon"
+  },
+  {
+    "Asia": "United States Virgin Islands",
+    "slug": "/united-states-virgin-islands"
+  },
+  {
+    "Asia": "Vanuatu",
+    "slug": "/vanuatu"
+  },
+  {
+    "Asia": "Turkmenistan",
+    "slug": "/turkmenistan"
+  },
+  {
+    "Asia": "Sint Maarten",
+    "slug": "/sint-maarten"
+  },
+  {
+    "Asia": "Maldives",
+    "slug": "/maldives"
+  },
+  {
+    "Asia": "Cook Islands",
+    "slug": "/cook-islands"
+  },
+  {
+    "Asia": "Barbados",
+    "slug": "/barbados"
+  },
+  {
+    "Asia": "Gabon",
+    "slug": "/gabon"
+  },
+  {
+    "Asia": "South Georgia and the South Sandwich Islands",
+    "slug": "/south-georgia-and-the-south-sandwich-islands"
+  },
+  {
+    "Asia": "Vatican City",
+    "slug": "/vatican-city"
+  },
+  {
+    "Asia": "Seychelles",
+    "slug": "/seychelles"
+  },
+  {
+    "Asia": "French Guiana",
+    "slug": "/french-guiana"
+  },
+  {
+    "Asia": "Greenland",
+    "slug": "/greenland"
+  },
+  {
+    "Asia": "Antigua and Barbuda",
+    "slug": "/antigua-and-barbuda"
+  },
+  {
+    "Asia": "Guadeloupe",
+    "slug": "/guadeloupe"
+  },
+  {
+    "Asia": "Andorra",
+    "slug": "/andorra"
+  },
+  {
+    "Asia": "Martinique",
+    "slug": "/martinique"
+  },
+  {
+    "Asia": "Papua New Guinea",
+    "slug": "/papua-new-guinea"
+  },
+  {
+    "Asia": "Gliese-581c",
+    "slug": "/gliese-581c"
+  },
+  {
+    "Asia": "Liberia",
+    "slug": "/liberia"
+  },
+  {
+    "Asia": "New Caledonia",
+    "slug": "/new-caledonia"
+  },
+  {
+    "Asia": "Djibouti",
+    "slug": "/djibouti"
+  },
+  {
+    "Asia": "Kepler-452b",
+    "slug": "/kepler-452b"
+  },
+  {
+    "Asia": "Chad",
+    "slug": "/chad"
+  },
+  {
+    "Asia": "Ukraine",
+    "slug": "/ukraine"
+  },
+  {
+    "Asia": "Russia",
+    "slug": "/russia"
+  },
+  {
+    "Asia": "Belarus",
+    "slug": "/belarus"
+  },
+  {
+    "Asia": "Iraq",
+    "slug": "/iraq"
+  },
+  {
+    "Asia": "Syria",
+    "slug": "/syria"
+  },
+  {
+    "Asia": "Yemen",
+    "slug": "/yemen"
+  },
+  {
+    "Asia": "Eritrea",
+    "slug": "/eritrea"
+  },
+  {
+    "Asia": "Central African Republic",
+    "slug": "/central-african-republic"
+  },
+  {
+    "Asia": "Ethiopia",
+    "slug": "/ethiopia"
+  },
+  {
+    "Asia": "Libya",
+    "slug": "/libya"
+  },
+  {
+    "Asia": "Myanmar",
+    "slug": "/myanmar"
+  },
+  {
+    "Asia": "Mali",
+    "slug": "/mali"
+  },
+  {
+    "Asia": "Afghanistan",
+    "slug": "/afghanistan"
+  },
+  {
+    "Asia": "Sudan",
+    "slug": "/sudan"
+  },
+  {
+    "Asia": "Mozambique",
+    "slug": "/mozambique"
+  },
+  {
+    "Asia": "Somalia",
+    "slug": "/somalia"
+  },
+  {
+    "Asia": "Tanzania",
+    "slug": "/tanzania"
+  },
+  {
+    "Asia": "South Sudan",
+    "slug": "/south-sudan"
+  }
+]
