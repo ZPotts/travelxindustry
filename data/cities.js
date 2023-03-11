@@ -1,7 +1,7 @@
 const CITIES = [
     {
       "popularity": 1,
-      "slug": "thailand/bangkok",
+      "slug": "/thailand/bangkok",
       "city": "Bangkok",
       "A2": "Krung Thep Maha Nakhon",
       "country": "Thailand",
@@ -11,7 +11,7 @@ const CITIES = [
     },
     {
       "popularity": 2,
-      "slug": "argentina/buenos-aires",
+      "slug": "/argentina/buenos-aires",
       "city": "Buenos Aires",
       "A2": "Buenos Aires, Ciudad Autónoma de",
       "country": "Argentina",
@@ -21,7 +21,7 @@ const CITIES = [
     },
     {
       "popularity": 3,
-      "slug": "mexico/mexico-city",
+      "slug": "/mexico/mexico-city",
       "city": "Mexico City",
       "A2": "Ciudad de México",
       "country": "Mexico",
@@ -31,7 +31,7 @@ const CITIES = [
     },
     {
       "popularity": 5,
-      "slug": "thailand/chiang-mai",
+      "slug": "/thailand/chiang-mai",
       "city": "Chiang Mai",
       "A2": "Chiang Mai",
       "country": "Thailand",
@@ -41,7 +41,7 @@ const CITIES = [
     },
     {
       "popularity": 6,
-      "slug": "colombia/medellin",
+      "slug": "/colombia/medellin",
       "city": "Medellin",
       "A2": "Antioquia",
       "country": "Colombia",
@@ -51,7 +51,7 @@ const CITIES = [
     },
     {
       "popularity": 7,
-      "slug": "romania/timisoara",
+      "slug": "/romania/timisoara",
       "city": "Timisoara",
       "A2": "Timiş",
       "country": "Romania",
@@ -61,7 +61,7 @@ const CITIES = [
     },
     {
       "popularity": 8,
-      "slug": "malaysia/kuala-lumpur",
+      "slug": "/malaysia/kuala-lumpur",
       "city": "Kuala Lumpur",
       "A2": "Kuala Lumpur",
       "country": "Malaysia",
@@ -71,7 +71,7 @@ const CITIES = [
     },
     {
       "popularity": 9,
-      "slug": "south-africa/cape-town",
+      "slug": "/south-africa/cape-town",
       "city": "Cape Town",
       "A2": "Western Cape",
       "country": "South Africa",
@@ -81,7 +81,7 @@ const CITIES = [
     },
     {
       "popularity": 10,
-      "slug": "portugal/portimao",
+      "slug": "/portugal/portimao",
       "city": "Portimao",
       "A2": "Faro",
       "country": "Portugal",
@@ -91,7 +91,7 @@ const CITIES = [
     },
     {
       "popularity": 11,
-      "slug": "portugal/lisbon",
+      "slug": "/portugal/lisbon",
       "city": "Lisbon",
       "A2": "Lisboa",
       "country": "Portugal",
@@ -101,7 +101,7 @@ const CITIES = [
     },
     {
       "popularity": 12,
-      "slug": "thailand/ko-pha-ngan",
+      "slug": "/thailand/ko-pha-ngan",
       "city": "Ko Pha Ngan",
       "A2": "Surat Thani",
       "country": "Thailand",
@@ -111,7 +111,7 @@ const CITIES = [
     },
     {
       "popularity": 13,
-      "slug": "vietnam/da-nang",
+      "slug": "/vietnam/da-nang",
       "city": "Da Nang",
       "A2": "Đà Nẵng",
       "country": "Vietnam",
@@ -121,7 +121,7 @@ const CITIES = [
     },
     {
       "popularity": 14,
-      "slug": "portugal/porto",
+      "slug": "/portugal/porto",
       "city": "Porto",
       "A2": "Porto",
       "country": "Portugal",
@@ -131,7 +131,7 @@ const CITIES = [
     },
     {
       "popularity": 15,
-      "slug": "nepal/kathmandu",
+      "slug": "/nepal/kathmandu",
       "city": "Kathmandu",
       "A2": "Bāgmatī",
       "country": "Nepal",
@@ -141,7 +141,7 @@ const CITIES = [
     },
     {
       "popularity": 16,
-      "slug": "vietnam/ho-chi-minh-city",
+      "slug": "/vietnam/ho-chi-minh-city",
       "city": "Ho Chi Minh City",
       "A2": "Hồ Chí Minh",
       "country": "Vietnam",
@@ -151,7 +151,7 @@ const CITIES = [
     },
     {
       "popularity": 17,
-      "slug": "georgia/tbilisi",
+      "slug": "/georgia/tbilisi",
       "city": "Tbilisi",
       "A2": "Tbilisi",
       "country": "Georgia",
@@ -161,7 +161,7 @@ const CITIES = [
     },
     {
       "popularity": 18,
-      "slug": "united-states/georgia/atlanta",
+      "slug": "/united-states/georgia/atlanta",
       "city": "Atlanta",
       "A2": "Georgia",
       "country": "United States",
@@ -171,7 +171,7 @@ const CITIES = [
     },
     {
       "popularity": 19,
-      "slug": "estonia/tallinn",
+      "slug": "/estonia/tallinn",
       "city": "Tallinn",
       "A2": "Harjumaa",
       "country": "Estonia",
@@ -181,7 +181,7 @@ const CITIES = [
     },
     {
       "popularity": 20,
-      "slug": "romania/brasov",
+      "slug": "/romania/brasov",
       "city": "Brasov",
       "A2": "Braşov",
       "country": "Romania",
@@ -191,7 +191,7 @@ const CITIES = [
     },
     {
       "popularity": 21,
-      "slug": "germany/berlin",
+      "slug": "/germany/berlin",
       "city": "Berlin",
       "A2": "Berlin",
       "country": "Germany",
@@ -201,7 +201,7 @@ const CITIES = [
     },
     {
       "popularity": 22,
-      "slug": "united-states/texas/san-antonio",
+      "slug": "/united-states/texas/san-antonio",
       "city": "San Antonio",
       "A2": "Texas",
       "country": "United States",
@@ -211,7 +211,7 @@ const CITIES = [
     },
     {
       "popularity": 23,
-      "slug": "kenya/nairobi",
+      "slug": "/kenya/nairobi",
       "city": "Nairobi",
       "A2": "Nairobi City",
       "country": "Kenya",
@@ -221,7 +221,7 @@ const CITIES = [
     },
     {
       "popularity": 24,
-      "slug": "poland/warsaw",
+      "slug": "/poland/warsaw",
       "city": "Warsaw",
       "A2": "Mazowieckie",
       "country": "Poland",
@@ -231,7 +231,7 @@ const CITIES = [
     },
     {
       "popularity": 25,
-      "slug": "philippines/davao",
+      "slug": "/philippines/davao",
       "city": "Davao",
       "A2": "Davao",
       "country": "Philippines",
@@ -241,7 +241,7 @@ const CITIES = [
     },
     {
       "popularity": 26,
-      "slug": "bulgaria/sofia",
+      "slug": "/bulgaria/sofia",
       "city": "Sofia",
       "A2": "Sofia Grad",
       "country": "Bulgaria",
@@ -251,7 +251,7 @@ const CITIES = [
     },
     {
       "popularity": 27,
-      "slug": "indonesia/ubud",
+      "slug": "/indonesia/ubud",
       "city": "Ubud",
       "A2": "Bali",
       "country": "Indonesia",
@@ -261,7 +261,7 @@ const CITIES = [
     },
     {
       "popularity": 28,
-      "slug": "brazil/rio-de-janeiro",
+      "slug": "/brazil/rio-de-janeiro",
       "city": "Rio De Janeiro",
       "A2": "Rio de Janeiro",
       "country": "Brazil",
@@ -271,7 +271,7 @@ const CITIES = [
     },
     {
       "popularity": 29,
-      "slug": "lebanon/beirut",
+      "slug": "/lebanon/beirut",
       "city": "Beirut",
       "A2": "Beyrouth",
       "country": "Lebanon",
@@ -281,7 +281,7 @@ const CITIES = [
     },
     {
       "popularity": 30,
-      "slug": "bulgaria/varna",
+      "slug": "/bulgaria/varna",
       "city": "Varna",
       "A2": "Varna",
       "country": "Bulgaria",
@@ -291,7 +291,7 @@ const CITIES = [
     },
     {
       "popularity": 31,
-      "slug": "philippines/manila",
+      "slug": "/philippines/manila",
       "city": "Manila",
       "A2": "Manila",
       "country": "Philippines",
@@ -301,7 +301,7 @@ const CITIES = [
     },
     {
       "popularity": 32,
-      "slug": "serbia/belgrade",
+      "slug": "/serbia/belgrade",
       "city": "Belgrade",
       "A2": "Beograd",
       "country": "Serbia",
@@ -311,7 +311,7 @@ const CITIES = [
     },
     {
       "popularity": 33,
-      "slug": "india/delhi",
+      "slug": "/india/delhi",
       "city": "Delhi",
       "A2": "Delhi",
       "country": "India",
@@ -321,7 +321,7 @@ const CITIES = [
     },
     {
       "popularity": 34,
-      "slug": "peru/lima",
+      "slug": "/peru/lima",
       "city": "Lima",
       "A2": "Lima",
       "country": "Peru",
@@ -331,7 +331,7 @@ const CITIES = [
     },
     {
       "popularity": 35,
-      "slug": "germany/dresden",
+      "slug": "/germany/dresden",
       "city": "Dresden",
       "A2": "Saxony",
       "country": "Germany",
@@ -341,7 +341,7 @@ const CITIES = [
     },
     {
       "popularity": 36,
-      "slug": "bulgaria/bansko",
+      "slug": "/bulgaria/bansko",
       "city": "Bansko",
       "A2": "Blagoevgrad",
       "country": "Bulgaria",
@@ -351,7 +351,7 @@ const CITIES = [
     },
     {
       "popularity": 37,
-      "slug": "india/hyderabad",
+      "slug": "/india/hyderabad",
       "city": "Hyderabad",
       "A2": "Telangana",
       "country": "India",
@@ -361,7 +361,7 @@ const CITIES = [
     },
     {
       "popularity": 38,
-      "slug": "poland/gdansk",
+      "slug": "/poland/gdansk",
       "city": "Gdansk",
       "A2": "Pomorskie",
       "country": "Poland",
@@ -371,7 +371,7 @@ const CITIES = [
     },
     {
       "popularity": 39,
-      "slug": "ecuador/cuenca",
+      "slug": "/ecuador/cuenca",
       "city": "Cuenca",
       "A2": "Azuay",
       "country": "Ecuador",
@@ -381,7 +381,7 @@ const CITIES = [
     },
     {
       "popularity": 40,
-      "slug": "mexico/guadalajara",
+      "slug": "/mexico/guadalajara",
       "city": "Guadalajara",
       "A2": "Jalisco",
       "country": "Mexico",
@@ -391,7 +391,7 @@ const CITIES = [
     },
     {
       "popularity": 41,
-      "slug": "turkey/istanbul",
+      "slug": "/turkey/istanbul",
       "city": "Istanbul",
       "A2": "İstanbul",
       "country": "Turkey",
@@ -401,7 +401,7 @@ const CITIES = [
     },
     {
       "popularity": 42,
-      "slug": "poland/wroclaw",
+      "slug": "/poland/wroclaw",
       "city": "Wroclaw",
       "A2": "Dolnośląskie",
       "country": "Poland",
@@ -411,7 +411,7 @@ const CITIES = [
     },
     {
       "popularity": 43,
-      "slug": "bulgaria/plovdiv",
+      "slug": "/bulgaria/plovdiv",
       "city": "Plovdiv",
       "A2": "Plovdiv",
       "country": "Bulgaria",
@@ -421,7 +421,7 @@ const CITIES = [
     },
     {
       "popularity": 44,
-      "slug": "cambodia/siem-reap",
+      "slug": "/cambodia/siem-reap",
       "city": "Siem Reap",
       "A2": "Siem Reap",
       "country": "Cambodia",
@@ -431,7 +431,7 @@ const CITIES = [
     },
     {
       "popularity": 45,
-      "slug": "vietnam/hoi-an",
+      "slug": "/vietnam/hoi-an",
       "city": "Hoi An",
       "A2": "Quảng Nam",
       "country": "Vietnam",
@@ -441,7 +441,7 @@ const CITIES = [
     },
     {
       "popularity": 46,
-      "slug": "south-korea/seoul",
+      "slug": "/south-korea/seoul",
       "city": "Seoul",
       "A2": "Seoul",
       "country": "South Korea",
@@ -451,7 +451,7 @@ const CITIES = [
     },
     {
       "popularity": 47,
-      "slug": "romania/ploiesti",
+      "slug": "/romania/ploiesti",
       "city": "Ploiesti",
       "A2": "Prahova",
       "country": "Romania",
@@ -461,7 +461,7 @@ const CITIES = [
     },
     {
       "popularity": 48,
-      "slug": "poland/krakow",
+      "slug": "/poland/krakow",
       "city": "Krakow",
       "A2": "Małopolskie",
       "country": "Poland",
@@ -471,7 +471,7 @@ const CITIES = [
     },
     {
       "popularity": 49,
-      "slug": "ecuador/quito",
+      "slug": "/ecuador/quito",
       "city": "Quito",
       "A2": "Pichincha",
       "country": "Ecuador",
@@ -481,7 +481,7 @@ const CITIES = [
     },
     {
       "popularity": 50,
-      "slug": "germany/munich",
+      "slug": "/germany/munich",
       "city": "Munich",
       "A2": "Bavaria",
       "country": "Germany",
@@ -491,7 +491,7 @@ const CITIES = [
     },
     {
       "popularity": 51,
-      "slug": "croatia/zagreb",
+      "slug": "/croatia/zagreb",
       "city": "Zagreb",
       "A2": "Zagreb, Grad",
       "country": "Croatia",
@@ -501,7 +501,7 @@ const CITIES = [
     },
     {
       "popularity": 52,
-      "slug": "romania/constanta",
+      "slug": "/romania/constanta",
       "city": "Constanta",
       "A2": "Constanţa",
       "country": "Romania",
@@ -511,7 +511,7 @@ const CITIES = [
     },
     {
       "popularity": 53,
-      "slug": "colombia/puerto-escondido",
+      "slug": "/colombia/puerto-escondido",
       "city": "Puerto Escondido",
       "A2": "Córdoba",
       "country": "Colombia",
@@ -521,7 +521,7 @@ const CITIES = [
     },
     {
       "popularity": 54,
-      "slug": "mauritius/port-louis",
+      "slug": "/mauritius/port-louis",
       "city": "Port Louis",
       "A2": "Port Louis",
       "country": "Mauritius",
@@ -531,7 +531,7 @@ const CITIES = [
     },
     {
       "popularity": 55,
-      "slug": "colombia/tenerife",
+      "slug": "/colombia/tenerife",
       "city": "Tenerife",
       "A2": "Magdalena",
       "country": "Colombia",
@@ -541,7 +541,7 @@ const CITIES = [
     },
     {
       "popularity": 56,
-      "slug": "croatia/zadar",
+      "slug": "/croatia/zadar",
       "city": "Zadar",
       "A2": "Zadarska Županija",
       "country": "Croatia",
@@ -551,7 +551,7 @@ const CITIES = [
     },
     {
       "popularity": 57,
-      "slug": "hungary/budapest",
+      "slug": "/hungary/budapest",
       "city": "Budapest",
       "A2": "Budapest",
       "country": "Hungary",
@@ -561,7 +561,7 @@ const CITIES = [
     },
     {
       "popularity": 58,
-      "slug": "vietnam/phu-quoc",
+      "slug": "/vietnam/phu-quoc",
       "city": "Phu Quoc",
       "A2": "Kiến Giang",
       "country": "Vietnam",
@@ -571,7 +571,7 @@ const CITIES = [
     },
     {
       "popularity": 59,
-      "slug": "slovenia/ljubljana",
+      "slug": "/slovenia/ljubljana",
       "city": "Ljubljana",
       "A2": "Ljubljana",
       "country": "Slovenia",
@@ -581,7 +581,7 @@ const CITIES = [
     },
     {
       "popularity": 60,
-      "slug": "united-states/texas/dallas",
+      "slug": "/united-states/texas/dallas",
       "city": "Dallas",
       "A2": "Texas",
       "country": "United States",
@@ -591,7 +591,7 @@ const CITIES = [
     },
     {
       "popularity": 61,
-      "slug": "cuba/havana",
+      "slug": "/cuba/havana",
       "city": "Havana",
       "A2": "La Habana",
       "country": "Cuba",
@@ -601,7 +601,7 @@ const CITIES = [
     },
     {
       "popularity": 62,
-      "slug": "australia/perth",
+      "slug": "/australia/perth",
       "city": "Perth",
       "A2": "Western Australia",
       "country": "Australia",
@@ -611,7 +611,7 @@ const CITIES = [
     },
     {
       "popularity": 63,
-      "slug": "turkey/antalya",
+      "slug": "/turkey/antalya",
       "city": "Antalya",
       "A2": "Antalya",
       "country": "Turkey",
@@ -621,7 +621,7 @@ const CITIES = [
     },
     {
       "popularity": 64,
-      "slug": "nepal/pokhara",
+      "slug": "/nepal/pokhara",
       "city": "Pokhara",
       "A2": "Gandakī",
       "country": "Nepal",
@@ -631,7 +631,7 @@ const CITIES = [
     },
     {
       "popularity": 65,
-      "slug": "portugal/braga",
+      "slug": "/portugal/braga",
       "city": "Braga",
       "A2": "Braga",
       "country": "Portugal",
@@ -641,7 +641,7 @@ const CITIES = [
     },
     {
       "popularity": 66,
-      "slug": "indonesia/jakarta",
+      "slug": "/indonesia/jakarta",
       "city": "Jakarta",
       "A2": "Jakarta",
       "country": "Indonesia",
@@ -651,7 +651,7 @@ const CITIES = [
     },
     {
       "popularity": 67,
-      "slug": "india/agra",
+      "slug": "/india/agra",
       "city": "Agra",
       "A2": "Uttar Pradesh",
       "country": "India",
@@ -661,7 +661,7 @@ const CITIES = [
     },
     {
       "popularity": 68,
-      "slug": "mexico/cancun",
+      "slug": "/mexico/cancun",
       "city": "Cancun",
       "A2": "Quintana Roo",
       "country": "Mexico",
@@ -671,7 +671,7 @@ const CITIES = [
     },
     {
       "popularity": 69,
-      "slug": "united-states/texas/austin",
+      "slug": "/united-states/texas/austin",
       "city": "Austin",
       "A2": "Texas",
       "country": "United States",
@@ -681,7 +681,7 @@ const CITIES = [
     },
     {
       "popularity": 70,
-      "slug": "south-africa/johannesburg",
+      "slug": "/south-africa/johannesburg",
       "city": "Johannesburg",
       "A2": "Gauteng",
       "country": "South Africa",
@@ -691,7 +691,7 @@ const CITIES = [
     },
     {
       "popularity": 71,
-      "slug": "morocco/taghazout",
+      "slug": "/morocco/taghazout",
       "city": "Taghazout",
       "A2": "Souss Massa",
       "country": "Morocco",
@@ -701,7 +701,7 @@ const CITIES = [
     },
     {
       "popularity": 72,
-      "slug": "argentina/cordoba",
+      "slug": "/argentina/cordoba",
       "city": "Cordoba",
       "A2": "Córdoba",
       "country": "Argentina",
@@ -711,7 +711,7 @@ const CITIES = [
     },
     {
       "popularity": 73,
-      "slug": "macedonia/skopje",
+      "slug": "/macedonia/skopje",
       "city": "Skopje",
       "A2": "Skopje",
       "country": "Macedonia",
@@ -721,7 +721,7 @@ const CITIES = [
     },
     {
       "popularity": 74,
-      "slug": "brazil/sao-paulo",
+      "slug": "/brazil/sao-paulo",
       "city": "Sao Paulo",
       "A2": "São Paulo",
       "country": "Brazil",
@@ -731,7 +731,7 @@ const CITIES = [
     },
     {
       "popularity": 75,
-      "slug": "serbia/novi-sad",
+      "slug": "/serbia/novi-sad",
       "city": "Novi Sad",
       "A2": "Novi Sad",
       "country": "Serbia",
@@ -741,7 +741,7 @@ const CITIES = [
     },
     {
       "popularity": 76,
-      "slug": "cambodia/phnom-penh",
+      "slug": "/cambodia/phnom-penh",
       "city": "Phnom Penh",
       "A2": "Phnom Penh",
       "country": "Cambodia",
@@ -751,7 +751,7 @@ const CITIES = [
     },
     {
       "popularity": 77,
-      "slug": "germany/leipzig",
+      "slug": "/germany/leipzig",
       "city": "Leipzig",
       "A2": "Saxony",
       "country": "Germany",
@@ -761,7 +761,7 @@ const CITIES = [
     },
     {
       "popularity": 78,
-      "slug": "romania/bucharest",
+      "slug": "/romania/bucharest",
       "city": "Bucharest",
       "A2": "Bucureşti",
       "country": "Romania",
@@ -771,7 +771,7 @@ const CITIES = [
     },
     {
       "popularity": 79,
-      "slug": "serbia/nis",
+      "slug": "/serbia/nis",
       "city": "Nis",
       "A2": "Niš",
       "country": "Serbia",
@@ -781,7 +781,7 @@ const CITIES = [
     },
     {
       "popularity": 80,
-      "slug": "thailand/phuket",
+      "slug": "/thailand/phuket",
       "city": "Phuket",
       "A2": "Phuket",
       "country": "Thailand",
@@ -791,7 +791,7 @@ const CITIES = [
     },
     {
       "popularity": 81,
-      "slug": "united-states/florida/tampa",
+      "slug": "/united-states/florida/tampa",
       "city": "Tampa",
       "A2": "Florida",
       "country": "United States",
@@ -801,7 +801,7 @@ const CITIES = [
     },
     {
       "popularity": 82,
-      "slug": "czechia/brno",
+      "slug": "/czechia/brno",
       "city": "Brno",
       "A2": "Jihomoravský Kraj",
       "country": "Czechia",
@@ -811,7 +811,7 @@ const CITIES = [
     },
     {
       "popularity": 83,
-      "slug": "mexico/oaxaca",
+      "slug": "/mexico/oaxaca",
       "city": "Oaxaca",
       "A2": "Oaxaca",
       "country": "Mexico",
@@ -821,7 +821,7 @@ const CITIES = [
     },
     {
       "popularity": 84,
-      "slug": "south-korea/busan",
+      "slug": "/south-korea/busan",
       "city": "Busan",
       "A2": "Busan",
       "country": "South Korea",
@@ -831,7 +831,7 @@ const CITIES = [
     },
     {
       "popularity": 85,
-      "slug": "poland/poznan",
+      "slug": "/poland/poznan",
       "city": "Poznan",
       "A2": "Wielkopolskie",
       "country": "Poland",
@@ -841,7 +841,7 @@ const CITIES = [
     },
     {
       "popularity": 86,
-      "slug": "poland/szczecin",
+      "slug": "/poland/szczecin",
       "city": "Szczecin",
       "A2": "Zachodniopomorskie",
       "country": "Poland",
@@ -851,7 +851,7 @@ const CITIES = [
     },
     {
       "popularity": 87,
-      "slug": "united-states/utah/salt-lake-city",
+      "slug": "/united-states/utah/salt-lake-city",
       "city": "Salt Lake City",
       "A2": "Utah",
       "country": "United States",
@@ -861,7 +861,7 @@ const CITIES = [
     },
     {
       "popularity": 88,
-      "slug": "sri-lanka/colombo",
+      "slug": "/sri-lanka/colombo",
       "city": "Colombo",
       "A2": "Western",
       "country": "Sri Lanka",
@@ -871,7 +871,7 @@ const CITIES = [
     },
     {
       "popularity": 89,
-      "slug": "brazil/florianopolis",
+      "slug": "/brazil/florianopolis",
       "city": "Florianopolis",
       "A2": "Santa Catarina",
       "country": "Brazil",
@@ -881,7 +881,7 @@ const CITIES = [
     },
     {
       "popularity": 90,
-      "slug": "mexico/playa-del-carmen",
+      "slug": "/mexico/playa-del-carmen",
       "city": "Playa Del Carmen",
       "A2": "Quintana Roo",
       "country": "Mexico",
@@ -891,7 +891,7 @@ const CITIES = [
     },
     {
       "popularity": 91,
-      "slug": "taiwan/kaohsiung",
+      "slug": "/taiwan/kaohsiung",
       "city": "Kaohsiung",
       "A2": "Kaohsiung",
       "country": "Taiwan",
@@ -901,7 +901,7 @@ const CITIES = [
     },
     {
       "popularity": 92,
-      "slug": "spain/barcelona",
+      "slug": "/spain/barcelona",
       "city": "Barcelona",
       "A2": "Catalonia",
       "country": "Spain",
@@ -911,7 +911,7 @@ const CITIES = [
     },
     {
       "popularity": 93,
-      "slug": "thailand/krabi",
+      "slug": "/thailand/krabi",
       "city": "Krabi",
       "A2": "Krabi",
       "country": "Thailand",
@@ -921,7 +921,7 @@ const CITIES = [
     },
     {
       "popularity": 94,
-      "slug": "united-states/minnesota/minneapolis",
+      "slug": "/united-states/minnesota/minneapolis",
       "city": "Minneapolis",
       "A2": "Minnesota",
       "country": "United States",
@@ -931,7 +931,7 @@ const CITIES = [
     },
     {
       "popularity": 95,
-      "slug": "turkey/alanya",
+      "slug": "/turkey/alanya",
       "city": "Alanya",
       "A2": "Antalya",
       "country": "Turkey",
@@ -941,7 +941,7 @@ const CITIES = [
     },
     {
       "popularity": 96,
-      "slug": "united-states/new-york/new-york-city",
+      "slug": "/united-states/new-york/new-york-city",
       "city": "New York City",
       "A2": "New York",
       "country": "United States",
@@ -951,7 +951,7 @@ const CITIES = [
     },
     {
       "popularity": 97,
-      "slug": "vietnam/hanoi",
+      "slug": "/vietnam/hanoi",
       "city": "Hanoi",
       "A2": "Hà Nội",
       "country": "Vietnam",
@@ -961,7 +961,7 @@ const CITIES = [
     },
     {
       "popularity": 98,
-      "slug": "vietnam/nha-trang",
+      "slug": "/vietnam/nha-trang",
       "city": "Nha Trang",
       "A2": "Khánh Hòa",
       "country": "Vietnam",
@@ -971,7 +971,7 @@ const CITIES = [
     },
     {
       "popularity": 99,
-      "slug": "mexico/queretaro",
+      "slug": "/mexico/queretaro",
       "city": "Queretaro",
       "A2": "Querétaro",
       "country": "Mexico",
@@ -981,7 +981,7 @@ const CITIES = [
     },
     {
       "popularity": 100,
-      "slug": "sri-lanka/galle",
+      "slug": "/sri-lanka/galle",
       "city": "Galle",
       "A2": "Southern",
       "country": "Sri Lanka",
@@ -991,7 +991,7 @@ const CITIES = [
     },
     {
       "popularity": 101,
-      "slug": "china/guangzhou",
+      "slug": "/china/guangzhou",
       "city": "Guangzhou",
       "A2": "Guangdong",
       "country": "China",
@@ -1001,7 +1001,7 @@ const CITIES = [
     },
     {
       "popularity": 102,
-      "slug": "suriname/paramaribo",
+      "slug": "/suriname/paramaribo",
       "city": "Paramaribo",
       "A2": "Paramaribo",
       "country": "Suriname",
@@ -1011,7 +1011,7 @@ const CITIES = [
     },
     {
       "popularity": 103,
-      "slug": "united-states/arizona/tucson",
+      "slug": "/united-states/arizona/tucson",
       "city": "Tucson",
       "A2": "Arizona",
       "country": "United States",
@@ -1021,7 +1021,7 @@ const CITIES = [
     },
     {
       "popularity": 104,
-      "slug": "philippines/general-santos",
+      "slug": "/philippines/general-santos",
       "city": "General Santos",
       "A2": "General Santos",
       "country": "Philippines",
@@ -1031,7 +1031,7 @@ const CITIES = [
     },
     {
       "popularity": 105,
-      "slug": "taiwan/tainan",
+      "slug": "/taiwan/tainan",
       "city": "Tainan",
       "A2": "Tainan",
       "country": "Taiwan",
@@ -1041,7 +1041,7 @@ const CITIES = [
     },
     {
       "popularity": 106,
-      "slug": "malaysia/kota-kinabalu",
+      "slug": "/malaysia/kota-kinabalu",
       "city": "Kota Kinabalu",
       "A2": "Sabah",
       "country": "Malaysia",
@@ -1051,7 +1051,7 @@ const CITIES = [
     },
     {
       "popularity": 107,
-      "slug": "croatia/dubrovnik",
+      "slug": "/croatia/dubrovnik",
       "city": "Dubrovnik",
       "A2": "Dubrovačko Neretvanska Županija",
       "country": "Croatia",
@@ -1061,7 +1061,7 @@ const CITIES = [
     },
     {
       "popularity": 108,
-      "slug": "morocco/marrakech",
+      "slug": "/morocco/marrakech",
       "city": "Marrakech",
       "A2": "Marrakech Safi",
       "country": "Morocco",
@@ -1071,7 +1071,7 @@ const CITIES = [
     },
     {
       "popularity": 109,
-      "slug": "slovakia/bratislava",
+      "slug": "/slovakia/bratislava",
       "city": "Bratislava",
       "A2": "Bratislavský",
       "country": "Slovakia",
@@ -1081,7 +1081,7 @@ const CITIES = [
     },
     {
       "popularity": 110,
-      "slug": "united-kingdom/london",
+      "slug": "/united-kingdom/london",
       "city": "London",
       "A2": "London, City of",
       "country": "United Kingdom",
@@ -1091,7 +1091,7 @@ const CITIES = [
     },
     {
       "popularity": 111,
-      "slug": "australia/sydney",
+      "slug": "/australia/sydney",
       "city": "Sydney",
       "A2": "New South Wales",
       "country": "Australia",
@@ -1101,7 +1101,7 @@ const CITIES = [
     },
     {
       "popularity": 112,
-      "slug": "thailand/nakhon-ratchasima",
+      "slug": "/thailand/nakhon-ratchasima",
       "city": "Nakhon Ratchasima",
       "A2": "Nakhon Ratchasima",
       "country": "Thailand",
@@ -1111,7 +1111,7 @@ const CITIES = [
     },
     {
       "popularity": 113,
-      "slug": "portugal/aveiro",
+      "slug": "/portugal/aveiro",
       "city": "Aveiro",
       "A2": "Aveiro",
       "country": "Portugal",
@@ -1121,7 +1121,7 @@ const CITIES = [
     },
     {
       "popularity": 114,
-      "slug": "canada/toronto",
+      "slug": "/canada/toronto",
       "city": "Toronto",
       "A2": "Ontario",
       "country": "Canada",
@@ -1131,7 +1131,7 @@ const CITIES = [
     },
     {
       "popularity": 115,
-      "slug": "brazil/porto-alegre",
+      "slug": "/brazil/porto-alegre",
       "city": "Porto Alegre",
       "A2": "Rio Grande do Sul",
       "country": "Brazil",
@@ -1141,7 +1141,7 @@ const CITIES = [
     },
     {
       "popularity": 116,
-      "slug": "greece/athens",
+      "slug": "/greece/athens",
       "city": "Athens",
       "A2": "Attikí",
       "country": "Greece",
@@ -1151,7 +1151,7 @@ const CITIES = [
     },
     {
       "popularity": 117,
-      "slug": "united-states/texas/beaumont",
+      "slug": "/united-states/texas/beaumont",
       "city": "Beaumont",
       "A2": "Texas",
       "country": "United States",
@@ -1161,7 +1161,7 @@ const CITIES = [
     },
     {
       "popularity": 118,
-      "slug": "united-states/arkansas/fayetteville",
+      "slug": "/united-states/arkansas/fayetteville",
       "city": "Fayetteville",
       "A2": "Arkansas",
       "country": "United States",
@@ -1171,7 +1171,7 @@ const CITIES = [
     },
     {
       "popularity": 119,
-      "slug": "south-africa/port-elizabeth",
+      "slug": "/south-africa/port-elizabeth",
       "city": "Port Elizabeth",
       "A2": "Eastern Cape",
       "country": "South Africa",
@@ -1181,7 +1181,7 @@ const CITIES = [
     },
     {
       "popularity": 120,
-      "slug": "singapore/singapore",
+      "slug": "/singapore/singapore",
       "city": "Singapore",
       "A2": "Central Singapore",
       "country": "Singapore",
@@ -1191,7 +1191,7 @@ const CITIES = [
     },
     {
       "popularity": 121,
-      "slug": "australia/melbourne",
+      "slug": "/australia/melbourne",
       "city": "Melbourne",
       "A2": "Victoria",
       "country": "Australia",
@@ -1201,7 +1201,7 @@ const CITIES = [
     },
     {
       "popularity": 122,
-      "slug": "armenia/yerevan",
+      "slug": "/armenia/yerevan",
       "city": "Yerevan",
       "A2": "Yerevan",
       "country": "Armenia",
@@ -1211,7 +1211,7 @@ const CITIES = [
     },
     {
       "popularity": 123,
-      "slug": "taiwan/taipei",
+      "slug": "/taiwan/taipei",
       "city": "Taipei",
       "A2": "Taipei",
       "country": "Taiwan",
@@ -1221,7 +1221,7 @@ const CITIES = [
     },
     {
       "popularity": 124,
-      "slug": "chile/santiago",
+      "slug": "/chile/santiago",
       "city": "Santiago",
       "A2": "Región Metropolitana",
       "country": "Chile",
@@ -1231,7 +1231,7 @@ const CITIES = [
     },
     {
       "popularity": 125,
-      "slug": "sweden/stockholm",
+      "slug": "/sweden/stockholm",
       "city": "Stockholm",
       "A2": "Stockholm",
       "country": "Sweden",
@@ -1241,7 +1241,7 @@ const CITIES = [
     },
     {
       "popularity": 126,
-      "slug": "malaysia/kuching",
+      "slug": "/malaysia/kuching",
       "city": "Kuching",
       "A2": "Sarawak",
       "country": "Malaysia",
@@ -1251,7 +1251,7 @@ const CITIES = [
     },
     {
       "popularity": 127,
-      "slug": "new-zealand/auckland",
+      "slug": "/new-zealand/auckland",
       "city": "Auckland",
       "A2": "Auckland",
       "country": "New Zealand",
@@ -1261,7 +1261,7 @@ const CITIES = [
     },
     {
       "popularity": 128,
-      "slug": "latvia/riga",
+      "slug": "/latvia/riga",
       "city": "Riga",
       "A2": "Rīga",
       "country": "Latvia",
@@ -1271,7 +1271,7 @@ const CITIES = [
     },
     {
       "popularity": 129,
-      "slug": "poland/lodz",
+      "slug": "/poland/lodz",
       "city": "Lodz",
       "A2": "Łódzkie",
       "country": "Poland",
@@ -1281,7 +1281,7 @@ const CITIES = [
     },
     {
       "popularity": 130,
-      "slug": "indonesia/bandung",
+      "slug": "/indonesia/bandung",
       "city": "Bandung",
       "A2": "Jawa Barat",
       "country": "Indonesia",
@@ -1291,7 +1291,7 @@ const CITIES = [
     },
     {
       "popularity": 131,
-      "slug": "zimbabwe/harare",
+      "slug": "/zimbabwe/harare",
       "city": "Harare",
       "A2": "Harare",
       "country": "Zimbabwe",
@@ -1301,7 +1301,7 @@ const CITIES = [
     },
     {
       "popularity": 132,
-      "slug": "hong-kong/hong-kong",
+      "slug": "/hong-kong/hong-kong",
       "city": "Hong Kong",
       "A2": 0,
       "country": "Hong Kong",
@@ -1311,7 +1311,7 @@ const CITIES = [
     },
     {
       "popularity": 133,
-      "slug": "croatia/rijeka",
+      "slug": "/croatia/rijeka",
       "city": "Rijeka",
       "A2": "Primorsko Goranska Županija",
       "country": "Croatia",
@@ -1321,7 +1321,7 @@ const CITIES = [
     },
     {
       "popularity": 134,
-      "slug": "philippines/goa",
+      "slug": "/philippines/goa",
       "city": "Goa",
       "A2": "Camarines Sur",
       "country": "Philippines",
@@ -1331,7 +1331,7 @@ const CITIES = [
     },
     {
       "popularity": 135,
-      "slug": "india/lucknow",
+      "slug": "/india/lucknow",
       "city": "Lucknow",
       "A2": "Uttar Pradesh",
       "country": "India",
@@ -1341,7 +1341,7 @@ const CITIES = [
     },
     {
       "popularity": 136,
-      "slug": "united-states/kentucky/louisville",
+      "slug": "/united-states/kentucky/louisville",
       "city": "Louisville",
       "A2": "Kentucky",
       "country": "United States",
@@ -1351,7 +1351,7 @@ const CITIES = [
     },
     {
       "popularity": 137,
-      "slug": "portugal/coimbra",
+      "slug": "/portugal/coimbra",
       "city": "Coimbra",
       "A2": "Coimbra",
       "country": "Portugal",
@@ -1361,7 +1361,7 @@ const CITIES = [
     },
     {
       "popularity": 138,
-      "slug": "united-states/texas/brownsville",
+      "slug": "/united-states/texas/brownsville",
       "city": "Brownsville",
       "A2": "Texas",
       "country": "United States",
@@ -1371,7 +1371,7 @@ const CITIES = [
     },
     {
       "popularity": 139,
-      "slug": "united-states/texas/lubbock",
+      "slug": "/united-states/texas/lubbock",
       "city": "Lubbock",
       "A2": "Texas",
       "country": "United States",
@@ -1381,7 +1381,7 @@ const CITIES = [
     },
     {
       "popularity": 140,
-      "slug": "mexico/merida",
+      "slug": "/mexico/merida",
       "city": "Merida",
       "A2": "Yucatán",
       "country": "Mexico",
@@ -1391,7 +1391,7 @@ const CITIES = [
     },
     {
       "popularity": 141,
-      "slug": "portugal/faro",
+      "slug": "/portugal/faro",
       "city": "Faro",
       "A2": "Faro",
       "country": "Portugal",
@@ -1401,7 +1401,7 @@ const CITIES = [
     },
     {
       "popularity": 142,
-      "slug": "germany/hamburg",
+      "slug": "/germany/hamburg",
       "city": "Hamburg",
       "A2": "Hamburg",
       "country": "Germany",
@@ -1411,7 +1411,7 @@ const CITIES = [
     },
     {
       "popularity": 143,
-      "slug": "bosnia-and-herzegovina/mostar",
+      "slug": "/bosnia-and-herzegovina/mostar",
       "city": "Mostar",
       "A2": "Bosnia and Herzegovina, Federation of",
       "country": "Bosnia And Herzegovina",
@@ -1421,7 +1421,7 @@ const CITIES = [
     },
     {
       "popularity": 144,
-      "slug": "south-africa/pretoria",
+      "slug": "/south-africa/pretoria",
       "city": "Pretoria",
       "A2": "Gauteng",
       "country": "South Africa",
@@ -1431,7 +1431,7 @@ const CITIES = [
     },
     {
       "popularity": 145,
-      "slug": "canada/winnipeg",
+      "slug": "/canada/winnipeg",
       "city": "Winnipeg",
       "A2": "Manitoba",
       "country": "Canada",
@@ -1441,7 +1441,7 @@ const CITIES = [
     },
     {
       "popularity": 146,
-      "slug": "india/jaipur",
+      "slug": "/india/jaipur",
       "city": "Jaipur",
       "A2": "Rājasthān",
       "country": "India",
@@ -1451,7 +1451,7 @@ const CITIES = [
     },
     {
       "popularity": 147,
-      "slug": "united-states/hawaii/honolulu",
+      "slug": "/united-states/hawaii/honolulu",
       "city": "Honolulu",
       "A2": "Hawaii",
       "country": "United States",
@@ -1461,7 +1461,7 @@ const CITIES = [
     },
     {
       "popularity": 148,
-      "slug": "united-states/georgia/macon",
+      "slug": "/united-states/georgia/macon",
       "city": "Macon",
       "A2": "Georgia",
       "country": "United States",
@@ -1471,7 +1471,7 @@ const CITIES = [
     },
     {
       "popularity": 149,
-      "slug": "canada/vancouver",
+      "slug": "/canada/vancouver",
       "city": "Vancouver",
       "A2": "British Columbia",
       "country": "Canada",
@@ -1481,7 +1481,7 @@ const CITIES = [
     },
     {
       "popularity": 150,
-      "slug": "poland/lublin",
+      "slug": "/poland/lublin",
       "city": "Lublin",
       "A2": "Lubelskie",
       "country": "Poland",
@@ -1491,7 +1491,7 @@ const CITIES = [
     },
     {
       "popularity": 151,
-      "slug": "croatia/split",
+      "slug": "/croatia/split",
       "city": "Split",
       "A2": "Splitsko Dalmatinska Županija",
       "country": "Croatia",
@@ -1501,7 +1501,7 @@ const CITIES = [
     },
     {
       "popularity": 152,
-      "slug": "sri-lanka/kandy",
+      "slug": "/sri-lanka/kandy",
       "city": "Kandy",
       "A2": "Central",
       "country": "Sri Lanka",
@@ -1511,7 +1511,7 @@ const CITIES = [
     },
     {
       "popularity": 153,
-      "slug": "indonesia/malang",
+      "slug": "/indonesia/malang",
       "city": "Malang",
       "A2": "Jawa Timur",
       "country": "Indonesia",
@@ -1521,7 +1521,7 @@ const CITIES = [
     },
     {
       "popularity": 154,
-      "slug": "united-states/ohio/columbus",
+      "slug": "/united-states/ohio/columbus",
       "city": "Columbus",
       "A2": "Ohio",
       "country": "United States",
@@ -1531,7 +1531,7 @@ const CITIES = [
     },
     {
       "popularity": 155,
-      "slug": "colombia/la-union",
+      "slug": "/colombia/la-union",
       "city": "La Union",
       "A2": "Valle del Cauca",
       "country": "Colombia",
@@ -1541,7 +1541,7 @@ const CITIES = [
     },
     {
       "popularity": 156,
-      "slug": "united-states/texas/conroe",
+      "slug": "/united-states/texas/conroe",
       "city": "Conroe",
       "A2": "Texas",
       "country": "United States",
@@ -1551,7 +1551,7 @@ const CITIES = [
     },
     {
       "popularity": 157,
-      "slug": "kazakhstan/almaty",
+      "slug": "/kazakhstan/almaty",
       "city": "Almaty",
       "A2": "Almaty",
       "country": "Kazakhstan",
@@ -1561,7 +1561,7 @@ const CITIES = [
     },
     {
       "popularity": 158,
-      "slug": "colombia/cartagena",
+      "slug": "/colombia/cartagena",
       "city": "Cartagena",
       "A2": "Bolívar",
       "country": "Colombia",
@@ -1571,7 +1571,7 @@ const CITIES = [
     },
     {
       "popularity": 159,
-      "slug": "japan/kochi",
+      "slug": "/japan/kochi",
       "city": "Kochi",
       "A2": "Kōchi",
       "country": "Japan",
@@ -1581,7 +1581,7 @@ const CITIES = [
     },
     {
       "popularity": 160,
-      "slug": "united-states/florida/gainesville",
+      "slug": "/united-states/florida/gainesville",
       "city": "Gainesville",
       "A2": "Florida",
       "country": "United States",
@@ -1591,7 +1591,7 @@ const CITIES = [
     },
     {
       "popularity": 161,
-      "slug": "turkey/adana",
+      "slug": "/turkey/adana",
       "city": "Adana",
       "A2": "Adana",
       "country": "Turkey",
@@ -1601,7 +1601,7 @@ const CITIES = [
     },
     {
       "popularity": 162,
-      "slug": "new-zealand/christchurch",
+      "slug": "/new-zealand/christchurch",
       "city": "Christchurch",
       "A2": "Canterbury",
       "country": "New Zealand",
@@ -1611,7 +1611,7 @@ const CITIES = [
     },
     {
       "popularity": 163,
-      "slug": "canada/grande-prairie",
+      "slug": "/canada/grande-prairie",
       "city": "Grande Prairie",
       "A2": "Alberta",
       "country": "Canada",
@@ -1621,7 +1621,7 @@ const CITIES = [
     },
     {
       "popularity": 164,
-      "slug": "united-states/virginia/roanoke",
+      "slug": "/united-states/virginia/roanoke",
       "city": "Roanoke",
       "A2": "Virginia",
       "country": "United States",
@@ -1631,7 +1631,7 @@ const CITIES = [
     },
     {
       "popularity": 165,
-      "slug": "albania/tirana",
+      "slug": "/albania/tirana",
       "city": "Tirana",
       "A2": "Tiranë",
       "country": "Albania",
@@ -1641,7 +1641,7 @@ const CITIES = [
     },
     {
       "popularity": 166,
-      "slug": "uzbekistan/tashkent",
+      "slug": "/uzbekistan/tashkent",
       "city": "Tashkent",
       "A2": "Toshkent",
       "country": "Uzbekistan",
@@ -1651,7 +1651,7 @@ const CITIES = [
     },
     {
       "popularity": 167,
-      "slug": "denmark/copenhagen",
+      "slug": "/denmark/copenhagen",
       "city": "Copenhagen",
       "A2": "Hovedstaden",
       "country": "Denmark",
@@ -1661,7 +1661,7 @@ const CITIES = [
     },
     {
       "popularity": 168,
-      "slug": "nigeria/lagos",
+      "slug": "/nigeria/lagos",
       "city": "Lagos",
       "A2": "Lagos",
       "country": "Nigeria",
@@ -1671,7 +1671,7 @@ const CITIES = [
     },
     {
       "popularity": 169,
-      "slug": "malaysia/johor-bahru",
+      "slug": "/malaysia/johor-bahru",
       "city": "Johor Bahru",
       "A2": "Johor",
       "country": "Malaysia",
@@ -1681,7 +1681,7 @@ const CITIES = [
     },
     {
       "popularity": 170,
-      "slug": "sri-lanka/matara",
+      "slug": "/sri-lanka/matara",
       "city": "Matara",
       "A2": "Southern",
       "country": "Sri Lanka",
@@ -1691,7 +1691,7 @@ const CITIES = [
     },
     {
       "popularity": 171,
-      "slug": "canada/quebec-city",
+      "slug": "/canada/quebec-city",
       "city": "Quebec City",
       "A2": "Quebec",
       "country": "Canada",
@@ -1701,7 +1701,7 @@ const CITIES = [
     },
     {
       "popularity": 172,
-      "slug": "netherlands/groningen",
+      "slug": "/netherlands/groningen",
       "city": "Groningen",
       "A2": "Groningen",
       "country": "Netherlands",
@@ -1711,7 +1711,7 @@ const CITIES = [
     },
     {
       "popularity": 173,
-      "slug": "cyprus/paphos",
+      "slug": "/cyprus/paphos",
       "city": "Paphos",
       "A2": "Páfos",
       "country": "Cyprus",
@@ -1721,7 +1721,7 @@ const CITIES = [
     },
     {
       "popularity": 174,
-      "slug": "united-arab-emirates/dubai",
+      "slug": "/united-arab-emirates/dubai",
       "city": "Dubai",
       "A2": "Dubayy",
       "country": "United Arab Emirates",
@@ -1731,7 +1731,7 @@ const CITIES = [
     },
     {
       "popularity": 175,
-      "slug": "romania/craiova",
+      "slug": "/romania/craiova",
       "city": "Craiova",
       "A2": "Dolj",
       "country": "Romania",
@@ -1741,7 +1741,7 @@ const CITIES = [
     },
     {
       "popularity": 176,
-      "slug": "china/changzhou",
+      "slug": "/china/changzhou",
       "city": "Changzhou",
       "A2": "Jiangsu",
       "country": "China",
@@ -1751,7 +1751,7 @@ const CITIES = [
     },
     {
       "popularity": 177,
-      "slug": "india/madurai",
+      "slug": "/india/madurai",
       "city": "Madurai",
       "A2": "Tamil Nādu",
       "country": "India",
@@ -1761,7 +1761,7 @@ const CITIES = [
     },
     {
       "popularity": 178,
-      "slug": "canada/calgary",
+      "slug": "/canada/calgary",
       "city": "Calgary",
       "A2": "Alberta",
       "country": "Canada",
@@ -1771,7 +1771,7 @@ const CITIES = [
     },
     {
       "popularity": 179,
-      "slug": "brazil/fortaleza",
+      "slug": "/brazil/fortaleza",
       "city": "Fortaleza",
       "A2": "Ceará",
       "country": "Brazil",
@@ -1781,7 +1781,7 @@ const CITIES = [
     },
     {
       "popularity": 180,
-      "slug": "united-states/ohio/cincinnati",
+      "slug": "/united-states/ohio/cincinnati",
       "city": "Cincinnati",
       "A2": "Ohio",
       "country": "United States",
@@ -1791,7 +1791,7 @@ const CITIES = [
     },
     {
       "popularity": 181,
-      "slug": "vietnam/da-lat",
+      "slug": "/vietnam/da-lat",
       "city": "Da Lat",
       "A2": "Lâm Đồng",
       "country": "Vietnam",
@@ -1801,7 +1801,7 @@ const CITIES = [
     },
     {
       "popularity": 182,
-      "slug": "united-states/indiana/kokomo",
+      "slug": "/united-states/indiana/kokomo",
       "city": "Kokomo",
       "A2": "Indiana",
       "country": "United States",
@@ -1811,7 +1811,7 @@ const CITIES = [
     },
     {
       "popularity": 183,
-      "slug": "indonesia/surabaya",
+      "slug": "/indonesia/surabaya",
       "city": "Surabaya",
       "A2": "Jawa Timur",
       "country": "Indonesia",
@@ -1821,7 +1821,7 @@ const CITIES = [
     },
     {
       "popularity": 184,
-      "slug": "sweden/malmo",
+      "slug": "/sweden/malmo",
       "city": "Malmo",
       "A2": "Skåne",
       "country": "Sweden",
@@ -1831,7 +1831,7 @@ const CITIES = [
     },
     {
       "popularity": 185,
-      "slug": "moldova/chisinau",
+      "slug": "/moldova/chisinau",
       "city": "Chisinau",
       "A2": "Chişinău",
       "country": "Moldova",
@@ -1841,7 +1841,7 @@ const CITIES = [
     },
     {
       "popularity": 186,
-      "slug": "united-states/iowa/waterloo",
+      "slug": "/united-states/iowa/waterloo",
       "city": "Waterloo",
       "A2": "Iowa",
       "country": "United States",
@@ -1851,7 +1851,7 @@ const CITIES = [
     },
     {
       "popularity": 187,
-      "slug": "united-states/texas/harlingen",
+      "slug": "/united-states/texas/harlingen",
       "city": "Harlingen",
       "A2": "Texas",
       "country": "United States",
@@ -1861,7 +1861,7 @@ const CITIES = [
     },
     {
       "popularity": 188,
-      "slug": "estonia/tartu",
+      "slug": "/estonia/tartu",
       "city": "Tartu",
       "A2": "Tartumaa",
       "country": "Estonia",
@@ -1871,7 +1871,7 @@ const CITIES = [
     },
     {
       "popularity": 189,
-      "slug": "united-states/alabama/montgomery",
+      "slug": "/united-states/alabama/montgomery",
       "city": "Montgomery",
       "A2": "Alabama",
       "country": "United States",
@@ -1881,7 +1881,7 @@ const CITIES = [
     },
     {
       "popularity": 190,
-      "slug": "united-states/new-york/buffalo",
+      "slug": "/united-states/new-york/buffalo",
       "city": "Buffalo",
       "A2": "New York",
       "country": "United States",
@@ -1891,7 +1891,7 @@ const CITIES = [
     },
     {
       "popularity": 191,
-      "slug": "united-states/kansas/wichita",
+      "slug": "/united-states/kansas/wichita",
       "city": "Wichita",
       "A2": "Kansas",
       "country": "United States",
@@ -1901,7 +1901,7 @@ const CITIES = [
     },
     {
       "popularity": 192,
-      "slug": "india/ahmedabad",
+      "slug": "/india/ahmedabad",
       "city": "Ahmedabad",
       "A2": "Gujarāt",
       "country": "India",
@@ -1911,7 +1911,7 @@ const CITIES = [
     },
     {
       "popularity": 193,
-      "slug": "turkey/izmir",
+      "slug": "/turkey/izmir",
       "city": "Izmir",
       "A2": "İzmir",
       "country": "Turkey",
@@ -1921,7 +1921,7 @@ const CITIES = [
     },
     {
       "popularity": 194,
-      "slug": "united-states/utah/ogden",
+      "slug": "/united-states/utah/ogden",
       "city": "Ogden",
       "A2": "Utah",
       "country": "United States",
@@ -1931,7 +1931,7 @@ const CITIES = [
     },
     {
       "popularity": 195,
-      "slug": "india/vadodara",
+      "slug": "/india/vadodara",
       "city": "Vadodara",
       "A2": "Gujarāt",
       "country": "India",
@@ -1941,7 +1941,7 @@ const CITIES = [
     },
     {
       "popularity": 196,
-      "slug": "colombia/bogota",
+      "slug": "/colombia/bogota",
       "city": "Bogota",
       "A2": "Bogotá",
       "country": "Colombia",
@@ -1951,7 +1951,7 @@ const CITIES = [
     },
     {
       "popularity": 197,
-      "slug": "united-states/kentucky/bowling-green",
+      "slug": "/united-states/kentucky/bowling-green",
       "city": "Bowling Green",
       "A2": "Kentucky",
       "country": "United States",
@@ -1961,7 +1961,7 @@ const CITIES = [
     },
     {
       "popularity": 198,
-      "slug": "new-zealand/wellington",
+      "slug": "/new-zealand/wellington",
       "city": "Wellington",
       "A2": "Wellington",
       "country": "New Zealand",
@@ -1971,7 +1971,7 @@ const CITIES = [
     },
     {
       "popularity": 199,
-      "slug": "indonesia/denpasar",
+      "slug": "/indonesia/denpasar",
       "city": "Denpasar",
       "A2": "Bali",
       "country": "Indonesia",
@@ -1981,7 +1981,7 @@ const CITIES = [
     },
     {
       "popularity": 200,
-      "slug": "united-states/new-york/syracuse",
+      "slug": "/united-states/new-york/syracuse",
       "city": "Syracuse",
       "A2": "New York",
       "country": "United States",
@@ -1991,7 +1991,7 @@ const CITIES = [
     },
     {
       "popularity": 201,
-      "slug": "united-states/ohio/youngstown",
+      "slug": "/united-states/ohio/youngstown",
       "city": "Youngstown",
       "A2": "Ohio",
       "country": "United States",
@@ -2001,7 +2001,7 @@ const CITIES = [
     },
     {
       "popularity": 202,
-      "slug": "thailand/ko-chang",
+      "slug": "/thailand/ko-chang",
       "city": "Ko Chang",
       "A2": "Trat",
       "country": "Thailand",
@@ -2011,7 +2011,7 @@ const CITIES = [
     },
     {
       "popularity": 203,
-      "slug": "paraguay/asuncion",
+      "slug": "/paraguay/asuncion",
       "city": "Asuncion",
       "A2": "Asunción",
       "country": "Paraguay",
@@ -2021,7 +2021,7 @@ const CITIES = [
     },
     {
       "popularity": 204,
-      "slug": "south-korea/daegu",
+      "slug": "/south-korea/daegu",
       "city": "Daegu",
       "A2": "Daegu",
       "country": "South Korea",
@@ -2031,7 +2031,7 @@ const CITIES = [
     },
     {
       "popularity": 205,
-      "slug": "united-states/nevada/las-vegas",
+      "slug": "/united-states/nevada/las-vegas",
       "city": "Las Vegas",
       "A2": "Nevada",
       "country": "United States",
@@ -2041,7 +2041,7 @@ const CITIES = [
     },
     {
       "popularity": 206,
-      "slug": "spain/alicante",
+      "slug": "/spain/alicante",
       "city": "Alicante",
       "A2": "Valencia",
       "country": "Spain",
@@ -2051,7 +2051,7 @@ const CITIES = [
     },
     {
       "popularity": 207,
-      "slug": "united-states/alabama/dothan",
+      "slug": "/united-states/alabama/dothan",
       "city": "Dothan",
       "A2": "Alabama",
       "country": "United States",
@@ -2061,7 +2061,7 @@ const CITIES = [
     },
     {
       "popularity": 208,
-      "slug": "bulgaria/burgas",
+      "slug": "/bulgaria/burgas",
       "city": "Burgas",
       "A2": "Burgas",
       "country": "Bulgaria",
@@ -2071,7 +2071,7 @@ const CITIES = [
     },
     {
       "popularity": 209,
-      "slug": "united-states/arkansas/north-little-rock",
+      "slug": "/united-states/arkansas/north-little-rock",
       "city": "North Little Rock",
       "A2": "Arkansas",
       "country": "United States",
@@ -2081,7 +2081,7 @@ const CITIES = [
     },
     {
       "popularity": 210,
-      "slug": "malaysia/ipoh",
+      "slug": "/malaysia/ipoh",
       "city": "Ipoh",
       "A2": "Perak",
       "country": "Malaysia",
@@ -2091,7 +2091,7 @@ const CITIES = [
     },
     {
       "popularity": 211,
-      "slug": "zambia/livingstone",
+      "slug": "/zambia/livingstone",
       "city": "Livingstone",
       "A2": "Southern",
       "country": "Zambia",
@@ -2101,7 +2101,7 @@ const CITIES = [
     },
     {
       "popularity": 212,
-      "slug": "indonesia/pekanbaru",
+      "slug": "/indonesia/pekanbaru",
       "city": "Pekanbaru",
       "A2": "Riau",
       "country": "Indonesia",
@@ -2111,7 +2111,7 @@ const CITIES = [
     },
     {
       "popularity": 213,
-      "slug": "poland/katowice",
+      "slug": "/poland/katowice",
       "city": "Katowice",
       "A2": "Śląskie",
       "country": "Poland",
@@ -2121,7 +2121,7 @@ const CITIES = [
     },
     {
       "popularity": 214,
-      "slug": "united-states/texas/houston",
+      "slug": "/united-states/texas/houston",
       "city": "Houston",
       "A2": "Texas",
       "country": "United States",
@@ -2131,7 +2131,7 @@ const CITIES = [
     },
     {
       "popularity": 215,
-      "slug": "vietnam/hue",
+      "slug": "/vietnam/hue",
       "city": "Hue",
       "A2": "Thừa Thiên Huế",
       "country": "Vietnam",
@@ -2141,7 +2141,7 @@ const CITIES = [
     },
     {
       "popularity": 216,
-      "slug": "indonesia/yogyakarta",
+      "slug": "/indonesia/yogyakarta",
       "city": "Yogyakarta",
       "A2": "Yogyakarta",
       "country": "Indonesia",
@@ -2151,7 +2151,7 @@ const CITIES = [
     },
     {
       "popularity": 217,
-      "slug": "fiji/suva",
+      "slug": "/fiji/suva",
       "city": "Suva",
       "A2": "Rewa",
       "country": "Fiji",
@@ -2161,7 +2161,7 @@ const CITIES = [
     },
     {
       "popularity": 218,
-      "slug": "united-states/california/los-angeles",
+      "slug": "/united-states/california/los-angeles",
       "city": "Los Angeles",
       "A2": "California",
       "country": "United States",
@@ -2171,7 +2171,7 @@ const CITIES = [
     },
     {
       "popularity": 219,
-      "slug": "japan/naha",
+      "slug": "/japan/naha",
       "city": "Naha",
       "A2": "Okinawa",
       "country": "Japan",
@@ -2181,7 +2181,7 @@ const CITIES = [
     },
     {
       "popularity": 220,
-      "slug": "indonesia/cirebon",
+      "slug": "/indonesia/cirebon",
       "city": "Cirebon",
       "A2": "Jawa Barat",
       "country": "Indonesia",
@@ -2191,7 +2191,7 @@ const CITIES = [
     },
     {
       "popularity": 221,
-      "slug": "indonesia/palembang",
+      "slug": "/indonesia/palembang",
       "city": "Palembang",
       "A2": "Sumatera Selatan",
       "country": "Indonesia",
@@ -2201,7 +2201,7 @@ const CITIES = [
     },
     {
       "popularity": 222,
-      "slug": "mexico/guanajuato",
+      "slug": "/mexico/guanajuato",
       "city": "Guanajuato",
       "A2": "Guanajuato",
       "country": "Mexico",
@@ -2211,7 +2211,7 @@ const CITIES = [
     },
     {
       "popularity": 223,
-      "slug": "japan/kota",
+      "slug": "/japan/kota",
       "city": "Kota",
       "A2": "Aichi",
       "country": "Japan",
@@ -2221,7 +2221,7 @@ const CITIES = [
     },
     {
       "popularity": 224,
-      "slug": "netherlands/amsterdam",
+      "slug": "/netherlands/amsterdam",
       "city": "Amsterdam",
       "A2": "Noord Holland",
       "country": "Netherlands",
@@ -2231,7 +2231,7 @@ const CITIES = [
     },
     {
       "popularity": 225,
-      "slug": "turkey/ankara",
+      "slug": "/turkey/ankara",
       "city": "Ankara",
       "A2": "Ankara",
       "country": "Turkey",
@@ -2241,7 +2241,7 @@ const CITIES = [
     },
     {
       "popularity": 226,
-      "slug": "united-states/wisconsin/madison",
+      "slug": "/united-states/wisconsin/madison",
       "city": "Madison",
       "A2": "Wisconsin",
       "country": "United States",
@@ -2251,7 +2251,7 @@ const CITIES = [
     },
     {
       "popularity": 227,
-      "slug": "united-states/texas/killeen",
+      "slug": "/united-states/texas/killeen",
       "city": "Killeen",
       "A2": "Texas",
       "country": "United States",
@@ -2261,7 +2261,7 @@ const CITIES = [
     },
     {
       "popularity": 228,
-      "slug": "united-states/nebraska/lincoln",
+      "slug": "/united-states/nebraska/lincoln",
       "city": "Lincoln",
       "A2": "Nebraska",
       "country": "United States",
@@ -2271,7 +2271,7 @@ const CITIES = [
     },
     {
       "popularity": 229,
-      "slug": "united-states/michigan/battle-creek",
+      "slug": "/united-states/michigan/battle-creek",
       "city": "Battle Creek",
       "A2": "Michigan",
       "country": "United States",
@@ -2281,7 +2281,7 @@ const CITIES = [
     },
     {
       "popularity": 230,
-      "slug": "egypt/luxor",
+      "slug": "/egypt/luxor",
       "city": "Luxor",
       "A2": "Al Uqşur",
       "country": "Egypt",
@@ -2291,7 +2291,7 @@ const CITIES = [
     },
     {
       "popularity": 231,
-      "slug": "finland/helsinki",
+      "slug": "/finland/helsinki",
       "city": "Helsinki",
       "A2": "Uusimaa",
       "country": "Finland",
@@ -2301,7 +2301,7 @@ const CITIES = [
     },
     {
       "popularity": 232,
-      "slug": "united-states/north-carolina/raleigh",
+      "slug": "/united-states/north-carolina/raleigh",
       "city": "Raleigh",
       "A2": "North Carolina",
       "country": "United States",
@@ -2311,7 +2311,7 @@ const CITIES = [
     },
     {
       "popularity": 233,
-      "slug": "united-states/massachusetts/boston",
+      "slug": "/united-states/massachusetts/boston",
       "city": "Boston",
       "A2": "Massachusetts",
       "country": "United States",
@@ -2321,7 +2321,7 @@ const CITIES = [
     },
     {
       "popularity": 234,
-      "slug": "united-states/iowa/davenport",
+      "slug": "/united-states/iowa/davenport",
       "city": "Davenport",
       "A2": "Iowa",
       "country": "United States",
@@ -2331,7 +2331,7 @@ const CITIES = [
     },
     {
       "popularity": 235,
-      "slug": "finland/tampere",
+      "slug": "/finland/tampere",
       "city": "Tampere",
       "A2": "Pirkanmaa",
       "country": "Finland",
@@ -2341,7 +2341,7 @@ const CITIES = [
     },
     {
       "popularity": 236,
-      "slug": "india/nagpur",
+      "slug": "/india/nagpur",
       "city": "Nagpur",
       "A2": "Mahārāshtra",
       "country": "India",
@@ -2351,7 +2351,7 @@ const CITIES = [
     },
     {
       "popularity": 237,
-      "slug": "united-states/texas/tyler",
+      "slug": "/united-states/texas/tyler",
       "city": "Tyler",
       "A2": "Texas",
       "country": "United States",
@@ -2361,7 +2361,7 @@ const CITIES = [
     },
     {
       "popularity": 238,
-      "slug": "united-states/texas/port-arthur",
+      "slug": "/united-states/texas/port-arthur",
       "city": "Port Arthur",
       "A2": "Texas",
       "country": "United States",
@@ -2371,7 +2371,7 @@ const CITIES = [
     },
     {
       "popularity": 239,
-      "slug": "india/ludhiana",
+      "slug": "/india/ludhiana",
       "city": "Ludhiana",
       "A2": "Punjab",
       "country": "India",
@@ -2381,7 +2381,7 @@ const CITIES = [
     },
     {
       "popularity": 240,
-      "slug": "united-states/california/san-diego",
+      "slug": "/united-states/california/san-diego",
       "city": "San Diego",
       "A2": "California",
       "country": "United States",
@@ -2391,7 +2391,7 @@ const CITIES = [
     },
     {
       "popularity": 241,
-      "slug": "united-states/district-of-columbia/washington",
+      "slug": "/united-states/district-of-columbia/washington",
       "city": "Washington",
       "A2": "District of Columbia",
       "country": "United States",
@@ -2401,7 +2401,7 @@ const CITIES = [
     },
     {
       "popularity": 242,
-      "slug": "romania/iasi",
+      "slug": "/romania/iasi",
       "city": "Iasi",
       "A2": "Iaşi",
       "country": "Romania",
@@ -2411,7 +2411,7 @@ const CITIES = [
     },
     {
       "popularity": 243,
-      "slug": "mexico/hermosillo",
+      "slug": "/mexico/hermosillo",
       "city": "Hermosillo",
       "A2": "Sonora",
       "country": "Mexico",
@@ -2421,7 +2421,7 @@ const CITIES = [
     },
     {
       "popularity": 244,
-      "slug": "india/patna",
+      "slug": "/india/patna",
       "city": "Patna",
       "A2": "Bihār",
       "country": "India",
@@ -2431,7 +2431,7 @@ const CITIES = [
     },
     {
       "popularity": 245,
-      "slug": "indonesia/surakarta",
+      "slug": "/indonesia/surakarta",
       "city": "Surakarta",
       "A2": "Jawa Tengah",
       "country": "Indonesia",
@@ -2441,7 +2441,7 @@ const CITIES = [
     },
     {
       "popularity": 246,
-      "slug": "united-states/texas/longview",
+      "slug": "/united-states/texas/longview",
       "city": "Longview",
       "A2": "Texas",
       "country": "United States",
@@ -2451,7 +2451,7 @@ const CITIES = [
     },
     {
       "popularity": 247,
-      "slug": "canada/windsor",
+      "slug": "/canada/windsor",
       "city": "Windsor",
       "A2": "Ontario",
       "country": "Canada",
@@ -2461,7 +2461,7 @@ const CITIES = [
     },
     {
       "popularity": 248,
-      "slug": "germany/aachen",
+      "slug": "/germany/aachen",
       "city": "Aachen",
       "A2": "North Rhine Westphalia",
       "country": "Germany",
@@ -2471,7 +2471,7 @@ const CITIES = [
     },
     {
       "popularity": 249,
-      "slug": "united-states/virginia/richmond",
+      "slug": "/united-states/virginia/richmond",
       "city": "Richmond",
       "A2": "Virginia",
       "country": "United States",
@@ -2481,7 +2481,7 @@ const CITIES = [
     },
     {
       "popularity": 250,
-      "slug": "united-states/arizona/yuma",
+      "slug": "/united-states/arizona/yuma",
       "city": "Yuma",
       "A2": "Arizona",
       "country": "United States",
@@ -2491,7 +2491,7 @@ const CITIES = [
     },
     {
       "popularity": 251,
-      "slug": "united-states/georgia/valdosta",
+      "slug": "/united-states/georgia/valdosta",
       "city": "Valdosta",
       "A2": "Georgia",
       "country": "United States",
@@ -2501,7 +2501,7 @@ const CITIES = [
     },
     {
       "popularity": 252,
-      "slug": "brazil/natal",
+      "slug": "/brazil/natal",
       "city": "Natal",
       "A2": "Amazonas",
       "country": "Brazil",
@@ -2511,7 +2511,7 @@ const CITIES = [
     },
     {
       "popularity": 253,
-      "slug": "south-africa/queenstown",
+      "slug": "/south-africa/queenstown",
       "city": "Queenstown",
       "A2": "Eastern Cape",
       "country": "South Africa",
@@ -2521,7 +2521,7 @@ const CITIES = [
     },
     {
       "popularity": 254,
-      "slug": "united-states/oregon/portland",
+      "slug": "/united-states/oregon/portland",
       "city": "Portland",
       "A2": "Oregon",
       "country": "United States",
@@ -2531,7 +2531,7 @@ const CITIES = [
     },
     {
       "popularity": 255,
-      "slug": "panama/panama-city",
+      "slug": "/panama/panama-city",
       "city": "Panama City",
       "A2": "Panamá",
       "country": "Panama",
@@ -2541,7 +2541,7 @@ const CITIES = [
     },
     {
       "popularity": 256,
-      "slug": "indonesia/semarang",
+      "slug": "/indonesia/semarang",
       "city": "Semarang",
       "A2": "Jawa Tengah",
       "country": "Indonesia",
@@ -2551,7 +2551,7 @@ const CITIES = [
     },
     {
       "popularity": 257,
-      "slug": "united-states/kentucky/owensboro",
+      "slug": "/united-states/kentucky/owensboro",
       "city": "Owensboro",
       "A2": "Kentucky",
       "country": "United States",
@@ -2561,7 +2561,7 @@ const CITIES = [
     },
     {
       "popularity": 258,
-      "slug": "united-states/tennessee/nashville",
+      "slug": "/united-states/tennessee/nashville",
       "city": "Nashville",
       "A2": "Tennessee",
       "country": "United States",
@@ -2571,7 +2571,7 @@ const CITIES = [
     },
     {
       "popularity": 259,
-      "slug": "united-states/tennessee/knoxville",
+      "slug": "/united-states/tennessee/knoxville",
       "city": "Knoxville",
       "A2": "Tennessee",
       "country": "United States",
@@ -2581,7 +2581,7 @@ const CITIES = [
     },
     {
       "popularity": 260,
-      "slug": "indonesia/makassar",
+      "slug": "/indonesia/makassar",
       "city": "Makassar",
       "A2": "Sulawesi Selatan",
       "country": "Indonesia",
@@ -2591,7 +2591,7 @@ const CITIES = [
     },
     {
       "popularity": 261,
-      "slug": "canada/burlington",
+      "slug": "/canada/burlington",
       "city": "Burlington",
       "A2": "Ontario",
       "country": "Canada",
@@ -2601,7 +2601,7 @@ const CITIES = [
     },
     {
       "popularity": 262,
-      "slug": "finland/turku",
+      "slug": "/finland/turku",
       "city": "Turku",
       "A2": "Varsinais Suomi",
       "country": "Finland",
@@ -2611,7 +2611,7 @@ const CITIES = [
     },
     {
       "popularity": 263,
-      "slug": "peru/arequipa",
+      "slug": "/peru/arequipa",
       "city": "Arequipa",
       "A2": "Arequipa",
       "country": "Peru",
@@ -2621,7 +2621,7 @@ const CITIES = [
     },
     {
       "popularity": 264,
-      "slug": "india/kalyan",
+      "slug": "/india/kalyan",
       "city": "Kalyan",
       "A2": "Mahārāshtra",
       "country": "India",
@@ -2631,7 +2631,7 @@ const CITIES = [
     },
     {
       "popularity": 265,
-      "slug": "united-states/indiana/indianapolis",
+      "slug": "/united-states/indiana/indianapolis",
       "city": "Indianapolis",
       "A2": "Indiana",
       "country": "United States",
@@ -2641,7 +2641,7 @@ const CITIES = [
     },
     {
       "popularity": 266,
-      "slug": "united-states/pennsylvania/pittsburgh",
+      "slug": "/united-states/pennsylvania/pittsburgh",
       "city": "Pittsburgh",
       "A2": "Pennsylvania",
       "country": "United States",
@@ -2651,7 +2651,7 @@ const CITIES = [
     },
     {
       "popularity": 267,
-      "slug": "indonesia/medan",
+      "slug": "/indonesia/medan",
       "city": "Medan",
       "A2": "Sumatera Utara",
       "country": "Indonesia",
@@ -2661,7 +2661,7 @@ const CITIES = [
     },
     {
       "popularity": 268,
-      "slug": "netherlands/leiden",
+      "slug": "/netherlands/leiden",
       "city": "Leiden",
       "A2": "Zuid Holland",
       "country": "Netherlands",
@@ -2671,7 +2671,7 @@ const CITIES = [
     },
     {
       "popularity": 269,
-      "slug": "canada/kitchener",
+      "slug": "/canada/kitchener",
       "city": "Kitchener",
       "A2": "Ontario",
       "country": "Canada",
@@ -2681,7 +2681,7 @@ const CITIES = [
     },
     {
       "popularity": 270,
-      "slug": "czechia/prague",
+      "slug": "/czechia/prague",
       "city": "Prague",
       "A2": "Praha, Hlavní Město",
       "country": "Czechia",
@@ -2691,7 +2691,7 @@ const CITIES = [
     },
     {
       "popularity": 271,
-      "slug": "united-states/new-mexico/las-cruces",
+      "slug": "/united-states/new-mexico/las-cruces",
       "city": "Las Cruces",
       "A2": "New Mexico",
       "country": "United States",
@@ -2701,7 +2701,7 @@ const CITIES = [
     },
     {
       "popularity": 272,
-      "slug": "united-states/texas/mcallen",
+      "slug": "/united-states/texas/mcallen",
       "city": "Mcallen",
       "A2": "Texas",
       "country": "United States",
@@ -2711,7 +2711,7 @@ const CITIES = [
     },
     {
       "popularity": 273,
-      "slug": "united-kingdom/bedford",
+      "slug": "/united-kingdom/bedford",
       "city": "Bedford",
       "A2": "Bedford",
       "country": "United Kingdom",
@@ -2721,7 +2721,7 @@ const CITIES = [
     },
     {
       "popularity": 274,
-      "slug": "thailand/chiang-rai",
+      "slug": "/thailand/chiang-rai",
       "city": "Chiang Rai",
       "A2": "Chiang Rai",
       "country": "Thailand",
@@ -2731,7 +2731,7 @@ const CITIES = [
     },
     {
       "popularity": 275,
-      "slug": "croatia/osijek",
+      "slug": "/croatia/osijek",
       "city": "Osijek",
       "A2": "Osječko Baranjska Županija",
       "country": "Croatia",
@@ -2741,7 +2741,7 @@ const CITIES = [
     },
     {
       "popularity": 276,
-      "slug": "indonesia/mataram",
+      "slug": "/indonesia/mataram",
       "city": "Mataram",
       "A2": "Nusa Tenggara Barat",
       "country": "Indonesia",
@@ -2751,7 +2751,7 @@ const CITIES = [
     },
     {
       "popularity": 277,
-      "slug": "slovakia/kosice",
+      "slug": "/slovakia/kosice",
       "city": "Kosice",
       "A2": "Košický",
       "country": "Slovakia",
@@ -2761,7 +2761,7 @@ const CITIES = [
     },
     {
       "popularity": 278,
-      "slug": "united-states/texas/bryan",
+      "slug": "/united-states/texas/bryan",
       "city": "Bryan",
       "A2": "Texas",
       "country": "United States",
@@ -2771,7 +2771,7 @@ const CITIES = [
     },
     {
       "popularity": 279,
-      "slug": "dominican-republic/santo-domingo",
+      "slug": "/dominican-republic/santo-domingo",
       "city": "Santo Domingo",
       "A2": "Ozama",
       "country": "Dominican Republic",
@@ -2781,7 +2781,7 @@ const CITIES = [
     },
     {
       "popularity": 280,
-      "slug": "canada/saskatoon",
+      "slug": "/canada/saskatoon",
       "city": "Saskatoon",
       "A2": "Saskatchewan",
       "country": "Canada",
@@ -2791,7 +2791,7 @@ const CITIES = [
     },
     {
       "popularity": 281,
-      "slug": "bosnia-and-herzegovina/banja-luka",
+      "slug": "/bosnia-and-herzegovina/banja-luka",
       "city": "Banja Luka",
       "A2": "Srpska, Republika",
       "country": "Bosnia And Herzegovina",
@@ -2801,7 +2801,7 @@ const CITIES = [
     },
     {
       "popularity": 282,
-      "slug": "united-states/texas/amarillo",
+      "slug": "/united-states/texas/amarillo",
       "city": "Amarillo",
       "A2": "Texas",
       "country": "United States",
@@ -2811,7 +2811,7 @@ const CITIES = [
     },
     {
       "popularity": 283,
-      "slug": "thailand/ko-samui",
+      "slug": "/thailand/ko-samui",
       "city": "Ko Samui",
       "A2": "Surat Thani",
       "country": "Thailand",
@@ -2821,7 +2821,7 @@ const CITIES = [
     },
     {
       "popularity": 284,
-      "slug": "united-states/california/chico",
+      "slug": "/united-states/california/chico",
       "city": "Chico",
       "A2": "California",
       "country": "United States",
@@ -2831,7 +2831,7 @@ const CITIES = [
     },
     {
       "popularity": 285,
-      "slug": "united-states/louisiana/new-orleans",
+      "slug": "/united-states/louisiana/new-orleans",
       "city": "New Orleans",
       "A2": "Louisiana",
       "country": "United States",
@@ -2841,7 +2841,7 @@ const CITIES = [
     },
     {
       "popularity": 286,
-      "slug": "canada/chatham",
+      "slug": "/canada/chatham",
       "city": "Chatham",
       "A2": "Ontario",
       "country": "Canada",
@@ -2851,7 +2851,7 @@ const CITIES = [
     },
     {
       "popularity": 287,
-      "slug": "brazil/curitiba",
+      "slug": "/brazil/curitiba",
       "city": "Curitiba",
       "A2": "Paraná",
       "country": "Brazil",
@@ -2861,7 +2861,7 @@ const CITIES = [
     },
     {
       "popularity": 288,
-      "slug": "united-states/louisiana/bossier-city",
+      "slug": "/united-states/louisiana/bossier-city",
       "city": "Bossier City",
       "A2": "Louisiana",
       "country": "United States",
@@ -2871,7 +2871,7 @@ const CITIES = [
     },
     {
       "popularity": 289,
-      "slug": "united-states/missouri/joplin",
+      "slug": "/united-states/missouri/joplin",
       "city": "Joplin",
       "A2": "Missouri",
       "country": "United States",
@@ -2881,7 +2881,7 @@ const CITIES = [
     },
     {
       "popularity": 290,
-      "slug": "bolivia/santa-cruz",
+      "slug": "/bolivia/santa-cruz",
       "city": "Santa Cruz",
       "A2": "Santa Cruz",
       "country": "Bolivia",
@@ -2891,7 +2891,7 @@ const CITIES = [
     },
     {
       "popularity": 291,
-      "slug": "united-states/texas/odessa",
+      "slug": "/united-states/texas/odessa",
       "city": "Odessa",
       "A2": "Texas",
       "country": "United States",
@@ -2901,7 +2901,7 @@ const CITIES = [
     },
     {
       "popularity": 292,
-      "slug": "canada/regina",
+      "slug": "/canada/regina",
       "city": "Regina",
       "A2": "Saskatchewan",
       "country": "Canada",
@@ -2911,7 +2911,7 @@ const CITIES = [
     },
     {
       "popularity": 293,
-      "slug": "georgia/gori",
+      "slug": "/georgia/gori",
       "city": "Gori",
       "A2": "Shida Kartli",
       "country": "Georgia",
@@ -2921,7 +2921,7 @@ const CITIES = [
     },
     {
       "popularity": 294,
-      "slug": "united-states/indiana/muncie",
+      "slug": "/united-states/indiana/muncie",
       "city": "Muncie",
       "A2": "Indiana",
       "country": "United States",
@@ -2931,7 +2931,7 @@ const CITIES = [
     },
     {
       "popularity": 295,
-      "slug": "france/montpellier",
+      "slug": "/france/montpellier",
       "city": "Montpellier",
       "A2": "Occitanie",
       "country": "France",
@@ -2941,7 +2941,7 @@ const CITIES = [
     },
     {
       "popularity": 296,
-      "slug": "argentina/rosario",
+      "slug": "/argentina/rosario",
       "city": "Rosario",
       "A2": "Santa Fe",
       "country": "Argentina",
@@ -2951,7 +2951,7 @@ const CITIES = [
     },
     {
       "popularity": 297,
-      "slug": "canada/victoria",
+      "slug": "/canada/victoria",
       "city": "Victoria",
       "A2": "British Columbia",
       "country": "Canada",
@@ -2961,7 +2961,7 @@ const CITIES = [
     },
     {
       "popularity": 298,
-      "slug": "united-states/indiana/evansville",
+      "slug": "/united-states/indiana/evansville",
       "city": "Evansville",
       "A2": "Indiana",
       "country": "United States",
@@ -2971,7 +2971,7 @@ const CITIES = [
     },
     {
       "popularity": 299,
-      "slug": "bolivia/la-paz",
+      "slug": "/bolivia/la-paz",
       "city": "La Paz",
       "A2": "La Paz",
       "country": "Bolivia",
@@ -2981,7 +2981,7 @@ const CITIES = [
     },
     {
       "popularity": 300,
-      "slug": "sweden/gothenburg",
+      "slug": "/sweden/gothenburg",
       "city": "Gothenburg",
       "A2": "Västra Götaland",
       "country": "Sweden",
@@ -2991,7 +2991,7 @@ const CITIES = [
     },
     {
       "popularity": 301,
-      "slug": "united-states/washington/seattle",
+      "slug": "/united-states/washington/seattle",
       "city": "Seattle",
       "A2": "Washington",
       "country": "United States",
@@ -3001,7 +3001,7 @@ const CITIES = [
     },
     {
       "popularity": 302,
-      "slug": "canada/surrey",
+      "slug": "/canada/surrey",
       "city": "Surrey",
       "A2": "British Columbia",
       "country": "Canada",
@@ -3011,7 +3011,7 @@ const CITIES = [
     },
     {
       "popularity": 303,
-      "slug": "thailand/udon-thani",
+      "slug": "/thailand/udon-thani",
       "city": "Udon Thani",
       "A2": "Udon Thani",
       "country": "Thailand",
@@ -3021,7 +3021,7 @@ const CITIES = [
     },
     {
       "popularity": 304,
-      "slug": "united-states/virginia/norfolk",
+      "slug": "/united-states/virginia/norfolk",
       "city": "Norfolk",
       "A2": "Virginia",
       "country": "United States",
@@ -3031,7 +3031,7 @@ const CITIES = [
     },
     {
       "popularity": 305,
-      "slug": "united-states/oklahoma/oklahoma-city",
+      "slug": "/united-states/oklahoma/oklahoma-city",
       "city": "Oklahoma City",
       "A2": "Oklahoma",
       "country": "United States",
@@ -3041,7 +3041,7 @@ const CITIES = [
     },
     {
       "popularity": 306,
-      "slug": "canada/victoria",
+      "slug": "/canada/victoria",
       "city": "Victoria",
       "A2": "British Columbia",
       "country": "Canada",
@@ -3051,7 +3051,7 @@ const CITIES = [
     },
     {
       "popularity": 307,
-      "slug": "morocco/fes",
+      "slug": "/morocco/fes",
       "city": "Fes",
       "A2": "Fès Meknès",
       "country": "Morocco",
@@ -3061,7 +3061,7 @@ const CITIES = [
     },
     {
       "popularity": 308,
-      "slug": "united-states/new-york/rochester",
+      "slug": "/united-states/new-york/rochester",
       "city": "Rochester",
       "A2": "New York",
       "country": "United States",
@@ -3071,7 +3071,7 @@ const CITIES = [
     },
     {
       "popularity": 309,
-      "slug": "united-states/illinois/elgin",
+      "slug": "/united-states/illinois/elgin",
       "city": "Elgin",
       "A2": "Illinois",
       "country": "United States",
@@ -3081,7 +3081,7 @@ const CITIES = [
     },
     {
       "popularity": 310,
-      "slug": "united-states/florida/palm-coast",
+      "slug": "/united-states/florida/palm-coast",
       "city": "Palm Coast",
       "A2": "Florida",
       "country": "United States",
@@ -3091,7 +3091,7 @@ const CITIES = [
     },
     {
       "popularity": 311,
-      "slug": "united-states/colorado/denver",
+      "slug": "/united-states/colorado/denver",
       "city": "Denver",
       "A2": "Colorado",
       "country": "United States",
@@ -3101,7 +3101,7 @@ const CITIES = [
     },
     {
       "popularity": 312,
-      "slug": "united-states/colorado/aurora",
+      "slug": "/united-states/colorado/aurora",
       "city": "Aurora",
       "A2": "Colorado",
       "country": "United States",
@@ -3111,7 +3111,7 @@ const CITIES = [
     },
     {
       "popularity": 313,
-      "slug": "united-states/texas/laredo",
+      "slug": "/united-states/texas/laredo",
       "city": "Laredo",
       "A2": "Texas",
       "country": "United States",
@@ -3121,7 +3121,7 @@ const CITIES = [
     },
     {
       "popularity": 314,
-      "slug": "india/kolkata",
+      "slug": "/india/kolkata",
       "city": "Kolkata",
       "A2": "West Bengal",
       "country": "India",
@@ -3131,7 +3131,7 @@ const CITIES = [
     },
     {
       "popularity": 315,
-      "slug": "united-states/indiana/elkhart",
+      "slug": "/united-states/indiana/elkhart",
       "city": "Elkhart",
       "A2": "Indiana",
       "country": "United States",
@@ -3141,7 +3141,7 @@ const CITIES = [
     },
     {
       "popularity": 316,
-      "slug": "kenya/mombasa",
+      "slug": "/kenya/mombasa",
       "city": "Mombasa",
       "A2": "Mombasa",
       "country": "Kenya",
@@ -3151,7 +3151,7 @@ const CITIES = [
     },
     {
       "popularity": 317,
-      "slug": "united-states/north-carolina/rocky-mount",
+      "slug": "/united-states/north-carolina/rocky-mount",
       "city": "Rocky Mount",
       "A2": "North Carolina",
       "country": "United States",
@@ -3161,7 +3161,7 @@ const CITIES = [
     },
     {
       "popularity": 318,
-      "slug": "mexico/monterrey",
+      "slug": "/mexico/monterrey",
       "city": "Monterrey",
       "A2": "Nuevo León",
       "country": "Mexico",
@@ -3171,7 +3171,7 @@ const CITIES = [
     },
     {
       "popularity": 319,
-      "slug": "united-states/texas/mission",
+      "slug": "/united-states/texas/mission",
       "city": "Mission",
       "A2": "Texas",
       "country": "United States",
@@ -3181,7 +3181,7 @@ const CITIES = [
     },
     {
       "popularity": 320,
-      "slug": "united-kingdom/birmingham",
+      "slug": "/united-kingdom/birmingham",
       "city": "Birmingham",
       "A2": "Birmingham",
       "country": "United Kingdom",
@@ -3191,7 +3191,7 @@ const CITIES = [
     },
     {
       "popularity": 321,
-      "slug": "venezuela/valencia",
+      "slug": "/venezuela/valencia",
       "city": "Valencia",
       "A2": "Carabobo",
       "country": "Venezuela",
@@ -3201,7 +3201,7 @@ const CITIES = [
     },
     {
       "popularity": 322,
-      "slug": "united-states/california/san-francisco",
+      "slug": "/united-states/california/san-francisco",
       "city": "San Francisco",
       "A2": "California",
       "country": "United States",
@@ -3211,7 +3211,7 @@ const CITIES = [
     },
     {
       "popularity": 323,
-      "slug": "united-kingdom/leicester",
+      "slug": "/united-kingdom/leicester",
       "city": "Leicester",
       "A2": "Leicester",
       "country": "United Kingdom",
@@ -3221,7 +3221,7 @@ const CITIES = [
     },
     {
       "popularity": 324,
-      "slug": "united-states/louisiana/lafayette",
+      "slug": "/united-states/louisiana/lafayette",
       "city": "Lafayette",
       "A2": "Louisiana",
       "country": "United States",
@@ -3231,7 +3231,7 @@ const CITIES = [
     },
     {
       "popularity": 325,
-      "slug": "turkey/gaziantep",
+      "slug": "/turkey/gaziantep",
       "city": "Gaziantep",
       "A2": "Gaziantep",
       "country": "Turkey",
@@ -3241,7 +3241,7 @@ const CITIES = [
     },
     {
       "popularity": 326,
-      "slug": "namibia/windhoek",
+      "slug": "/namibia/windhoek",
       "city": "Windhoek",
       "A2": "Khomas",
       "country": "Namibia",
@@ -3251,7 +3251,7 @@ const CITIES = [
     },
     {
       "popularity": 327,
-      "slug": "united-states/idaho/boise",
+      "slug": "/united-states/idaho/boise",
       "city": "Boise",
       "A2": "Idaho",
       "country": "United States",
@@ -3261,7 +3261,7 @@ const CITIES = [
     },
     {
       "popularity": 328,
-      "slug": "united-states/florida/miami",
+      "slug": "/united-states/florida/miami",
       "city": "Miami",
       "A2": "Florida",
       "country": "United States",
@@ -3271,7 +3271,7 @@ const CITIES = [
     },
     {
       "popularity": 329,
-      "slug": "united-states/pennsylvania/lancaster",
+      "slug": "/united-states/pennsylvania/lancaster",
       "city": "Lancaster",
       "A2": "Pennsylvania",
       "country": "United States",
@@ -3281,7 +3281,7 @@ const CITIES = [
     },
     {
       "popularity": 330,
-      "slug": "senegal/dakar",
+      "slug": "/senegal/dakar",
       "city": "Dakar",
       "A2": "Dakar",
       "country": "Senegal",
@@ -3291,7 +3291,7 @@ const CITIES = [
     },
     {
       "popularity": 331,
-      "slug": "south-korea/daejeon",
+      "slug": "/south-korea/daejeon",
       "city": "Daejeon",
       "A2": "Daejeon",
       "country": "South Korea",
@@ -3301,7 +3301,7 @@ const CITIES = [
     },
     {
       "popularity": 332,
-      "slug": "united-states/oregon/salem",
+      "slug": "/united-states/oregon/salem",
       "city": "Salem",
       "A2": "Oregon",
       "country": "United States",
@@ -3311,7 +3311,7 @@ const CITIES = [
     },
     {
       "popularity": 333,
-      "slug": "united-states/tennessee/kingsport",
+      "slug": "/united-states/tennessee/kingsport",
       "city": "Kingsport",
       "A2": "Tennessee",
       "country": "United States",
@@ -3321,7 +3321,7 @@ const CITIES = [
     },
     {
       "popularity": 334,
-      "slug": "brazil/goiania",
+      "slug": "/brazil/goiania",
       "city": "Goiania",
       "A2": "Goiás",
       "country": "Brazil",
@@ -3331,7 +3331,7 @@ const CITIES = [
     },
     {
       "popularity": 335,
-      "slug": "uganda/kampala",
+      "slug": "/uganda/kampala",
       "city": "Kampala",
       "A2": "Kampala",
       "country": "Uganda",
@@ -3341,7 +3341,7 @@ const CITIES = [
     },
     {
       "popularity": 336,
-      "slug": "mexico/san-miguel-de-allende",
+      "slug": "/mexico/san-miguel-de-allende",
       "city": "San Miguel De Allende",
       "A2": "Guanajuato",
       "country": "Mexico",
@@ -3351,7 +3351,7 @@ const CITIES = [
     },
     {
       "popularity": 337,
-      "slug": "nigeria/kaduna",
+      "slug": "/nigeria/kaduna",
       "city": "Kaduna",
       "A2": "Kaduna",
       "country": "Nigeria",
@@ -3361,7 +3361,7 @@ const CITIES = [
     },
     {
       "popularity": 338,
-      "slug": "united-states/michigan/grand-rapids",
+      "slug": "/united-states/michigan/grand-rapids",
       "city": "Grand Rapids",
       "A2": "Michigan",
       "country": "United States",
@@ -3371,7 +3371,7 @@ const CITIES = [
     },
     {
       "popularity": 339,
-      "slug": "united-states/north-dakota/fargo",
+      "slug": "/united-states/north-dakota/fargo",
       "city": "Fargo",
       "A2": "North Dakota",
       "country": "United States",
@@ -3381,7 +3381,7 @@ const CITIES = [
     },
     {
       "popularity": 340,
-      "slug": "georgia/batumi",
+      "slug": "/georgia/batumi",
       "city": "Batumi",
       "A2": "Ajaria",
       "country": "Georgia",
@@ -3391,7 +3391,7 @@ const CITIES = [
     },
     {
       "popularity": 341,
-      "slug": "united-states/arkansas/fort-smith",
+      "slug": "/united-states/arkansas/fort-smith",
       "city": "Fort Smith",
       "A2": "Arkansas",
       "country": "United States",
@@ -3401,7 +3401,7 @@ const CITIES = [
     },
     {
       "popularity": 342,
-      "slug": "united-states/arkansas/conway",
+      "slug": "/united-states/arkansas/conway",
       "city": "Conway",
       "A2": "Arkansas",
       "country": "United States",
@@ -3411,7 +3411,7 @@ const CITIES = [
     },
     {
       "popularity": 343,
-      "slug": "bolivia/cochabamba",
+      "slug": "/bolivia/cochabamba",
       "city": "Cochabamba",
       "A2": "Cochabamba",
       "country": "Bolivia",
@@ -3421,7 +3421,7 @@ const CITIES = [
     },
     {
       "popularity": 344,
-      "slug": "united-states/indiana/fort-wayne",
+      "slug": "/united-states/indiana/fort-wayne",
       "city": "Fort Wayne",
       "A2": "Indiana",
       "country": "United States",
@@ -3431,7 +3431,7 @@ const CITIES = [
     },
     {
       "popularity": 345,
-      "slug": "united-states/texas/college-station",
+      "slug": "/united-states/texas/college-station",
       "city": "College Station",
       "A2": "Texas",
       "country": "United States",
@@ -3441,7 +3441,7 @@ const CITIES = [
     },
     {
       "popularity": 346,
-      "slug": "pakistan/lahore",
+      "slug": "/pakistan/lahore",
       "city": "Lahore",
       "A2": "Punjab",
       "country": "Pakistan",
@@ -3451,7 +3451,7 @@ const CITIES = [
     },
     {
       "popularity": 347,
-      "slug": "united-states/washington/pasco",
+      "slug": "/united-states/washington/pasco",
       "city": "Pasco",
       "A2": "Washington",
       "country": "United States",
@@ -3461,7 +3461,7 @@ const CITIES = [
     },
     {
       "popularity": 348,
-      "slug": "united-states/alabama/hoover",
+      "slug": "/united-states/alabama/hoover",
       "city": "Hoover",
       "A2": "Alabama",
       "country": "United States",
@@ -3471,7 +3471,7 @@ const CITIES = [
     },
     {
       "popularity": 349,
-      "slug": "guatemala/guatemala-city",
+      "slug": "/guatemala/guatemala-city",
       "city": "Guatemala City",
       "A2": "Guatemala",
       "country": "Guatemala",
@@ -3481,7 +3481,7 @@ const CITIES = [
     },
     {
       "popularity": 350,
-      "slug": "united-states/texas/edinburg",
+      "slug": "/united-states/texas/edinburg",
       "city": "Edinburg",
       "A2": "Texas",
       "country": "United States",
@@ -3491,7 +3491,7 @@ const CITIES = [
     },
     {
       "popularity": 351,
-      "slug": "united-states/texas/temple",
+      "slug": "/united-states/texas/temple",
       "city": "Temple",
       "A2": "Texas",
       "country": "United States",
@@ -3501,7 +3501,7 @@ const CITIES = [
     },
     {
       "popularity": 352,
-      "slug": "united-states/oklahoma/lawton",
+      "slug": "/united-states/oklahoma/lawton",
       "city": "Lawton",
       "A2": "Oklahoma",
       "country": "United States",
@@ -3511,7 +3511,7 @@ const CITIES = [
     },
     {
       "popularity": 353,
-      "slug": "tunisia/tunis",
+      "slug": "/tunisia/tunis",
       "city": "Tunis",
       "A2": "Tunis",
       "country": "Tunisia",
@@ -3521,7 +3521,7 @@ const CITIES = [
     },
     {
       "popularity": 354,
-      "slug": "egypt/giza",
+      "slug": "/egypt/giza",
       "city": "Giza",
       "A2": "Al Jīzah",
       "country": "Egypt",
@@ -3531,7 +3531,7 @@ const CITIES = [
     },
     {
       "popularity": 355,
-      "slug": "brazil/belem",
+      "slug": "/brazil/belem",
       "city": "Belem",
       "A2": "Pará",
       "country": "Brazil",
@@ -3541,7 +3541,7 @@ const CITIES = [
     },
     {
       "popularity": 356,
-      "slug": "united-states/illinois/chicago",
+      "slug": "/united-states/illinois/chicago",
       "city": "Chicago",
       "A2": "Illinois",
       "country": "United States",
@@ -3551,7 +3551,7 @@ const CITIES = [
     },
     {
       "popularity": 357,
-      "slug": "united-kingdom/edinburgh",
+      "slug": "/united-kingdom/edinburgh",
       "city": "Edinburgh",
       "A2": "Edinburgh, City of",
       "country": "United Kingdom",
@@ -3561,7 +3561,7 @@ const CITIES = [
     },
     {
       "popularity": 358,
-      "slug": "united-states/colorado/greeley",
+      "slug": "/united-states/colorado/greeley",
       "city": "Greeley",
       "A2": "Colorado",
       "country": "United States",
@@ -3571,7 +3571,7 @@ const CITIES = [
     },
     {
       "popularity": 359,
-      "slug": "taiwan/taichung",
+      "slug": "/taiwan/taichung",
       "city": "Taichung",
       "A2": "Taichung",
       "country": "Taiwan",
@@ -3581,7 +3581,7 @@ const CITIES = [
     },
     {
       "popularity": 360,
-      "slug": "united-states/north-dakota/grand-forks",
+      "slug": "/united-states/north-dakota/grand-forks",
       "city": "Grand Forks",
       "A2": "North Dakota",
       "country": "United States",
@@ -3591,7 +3591,7 @@ const CITIES = [
     },
     {
       "popularity": 361,
-      "slug": "south-africa/durban",
+      "slug": "/south-africa/durban",
       "city": "Durban",
       "A2": "KwaZulu Natal",
       "country": "South Africa",
@@ -3601,7 +3601,7 @@ const CITIES = [
     },
     {
       "popularity": 362,
-      "slug": "united-states/north-carolina/asheville",
+      "slug": "/united-states/north-carolina/asheville",
       "city": "Asheville",
       "A2": "North Carolina",
       "country": "United States",
@@ -3611,7 +3611,7 @@ const CITIES = [
     },
     {
       "popularity": 363,
-      "slug": "united-states/arkansas/jonesboro",
+      "slug": "/united-states/arkansas/jonesboro",
       "city": "Jonesboro",
       "A2": "Arkansas",
       "country": "United States",
@@ -3621,7 +3621,7 @@ const CITIES = [
     },
     {
       "popularity": 364,
-      "slug": "united-states/oklahoma/enid",
+      "slug": "/united-states/oklahoma/enid",
       "city": "Enid",
       "A2": "Oklahoma",
       "country": "United States",
@@ -3631,7 +3631,7 @@ const CITIES = [
     },
     {
       "popularity": 365,
-      "slug": "argentina/salta",
+      "slug": "/argentina/salta",
       "city": "Salta",
       "A2": "Salta",
       "country": "Argentina",
@@ -3641,7 +3641,7 @@ const CITIES = [
     },
     {
       "popularity": 366,
-      "slug": "lithuania/kaunas",
+      "slug": "/lithuania/kaunas",
       "city": "Kaunas",
       "A2": "Kauno Miestas",
       "country": "Lithuania",
@@ -3651,7 +3651,7 @@ const CITIES = [
     },
     {
       "popularity": 367,
-      "slug": "united-states/tennessee/clarksville",
+      "slug": "/united-states/tennessee/clarksville",
       "city": "Clarksville",
       "A2": "Tennessee",
       "country": "United States",
@@ -3661,7 +3661,7 @@ const CITIES = [
     },
     {
       "popularity": 368,
-      "slug": "united-states/pennsylvania/reading",
+      "slug": "/united-states/pennsylvania/reading",
       "city": "Reading",
       "A2": "Pennsylvania",
       "country": "United States",
@@ -3671,7 +3671,7 @@ const CITIES = [
     },
     {
       "popularity": 369,
-      "slug": "united-states/new-york/albany",
+      "slug": "/united-states/new-york/albany",
       "city": "Albany",
       "A2": "New York",
       "country": "United States",
@@ -3681,7 +3681,7 @@ const CITIES = [
     },
     {
       "popularity": 370,
-      "slug": "united-states/washington/richland",
+      "slug": "/united-states/washington/richland",
       "city": "Richland",
       "A2": "Washington",
       "country": "United States",
@@ -3691,7 +3691,7 @@ const CITIES = [
     },
     {
       "popularity": 371,
-      "slug": "united-states/north-dakota/bismarck",
+      "slug": "/united-states/north-dakota/bismarck",
       "city": "Bismarck",
       "A2": "North Dakota",
       "country": "United States",
@@ -3701,7 +3701,7 @@ const CITIES = [
     },
     {
       "popularity": 372,
-      "slug": "morocco/tangier",
+      "slug": "/morocco/tangier",
       "city": "Tangier",
       "A2": "Tanger Tétouan Al Hoceïma",
       "country": "Morocco",
@@ -3711,7 +3711,7 @@ const CITIES = [
     },
     {
       "popularity": 373,
-      "slug": "united-states/florida/jacksonville",
+      "slug": "/united-states/florida/jacksonville",
       "city": "Jacksonville",
       "A2": "Florida",
       "country": "United States",
@@ -3721,7 +3721,7 @@ const CITIES = [
     },
     {
       "popularity": 374,
-      "slug": "canada/lethbridge",
+      "slug": "/canada/lethbridge",
       "city": "Lethbridge",
       "A2": "Alberta",
       "country": "Canada",
@@ -3731,7 +3731,7 @@ const CITIES = [
     },
     {
       "popularity": 375,
-      "slug": "france/nice",
+      "slug": "/france/nice",
       "city": "Nice",
       "A2": "Provence Alpes Côte d’Azur",
       "country": "France",
@@ -3741,7 +3741,7 @@ const CITIES = [
     },
     {
       "popularity": 376,
-      "slug": "china/jinan",
+      "slug": "/china/jinan",
       "city": "Jinan",
       "A2": "Shandong",
       "country": "China",
@@ -3751,7 +3751,7 @@ const CITIES = [
     },
     {
       "popularity": 377,
-      "slug": "morocco/rabat",
+      "slug": "/morocco/rabat",
       "city": "Rabat",
       "A2": "Rabat Salé Kénitra",
       "country": "Morocco",
@@ -3761,7 +3761,7 @@ const CITIES = [
     },
     {
       "popularity": 378,
-      "slug": "india/allahabad",
+      "slug": "/india/allahabad",
       "city": "Allahabad",
       "A2": "Uttar Pradesh",
       "country": "India",
@@ -3771,7 +3771,7 @@ const CITIES = [
     },
     {
       "popularity": 379,
-      "slug": "bangladesh/khulna",
+      "slug": "/bangladesh/khulna",
       "city": "Khulna",
       "A2": "Khulna",
       "country": "Bangladesh",
@@ -3781,7 +3781,7 @@ const CITIES = [
     },
     {
       "popularity": 380,
-      "slug": "united-states/california/ashland",
+      "slug": "/united-states/california/ashland",
       "city": "Ashland",
       "A2": "California",
       "country": "United States",
@@ -3791,7 +3791,7 @@ const CITIES = [
     },
     {
       "popularity": 381,
-      "slug": "mexico/tijuana",
+      "slug": "/mexico/tijuana",
       "city": "Tijuana",
       "A2": "Baja California",
       "country": "Mexico",
@@ -3801,7 +3801,7 @@ const CITIES = [
     },
     {
       "popularity": 382,
-      "slug": "united-states/idaho/idaho-falls",
+      "slug": "/united-states/idaho/idaho-falls",
       "city": "Idaho Falls",
       "A2": "Idaho",
       "country": "United States",
@@ -3811,7 +3811,7 @@ const CITIES = [
     },
     {
       "popularity": 383,
-      "slug": "china/shantou",
+      "slug": "/china/shantou",
       "city": "Shantou",
       "A2": "Guangdong",
       "country": "China",
@@ -3821,7 +3821,7 @@ const CITIES = [
     },
     {
       "popularity": 384,
-      "slug": "united-states/rhode-island/providence",
+      "slug": "/united-states/rhode-island/providence",
       "city": "Providence",
       "A2": "Rhode Island",
       "country": "United States",
@@ -3831,7 +3831,7 @@ const CITIES = [
     },
     {
       "popularity": 385,
-      "slug": "united-states/kansas/lawrence",
+      "slug": "/united-states/kansas/lawrence",
       "city": "Lawrence",
       "A2": "Kansas",
       "country": "United States",
@@ -3841,7 +3841,7 @@ const CITIES = [
     },
     {
       "popularity": 386,
-      "slug": "germany/jena",
+      "slug": "/germany/jena",
       "city": "Jena",
       "A2": "Thuringia",
       "country": "Germany",
@@ -3851,7 +3851,7 @@ const CITIES = [
     },
     {
       "popularity": 387,
-      "slug": "united-states/north-dakota/minot",
+      "slug": "/united-states/north-dakota/minot",
       "city": "Minot",
       "A2": "North Dakota",
       "country": "United States",
@@ -3861,7 +3861,7 @@ const CITIES = [
     },
     {
       "popularity": 388,
-      "slug": "south-korea/gwangju",
+      "slug": "/south-korea/gwangju",
       "city": "Gwangju",
       "A2": "Gwangju",
       "country": "South Korea",
@@ -3871,7 +3871,7 @@ const CITIES = [
     },
     {
       "popularity": 389,
-      "slug": "united-kingdom/aberdeen",
+      "slug": "/united-kingdom/aberdeen",
       "city": "Aberdeen",
       "A2": "Aberdeen City",
       "country": "United Kingdom",
@@ -3881,7 +3881,7 @@ const CITIES = [
     },
     {
       "popularity": 390,
-      "slug": "jordan/amman",
+      "slug": "/jordan/amman",
       "city": "Amman",
       "A2": "Al ‘Āşimah",
       "country": "Jordan",
@@ -3891,7 +3891,7 @@ const CITIES = [
     },
     {
       "popularity": 391,
-      "slug": "kyrgyzstan/bishkek",
+      "slug": "/kyrgyzstan/bishkek",
       "city": "Bishkek",
       "A2": "Bishkek",
       "country": "Kyrgyzstan",
@@ -3901,7 +3901,7 @@ const CITIES = [
     },
     {
       "popularity": 392,
-      "slug": "nigeria/ibadan",
+      "slug": "/nigeria/ibadan",
       "city": "Ibadan",
       "A2": "Oyo",
       "country": "Nigeria",
@@ -3911,7 +3911,7 @@ const CITIES = [
     },
     {
       "popularity": 393,
-      "slug": "united-states/texas/corpus-christi",
+      "slug": "/united-states/texas/corpus-christi",
       "city": "Corpus Christi",
       "A2": "Texas",
       "country": "United States",
@@ -3921,7 +3921,7 @@ const CITIES = [
     },
     {
       "popularity": 394,
-      "slug": "egypt/cairo",
+      "slug": "/egypt/cairo",
       "city": "Cairo",
       "A2": "Al Qāhirah",
       "country": "Egypt",
@@ -3931,7 +3931,7 @@ const CITIES = [
     },
     {
       "popularity": 395,
-      "slug": "united-states/pennsylvania/scranton",
+      "slug": "/united-states/pennsylvania/scranton",
       "city": "Scranton",
       "A2": "Pennsylvania",
       "country": "United States",
@@ -3941,7 +3941,7 @@ const CITIES = [
     },
     {
       "popularity": 396,
-      "slug": "canada/kelowna",
+      "slug": "/canada/kelowna",
       "city": "Kelowna",
       "A2": "British Columbia",
       "country": "Canada",
@@ -3951,7 +3951,7 @@ const CITIES = [
     },
     {
       "popularity": 397,
-      "slug": "united-states/north-carolina/high-point",
+      "slug": "/united-states/north-carolina/high-point",
       "city": "High Point",
       "A2": "North Carolina",
       "country": "United States",
@@ -3961,7 +3961,7 @@ const CITIES = [
     },
     {
       "popularity": 398,
-      "slug": "united-states/new-mexico/albuquerque",
+      "slug": "/united-states/new-mexico/albuquerque",
       "city": "Albuquerque",
       "A2": "New Mexico",
       "country": "United States",
@@ -3971,7 +3971,7 @@ const CITIES = [
     },
     {
       "popularity": 399,
-      "slug": "united-kingdom/northampton",
+      "slug": "/united-kingdom/northampton",
       "city": "Northampton",
       "A2": "Northamptonshire",
       "country": "United Kingdom",
@@ -3981,7 +3981,7 @@ const CITIES = [
     },
     {
       "popularity": 400,
-      "slug": "united-kingdom/bath",
+      "slug": "/united-kingdom/bath",
       "city": "Bath",
       "A2": "Bath and North East Somerset",
       "country": "United Kingdom",
@@ -3991,7 +3991,7 @@ const CITIES = [
     },
     {
       "popularity": 401,
-      "slug": "azerbaijan/baku",
+      "slug": "/azerbaijan/baku",
       "city": "Baku",
       "A2": "Bakı",
       "country": "Azerbaijan",
@@ -4001,7 +4001,7 @@ const CITIES = [
     },
     {
       "popularity": 402,
-      "slug": "united-states/illinois/bloomington",
+      "slug": "/united-states/illinois/bloomington",
       "city": "Bloomington",
       "A2": "Illinois",
       "country": "United States",
@@ -4011,7 +4011,7 @@ const CITIES = [
     },
     {
       "popularity": 403,
-      "slug": "united-states/mississippi/jackson",
+      "slug": "/united-states/mississippi/jackson",
       "city": "Jackson",
       "A2": "Mississippi",
       "country": "United States",
@@ -4021,7 +4021,7 @@ const CITIES = [
     },
     {
       "popularity": 404,
-      "slug": "germany/frankfurt",
+      "slug": "/germany/frankfurt",
       "city": "Frankfurt",
       "A2": "Hesse",
       "country": "Germany",
@@ -4031,7 +4031,7 @@ const CITIES = [
     },
     {
       "popularity": 405,
-      "slug": "united-states/arkansas/springdale",
+      "slug": "/united-states/arkansas/springdale",
       "city": "Springdale",
       "A2": "Arkansas",
       "country": "United States",
@@ -4041,7 +4041,7 @@ const CITIES = [
     },
     {
       "popularity": 406,
-      "slug": "ecuador/guayaquil",
+      "slug": "/ecuador/guayaquil",
       "city": "Guayaquil",
       "A2": "Guayas",
       "country": "Ecuador",
@@ -4051,7 +4051,7 @@ const CITIES = [
     },
     {
       "popularity": 407,
-      "slug": "germany/karlsruhe",
+      "slug": "/germany/karlsruhe",
       "city": "Karlsruhe",
       "A2": "Baden Württemberg",
       "country": "Germany",
@@ -4061,7 +4061,7 @@ const CITIES = [
     },
     {
       "popularity": 408,
-      "slug": "brazil/campinas",
+      "slug": "/brazil/campinas",
       "city": "Campinas",
       "A2": "São Paulo",
       "country": "Brazil",
@@ -4071,7 +4071,7 @@ const CITIES = [
     },
     {
       "popularity": 409,
-      "slug": "united-states/iowa/cedar-rapids",
+      "slug": "/united-states/iowa/cedar-rapids",
       "city": "Cedar Rapids",
       "A2": "Iowa",
       "country": "United States",
@@ -4081,7 +4081,7 @@ const CITIES = [
     },
     {
       "popularity": 410,
-      "slug": "lithuania/vilnius",
+      "slug": "/lithuania/vilnius",
       "city": "Vilnius",
       "A2": "Vilniaus Miestas",
       "country": "Lithuania",
@@ -4091,7 +4091,7 @@ const CITIES = [
     },
     {
       "popularity": 411,
-      "slug": "mexico/aguascalientes",
+      "slug": "/mexico/aguascalientes",
       "city": "Aguascalientes",
       "A2": "Aguascalientes",
       "country": "Mexico",
@@ -4101,7 +4101,7 @@ const CITIES = [
     },
     {
       "popularity": 412,
-      "slug": "germany/hagen",
+      "slug": "/germany/hagen",
       "city": "Hagen",
       "A2": "North Rhine Westphalia",
       "country": "Germany",
@@ -4111,7 +4111,7 @@ const CITIES = [
     },
     {
       "popularity": 413,
-      "slug": "united-states/alabama/huntsville",
+      "slug": "/united-states/alabama/huntsville",
       "city": "Huntsville",
       "A2": "Alabama",
       "country": "United States",
@@ -4121,7 +4121,7 @@ const CITIES = [
     },
     {
       "popularity": 414,
-      "slug": "canada/moncton",
+      "slug": "/canada/moncton",
       "city": "Moncton",
       "A2": "New Brunswick",
       "country": "Canada",
@@ -4131,7 +4131,7 @@ const CITIES = [
     },
     {
       "popularity": 415,
-      "slug": "canada/montreal",
+      "slug": "/canada/montreal",
       "city": "Montreal",
       "A2": "Quebec",
       "country": "Canada",
@@ -4141,7 +4141,7 @@ const CITIES = [
     },
     {
       "popularity": 416,
-      "slug": "united-states/pennsylvania/bethlehem",
+      "slug": "/united-states/pennsylvania/bethlehem",
       "city": "Bethlehem",
       "A2": "Pennsylvania",
       "country": "United States",
@@ -4151,7 +4151,7 @@ const CITIES = [
     },
     {
       "popularity": 417,
-      "slug": "united-states/michigan/flint",
+      "slug": "/united-states/michigan/flint",
       "city": "Flint",
       "A2": "Michigan",
       "country": "United States",
@@ -4161,7 +4161,7 @@ const CITIES = [
     },
     {
       "popularity": 418,
-      "slug": "argentina/mendoza",
+      "slug": "/argentina/mendoza",
       "city": "Mendoza",
       "A2": "Mendoza",
       "country": "Argentina",
@@ -4171,7 +4171,7 @@ const CITIES = [
     },
     {
       "popularity": 419,
-      "slug": "canada/guelph",
+      "slug": "/canada/guelph",
       "city": "Guelph",
       "A2": "Ontario",
       "country": "Canada",
@@ -4181,7 +4181,7 @@ const CITIES = [
     },
     {
       "popularity": 420,
-      "slug": "united-states/north-carolina/greensboro",
+      "slug": "/united-states/north-carolina/greensboro",
       "city": "Greensboro",
       "A2": "North Carolina",
       "country": "United States",
@@ -4191,7 +4191,7 @@ const CITIES = [
     },
     {
       "popularity": 421,
-      "slug": "madagascar/antananarivo",
+      "slug": "/madagascar/antananarivo",
       "city": "Antananarivo",
       "A2": "Antananarivo",
       "country": "Madagascar",
@@ -4201,7 +4201,7 @@ const CITIES = [
     },
     {
       "popularity": 422,
-      "slug": "iceland/reykjavik",
+      "slug": "/iceland/reykjavik",
       "city": "Reykjavik",
       "A2": 0,
       "country": "Iceland",
@@ -4211,7 +4211,7 @@ const CITIES = [
     },
     {
       "popularity": 423,
-      "slug": "united-states/arkansas/rogers",
+      "slug": "/united-states/arkansas/rogers",
       "city": "Rogers",
       "A2": "Arkansas",
       "country": "United States",
@@ -4221,7 +4221,7 @@ const CITIES = [
     },
     {
       "popularity": 424,
-      "slug": "canada/fredericton",
+      "slug": "/canada/fredericton",
       "city": "Fredericton",
       "A2": "New Brunswick",
       "country": "Canada",
@@ -4231,7 +4231,7 @@ const CITIES = [
     },
     {
       "popularity": 425,
-      "slug": "india/surat",
+      "slug": "/india/surat",
       "city": "Surat",
       "A2": "Gujarāt",
       "country": "India",
@@ -4241,7 +4241,7 @@ const CITIES = [
     },
     {
       "popularity": 426,
-      "slug": "united-states/california/palmdale",
+      "slug": "/united-states/california/palmdale",
       "city": "Palmdale",
       "A2": "California",
       "country": "United States",
@@ -4251,7 +4251,7 @@ const CITIES = [
     },
     {
       "popularity": 427,
-      "slug": "mexico/san-luis-potosi",
+      "slug": "/mexico/san-luis-potosi",
       "city": "San Luis Potosi",
       "A2": "San Luis Potosí",
       "country": "Mexico",
@@ -4261,7 +4261,7 @@ const CITIES = [
     },
     {
       "popularity": 428,
-      "slug": "algeria/constantine",
+      "slug": "/algeria/constantine",
       "city": "Constantine",
       "A2": "Constantine",
       "country": "Algeria",
@@ -4271,7 +4271,7 @@ const CITIES = [
     },
     {
       "popularity": 429,
-      "slug": "australia/brisbane",
+      "slug": "/australia/brisbane",
       "city": "Brisbane",
       "A2": "Queensland",
       "country": "Australia",
@@ -4281,7 +4281,7 @@ const CITIES = [
     },
     {
       "popularity": 430,
-      "slug": "united-states/california/modesto",
+      "slug": "/united-states/california/modesto",
       "city": "Modesto",
       "A2": "California",
       "country": "United States",
@@ -4291,7 +4291,7 @@ const CITIES = [
     },
     {
       "popularity": 431,
-      "slug": "colombia/bucaramanga",
+      "slug": "/colombia/bucaramanga",
       "city": "Bucaramanga",
       "A2": "Santander",
       "country": "Colombia",
@@ -4301,7 +4301,7 @@ const CITIES = [
     },
     {
       "popularity": 432,
-      "slug": "spain/madrid",
+      "slug": "/spain/madrid",
       "city": "Madrid",
       "A2": "Madrid",
       "country": "Spain",
@@ -4311,7 +4311,7 @@ const CITIES = [
     },
     {
       "popularity": 433,
-      "slug": "mexico/puebla",
+      "slug": "/mexico/puebla",
       "city": "Puebla",
       "A2": "Puebla",
       "country": "Mexico",
@@ -4321,7 +4321,7 @@ const CITIES = [
     },
     {
       "popularity": 434,
-      "slug": "china/dongguan",
+      "slug": "/china/dongguan",
       "city": "Dongguan",
       "A2": "Guangdong",
       "country": "China",
@@ -4331,7 +4331,7 @@ const CITIES = [
     },
     {
       "popularity": 435,
-      "slug": "egypt/alexandria",
+      "slug": "/egypt/alexandria",
       "city": "Alexandria",
       "A2": "Al Iskandarīyah",
       "country": "Egypt",
@@ -4341,7 +4341,7 @@ const CITIES = [
     },
     {
       "popularity": 436,
-      "slug": "south-korea/suwon",
+      "slug": "/south-korea/suwon",
       "city": "Suwon",
       "A2": "Gyeonggi",
       "country": "South Korea",
@@ -4351,7 +4351,7 @@ const CITIES = [
     },
     {
       "popularity": 437,
-      "slug": "brazil/belo-horizonte",
+      "slug": "/brazil/belo-horizonte",
       "city": "Belo Horizonte",
       "A2": "Minas Gerais",
       "country": "Brazil",
@@ -4361,7 +4361,7 @@ const CITIES = [
     },
     {
       "popularity": 438,
-      "slug": "argentina/mar-del-plata",
+      "slug": "/argentina/mar-del-plata",
       "city": "Mar Del Plata",
       "A2": "Buenos Aires",
       "country": "Argentina",
@@ -4371,7 +4371,7 @@ const CITIES = [
     },
     {
       "popularity": 439,
-      "slug": "united-states/tennessee/johnson-city",
+      "slug": "/united-states/tennessee/johnson-city",
       "city": "Johnson City",
       "A2": "Tennessee",
       "country": "United States",
@@ -4381,7 +4381,7 @@ const CITIES = [
     },
     {
       "popularity": 440,
-      "slug": "netherlands/rotterdam",
+      "slug": "/netherlands/rotterdam",
       "city": "Rotterdam",
       "A2": "Zuid Holland",
       "country": "Netherlands",
@@ -4391,7 +4391,7 @@ const CITIES = [
     },
     {
       "popularity": 441,
-      "slug": "greece/chania",
+      "slug": "/greece/chania",
       "city": "Chania",
       "A2": "Kríti",
       "country": "Greece",
@@ -4401,7 +4401,7 @@ const CITIES = [
     },
     {
       "popularity": 442,
-      "slug": "united-states/oregon/oregon-city",
+      "slug": "/united-states/oregon/oregon-city",
       "city": "Oregon City",
       "A2": "Oregon",
       "country": "United States",
@@ -4411,7 +4411,7 @@ const CITIES = [
     },
     {
       "popularity": 443,
-      "slug": "mexico/toluca",
+      "slug": "/mexico/toluca",
       "city": "Toluca",
       "A2": "México",
       "country": "Mexico",
@@ -4421,7 +4421,7 @@ const CITIES = [
     },
     {
       "popularity": 444,
-      "slug": "united-states/wyoming/casper",
+      "slug": "/united-states/wyoming/casper",
       "city": "Casper",
       "A2": "Wyoming",
       "country": "United States",
@@ -4431,7 +4431,7 @@ const CITIES = [
     },
     {
       "popularity": 445,
-      "slug": "united-states/illinois/decatur",
+      "slug": "/united-states/illinois/decatur",
       "city": "Decatur",
       "A2": "Illinois",
       "country": "United States",
@@ -4441,7 +4441,7 @@ const CITIES = [
     },
     {
       "popularity": 446,
-      "slug": "ireland/dublin",
+      "slug": "/ireland/dublin",
       "city": "Dublin",
       "A2": "Dublin",
       "country": "Ireland",
@@ -4451,7 +4451,7 @@ const CITIES = [
     },
     {
       "popularity": 447,
-      "slug": "montenegro/podgorica",
+      "slug": "/montenegro/podgorica",
       "city": "Podgorica",
       "A2": "Podgorica",
       "country": "Montenegro",
@@ -4461,7 +4461,7 @@ const CITIES = [
     },
     {
       "popularity": 448,
-      "slug": "china/weifang",
+      "slug": "/china/weifang",
       "city": "Weifang",
       "A2": "Shandong",
       "country": "China",
@@ -4471,7 +4471,7 @@ const CITIES = [
     },
     {
       "popularity": 449,
-      "slug": "united-states/alabama/mobile",
+      "slug": "/united-states/alabama/mobile",
       "city": "Mobile",
       "A2": "Alabama",
       "country": "United States",
@@ -4481,7 +4481,7 @@ const CITIES = [
     },
     {
       "popularity": 450,
-      "slug": "united-states/wisconsin/eau-claire",
+      "slug": "/united-states/wisconsin/eau-claire",
       "city": "Eau Claire",
       "A2": "Wisconsin",
       "country": "United States",
@@ -4491,7 +4491,7 @@ const CITIES = [
     },
     {
       "popularity": 451,
-      "slug": "united-states/tennessee/memphis",
+      "slug": "/united-states/tennessee/memphis",
       "city": "Memphis",
       "A2": "Tennessee",
       "country": "United States",
@@ -4501,7 +4501,7 @@ const CITIES = [
     },
     {
       "popularity": 452,
-      "slug": "norway/oslo",
+      "slug": "/norway/oslo",
       "city": "Oslo",
       "A2": "Oslo",
       "country": "Norway",
@@ -4511,7 +4511,7 @@ const CITIES = [
     },
     {
       "popularity": 453,
-      "slug": "united-states/nebraska/grand-island",
+      "slug": "/united-states/nebraska/grand-island",
       "city": "Grand Island",
       "A2": "Nebraska",
       "country": "United States",
@@ -4521,7 +4521,7 @@ const CITIES = [
     },
     {
       "popularity": 454,
-      "slug": "curaçao/willemstad",
+      "slug": "/curaçao/willemstad",
       "city": "Willemstad",
       "A2": 0,
       "country": "Curaçao",
@@ -4531,7 +4531,7 @@ const CITIES = [
     },
     {
       "popularity": 455,
-      "slug": "united-states/colorado/colorado-springs",
+      "slug": "/united-states/colorado/colorado-springs",
       "city": "Colorado Springs",
       "A2": "Colorado",
       "country": "United States",
@@ -4541,7 +4541,7 @@ const CITIES = [
     },
     {
       "popularity": 456,
-      "slug": "united-states/georgia/warner-robins",
+      "slug": "/united-states/georgia/warner-robins",
       "city": "Warner Robins",
       "A2": "Georgia",
       "country": "United States",
@@ -4551,7 +4551,7 @@ const CITIES = [
     },
     {
       "popularity": 457,
-      "slug": "morocco/casablanca",
+      "slug": "/morocco/casablanca",
       "city": "Casablanca",
       "A2": "Casablanca Settat",
       "country": "Morocco",
@@ -4561,7 +4561,7 @@ const CITIES = [
     },
     {
       "popularity": 458,
-      "slug": "united-states/north-carolina/wilmington",
+      "slug": "/united-states/north-carolina/wilmington",
       "city": "Wilmington",
       "A2": "North Carolina",
       "country": "United States",
@@ -4571,7 +4571,7 @@ const CITIES = [
     },
     {
       "popularity": 459,
-      "slug": "france/lyon",
+      "slug": "/france/lyon",
       "city": "Lyon",
       "A2": "Auvergne Rhône Alpes",
       "country": "France",
@@ -4581,7 +4581,7 @@ const CITIES = [
     },
     {
       "popularity": 460,
-      "slug": "laos/vientiane",
+      "slug": "/laos/vientiane",
       "city": "Vientiane",
       "A2": "Viangchan",
       "country": "Laos",
@@ -4591,7 +4591,7 @@ const CITIES = [
     },
     {
       "popularity": 461,
-      "slug": "united-states/indiana/terre-haute",
+      "slug": "/united-states/indiana/terre-haute",
       "city": "Terre Haute",
       "A2": "Indiana",
       "country": "United States",
@@ -4601,7 +4601,7 @@ const CITIES = [
     },
     {
       "popularity": 462,
-      "slug": "united-states/iowa/des-moines",
+      "slug": "/united-states/iowa/des-moines",
       "city": "Des Moines",
       "A2": "Iowa",
       "country": "United States",
@@ -4611,7 +4611,7 @@ const CITIES = [
     },
     {
       "popularity": 463,
-      "slug": "united-states/new-york/beacon",
+      "slug": "/united-states/new-york/beacon",
       "city": "Beacon",
       "A2": "New York",
       "country": "United States",
@@ -4621,7 +4621,7 @@ const CITIES = [
     },
     {
       "popularity": 464,
-      "slug": "germany/nuremberg",
+      "slug": "/germany/nuremberg",
       "city": "Nuremberg",
       "A2": "Bavaria",
       "country": "Germany",
@@ -4631,7 +4631,7 @@ const CITIES = [
     },
     {
       "popularity": 465,
-      "slug": "china/quanzhou",
+      "slug": "/china/quanzhou",
       "city": "Quanzhou",
       "A2": "Fujian",
       "country": "China",
@@ -4641,7 +4641,7 @@ const CITIES = [
     },
     {
       "popularity": 466,
-      "slug": "united-states/louisiana/baton-rouge",
+      "slug": "/united-states/louisiana/baton-rouge",
       "city": "Baton Rouge",
       "A2": "Louisiana",
       "country": "United States",
@@ -4651,7 +4651,7 @@ const CITIES = [
     },
     {
       "popularity": 467,
-      "slug": "china/zhanjiang",
+      "slug": "/china/zhanjiang",
       "city": "Zhanjiang",
       "A2": "Guangdong",
       "country": "China",
@@ -4661,7 +4661,7 @@ const CITIES = [
     },
     {
       "popularity": 468,
-      "slug": "india/mumbai",
+      "slug": "/india/mumbai",
       "city": "Mumbai",
       "A2": "Mahārāshtra",
       "country": "India",
@@ -4671,7 +4671,7 @@ const CITIES = [
     },
     {
       "popularity": 469,
-      "slug": "united-states/arkansas/little-rock",
+      "slug": "/united-states/arkansas/little-rock",
       "city": "Little Rock",
       "A2": "Arkansas",
       "country": "United States",
@@ -4681,7 +4681,7 @@ const CITIES = [
     },
     {
       "popularity": 470,
-      "slug": "united-states/california/fresno",
+      "slug": "/united-states/california/fresno",
       "city": "Fresno",
       "A2": "California",
       "country": "United States",
@@ -4691,7 +4691,7 @@ const CITIES = [
     },
     {
       "popularity": 471,
-      "slug": "brazil/uberlandia",
+      "slug": "/brazil/uberlandia",
       "city": "Uberlandia",
       "A2": "Minas Gerais",
       "country": "Brazil",
@@ -4701,7 +4701,7 @@ const CITIES = [
     },
     {
       "popularity": 472,
-      "slug": "united-states/california/riverside",
+      "slug": "/united-states/california/riverside",
       "city": "Riverside",
       "A2": "California",
       "country": "United States",
@@ -4711,7 +4711,7 @@ const CITIES = [
     },
     {
       "popularity": 473,
-      "slug": "qatar/doha",
+      "slug": "/qatar/doha",
       "city": "Doha",
       "A2": "Ad Dawḩah",
       "country": "Qatar",
@@ -4721,7 +4721,7 @@ const CITIES = [
     },
     {
       "popularity": 474,
-      "slug": "united-states/new-jersey/bridgeton",
+      "slug": "/united-states/new-jersey/bridgeton",
       "city": "Bridgeton",
       "A2": "New Jersey",
       "country": "United States",
@@ -4731,7 +4731,7 @@ const CITIES = [
     },
     {
       "popularity": 475,
-      "slug": "colombia/pasto",
+      "slug": "/colombia/pasto",
       "city": "Pasto",
       "A2": "Nariño",
       "country": "Colombia",
@@ -4741,7 +4741,7 @@ const CITIES = [
     },
     {
       "popularity": 476,
-      "slug": "germany/bremen",
+      "slug": "/germany/bremen",
       "city": "Bremen",
       "A2": "Bremen",
       "country": "Germany",
@@ -4751,7 +4751,7 @@ const CITIES = [
     },
     {
       "popularity": 477,
-      "slug": "guyana/georgetown",
+      "slug": "/guyana/georgetown",
       "city": "Georgetown",
       "A2": "Demerara Mahaica",
       "country": "Guyana",
@@ -4761,7 +4761,7 @@ const CITIES = [
     },
     {
       "popularity": 478,
-      "slug": "france/toulouse",
+      "slug": "/france/toulouse",
       "city": "Toulouse",
       "A2": "Occitanie",
       "country": "France",
@@ -4771,7 +4771,7 @@ const CITIES = [
     },
     {
       "popularity": 479,
-      "slug": "united-states/wisconsin/kenosha",
+      "slug": "/united-states/wisconsin/kenosha",
       "city": "Kenosha",
       "A2": "Wisconsin",
       "country": "United States",
@@ -4781,7 +4781,7 @@ const CITIES = [
     },
     {
       "popularity": 480,
-      "slug": "peru/cusco",
+      "slug": "/peru/cusco",
       "city": "Cusco",
       "A2": "Cusco",
       "country": "Peru",
@@ -4791,7 +4791,7 @@ const CITIES = [
     },
     {
       "popularity": 481,
-      "slug": "austria/graz",
+      "slug": "/austria/graz",
       "city": "Graz",
       "A2": "Steiermark",
       "country": "Austria",
@@ -4801,7 +4801,7 @@ const CITIES = [
     },
     {
       "popularity": 482,
-      "slug": "united-states/idaho/pocatello",
+      "slug": "/united-states/idaho/pocatello",
       "city": "Pocatello",
       "A2": "Idaho",
       "country": "United States",
@@ -4811,7 +4811,7 @@ const CITIES = [
     },
     {
       "popularity": 483,
-      "slug": "china/beijing",
+      "slug": "/china/beijing",
       "city": "Beijing",
       "A2": "Beijing",
       "country": "China",
@@ -4821,7 +4821,7 @@ const CITIES = [
     },
     {
       "popularity": 484,
-      "slug": "united-states/wisconsin/janesville",
+      "slug": "/united-states/wisconsin/janesville",
       "city": "Janesville",
       "A2": "Wisconsin",
       "country": "United States",
@@ -4831,7 +4831,7 @@ const CITIES = [
     },
     {
       "popularity": 485,
-      "slug": "finland/jyvaskyla",
+      "slug": "/finland/jyvaskyla",
       "city": "Jyvaskyla",
       "A2": "Keski Suomi",
       "country": "Finland",
@@ -4841,7 +4841,7 @@ const CITIES = [
     },
     {
       "popularity": 486,
-      "slug": "spain/malaga",
+      "slug": "/spain/malaga",
       "city": "Malaga",
       "A2": "Andalusia",
       "country": "Spain",
@@ -4851,7 +4851,7 @@ const CITIES = [
     },
     {
       "popularity": 487,
-      "slug": "united-kingdom/nottingham",
+      "slug": "/united-kingdom/nottingham",
       "city": "Nottingham",
       "A2": "Nottingham",
       "country": "United Kingdom",
@@ -4861,7 +4861,7 @@ const CITIES = [
     },
     {
       "popularity": 488,
-      "slug": "bosnia-and-herzegovina/sarajevo",
+      "slug": "/bosnia-and-herzegovina/sarajevo",
       "city": "Sarajevo",
       "A2": "Bosnia and Herzegovina, Federation of",
       "country": "Bosnia And Herzegovina",
@@ -4871,7 +4871,7 @@ const CITIES = [
     },
     {
       "popularity": 489,
-      "slug": "thailand/hua-hin",
+      "slug": "/thailand/hua-hin",
       "city": "Hua Hin",
       "A2": "Prachuap Khiri Khan",
       "country": "Thailand",
@@ -4881,7 +4881,7 @@ const CITIES = [
     },
     {
       "popularity": 490,
-      "slug": "china/chongqing",
+      "slug": "/china/chongqing",
       "city": "Chongqing",
       "A2": "Chongqing",
       "country": "China",
@@ -4891,7 +4891,7 @@ const CITIES = [
     },
     {
       "popularity": 491,
-      "slug": "united-states/south-dakota/rapid-city",
+      "slug": "/united-states/south-dakota/rapid-city",
       "city": "Rapid City",
       "A2": "South Dakota",
       "country": "United States",
@@ -4901,7 +4901,7 @@ const CITIES = [
     },
     {
       "popularity": 492,
-      "slug": "united-states/texas/pharr",
+      "slug": "/united-states/texas/pharr",
       "city": "Pharr",
       "A2": "Texas",
       "country": "United States",
@@ -4911,7 +4911,7 @@ const CITIES = [
     },
     {
       "popularity": 493,
-      "slug": "colombia/barranquilla",
+      "slug": "/colombia/barranquilla",
       "city": "Barranquilla",
       "A2": "Atlántico",
       "country": "Colombia",
@@ -4921,7 +4921,7 @@ const CITIES = [
     },
     {
       "popularity": 494,
-      "slug": "nigeria/benin-city",
+      "slug": "/nigeria/benin-city",
       "city": "Benin City",
       "A2": "Edo",
       "country": "Nigeria",
@@ -4931,7 +4931,7 @@ const CITIES = [
     },
     {
       "popularity": 495,
-      "slug": "nigeria/port-harcourt",
+      "slug": "/nigeria/port-harcourt",
       "city": "Port Harcourt",
       "A2": "Rivers",
       "country": "Nigeria",
@@ -4941,7 +4941,7 @@ const CITIES = [
     },
     {
       "popularity": 496,
-      "slug": "brazil/recife",
+      "slug": "/brazil/recife",
       "city": "Recife",
       "A2": "Pernambuco",
       "country": "Brazil",
@@ -4951,7 +4951,7 @@ const CITIES = [
     },
     {
       "popularity": 497,
-      "slug": "poland/rzeszow",
+      "slug": "/poland/rzeszow",
       "city": "Rzeszow",
       "A2": "Podkarpackie",
       "country": "Poland",
@@ -4961,7 +4961,7 @@ const CITIES = [
     },
     {
       "popularity": 498,
-      "slug": "guatemala/panajachel",
+      "slug": "/guatemala/panajachel",
       "city": "Panajachel",
       "A2": "Sololá",
       "country": "Guatemala",
@@ -4971,7 +4971,7 @@ const CITIES = [
     },
     {
       "popularity": 499,
-      "slug": "united-states/illinois/peoria",
+      "slug": "/united-states/illinois/peoria",
       "city": "Peoria",
       "A2": "Illinois",
       "country": "United States",
@@ -4981,7 +4981,7 @@ const CITIES = [
     },
     {
       "popularity": 500,
-      "slug": "united-states/utah/provo",
+      "slug": "/united-states/utah/provo",
       "city": "Provo",
       "A2": "Utah",
       "country": "United States",
@@ -4991,7 +4991,7 @@ const CITIES = [
     },
     {
       "popularity": 501,
-      "slug": "united-states/north-carolina/charlotte",
+      "slug": "/united-states/north-carolina/charlotte",
       "city": "Charlotte",
       "A2": "North Carolina",
       "country": "United States",
@@ -5001,7 +5001,7 @@ const CITIES = [
     },
     {
       "popularity": 502,
-      "slug": "united-states/colorado/pueblo",
+      "slug": "/united-states/colorado/pueblo",
       "city": "Pueblo",
       "A2": "Colorado",
       "country": "United States",
@@ -5011,7 +5011,7 @@ const CITIES = [
     },
     {
       "popularity": 503,
-      "slug": "china/nanning",
+      "slug": "/china/nanning",
       "city": "Nanning",
       "A2": "Guangxi",
       "country": "China",
@@ -5021,7 +5021,7 @@ const CITIES = [
     },
     {
       "popularity": 504,
-      "slug": "united-states/kentucky/lexington",
+      "slug": "/united-states/kentucky/lexington",
       "city": "Lexington",
       "A2": "Kentucky",
       "country": "United States",
@@ -5031,7 +5031,7 @@ const CITIES = [
     },
     {
       "popularity": 505,
-      "slug": "united-kingdom/luton",
+      "slug": "/united-kingdom/luton",
       "city": "Luton",
       "A2": "Luton",
       "country": "United Kingdom",
@@ -5041,7 +5041,7 @@ const CITIES = [
     },
     {
       "popularity": 506,
-      "slug": "united-states/kansas/topeka",
+      "slug": "/united-states/kansas/topeka",
       "city": "Topeka",
       "A2": "Kansas",
       "country": "United States",
@@ -5051,7 +5051,7 @@ const CITIES = [
     },
     {
       "popularity": 507,
-      "slug": "switzerland/geneva",
+      "slug": "/switzerland/geneva",
       "city": "Geneva",
       "A2": "Genève",
       "country": "Switzerland",
@@ -5061,7 +5061,7 @@ const CITIES = [
     },
     {
       "popularity": 508,
-      "slug": "united-states/illinois/rockford",
+      "slug": "/united-states/illinois/rockford",
       "city": "Rockford",
       "A2": "Illinois",
       "country": "United States",
@@ -5071,7 +5071,7 @@ const CITIES = [
     },
     {
       "popularity": 509,
-      "slug": "finland/oulu",
+      "slug": "/finland/oulu",
       "city": "Oulu",
       "A2": "Pohjois Pohjanmaa",
       "country": "Finland",
@@ -5081,7 +5081,7 @@ const CITIES = [
     },
     {
       "popularity": 510,
-      "slug": "united-states/nebraska/kearney",
+      "slug": "/united-states/nebraska/kearney",
       "city": "Kearney",
       "A2": "Nebraska",
       "country": "United States",
@@ -5091,7 +5091,7 @@ const CITIES = [
     },
     {
       "popularity": 511,
-      "slug": "germany/bielefeld",
+      "slug": "/germany/bielefeld",
       "city": "Bielefeld",
       "A2": "North Rhine Westphalia",
       "country": "Germany",
@@ -5101,7 +5101,7 @@ const CITIES = [
     },
     {
       "popularity": 512,
-      "slug": "germany/stuttgart",
+      "slug": "/germany/stuttgart",
       "city": "Stuttgart",
       "A2": "Baden Württemberg",
       "country": "Germany",
@@ -5111,7 +5111,7 @@ const CITIES = [
     },
     {
       "popularity": 513,
-      "slug": "finland/espoo",
+      "slug": "/finland/espoo",
       "city": "Espoo",
       "A2": "Uusimaa",
       "country": "Finland",
@@ -5121,7 +5121,7 @@ const CITIES = [
     },
     {
       "popularity": 514,
-      "slug": "united-states/california/turlock",
+      "slug": "/united-states/california/turlock",
       "city": "Turlock",
       "A2": "California",
       "country": "United States",
@@ -5131,7 +5131,7 @@ const CITIES = [
     },
     {
       "popularity": 515,
-      "slug": "canada/abbotsford",
+      "slug": "/canada/abbotsford",
       "city": "Abbotsford",
       "A2": "British Columbia",
       "country": "Canada",
@@ -5141,7 +5141,7 @@ const CITIES = [
     },
     {
       "popularity": 516,
-      "slug": "united-states/connecticut/hartford",
+      "slug": "/united-states/connecticut/hartford",
       "city": "Hartford",
       "A2": "Connecticut",
       "country": "United States",
@@ -5151,7 +5151,7 @@ const CITIES = [
     },
     {
       "popularity": 517,
-      "slug": "united-states/ohio/toledo",
+      "slug": "/united-states/ohio/toledo",
       "city": "Toledo",
       "A2": "Ohio",
       "country": "United States",
@@ -5161,7 +5161,7 @@ const CITIES = [
     },
     {
       "popularity": 518,
-      "slug": "lithuania/klaipeda",
+      "slug": "/lithuania/klaipeda",
       "city": "Klaipeda",
       "A2": "Klaipėdos Miestas",
       "country": "Lithuania",
@@ -5171,7 +5171,7 @@ const CITIES = [
     },
     {
       "popularity": 519,
-      "slug": "united-states/california/porterville",
+      "slug": "/united-states/california/porterville",
       "city": "Porterville",
       "A2": "California",
       "country": "United States",
@@ -5181,7 +5181,7 @@ const CITIES = [
     },
     {
       "popularity": 520,
-      "slug": "united-states/florida/ocala",
+      "slug": "/united-states/florida/ocala",
       "city": "Ocala",
       "A2": "Florida",
       "country": "United States",
@@ -5191,7 +5191,7 @@ const CITIES = [
     },
     {
       "popularity": 521,
-      "slug": "japan/tokyo",
+      "slug": "/japan/tokyo",
       "city": "Tokyo",
       "A2": "Tōkyō",
       "country": "Japan",
@@ -5201,7 +5201,7 @@ const CITIES = [
     },
     {
       "popularity": 522,
-      "slug": "united-states/florida/palm-bay",
+      "slug": "/united-states/florida/palm-bay",
       "city": "Palm Bay",
       "A2": "Florida",
       "country": "United States",
@@ -5211,7 +5211,7 @@ const CITIES = [
     },
     {
       "popularity": 523,
-      "slug": "morocco/agadir",
+      "slug": "/morocco/agadir",
       "city": "Agadir",
       "A2": "Souss Massa",
       "country": "Morocco",
@@ -5221,7 +5221,7 @@ const CITIES = [
     },
     {
       "popularity": 524,
-      "slug": "india/pune",
+      "slug": "/india/pune",
       "city": "Pune",
       "A2": "Mahārāshtra",
       "country": "India",
@@ -5231,7 +5231,7 @@ const CITIES = [
     },
     {
       "popularity": 525,
-      "slug": "kosovo/pristina",
+      "slug": "/kosovo/pristina",
       "city": "Pristina",
       "A2": "Prishtinë",
       "country": "Kosovo",
@@ -5241,7 +5241,7 @@ const CITIES = [
     },
     {
       "popularity": 526,
-      "slug": "canada/nanaimo",
+      "slug": "/canada/nanaimo",
       "city": "Nanaimo",
       "A2": "British Columbia",
       "country": "Canada",
@@ -5251,7 +5251,7 @@ const CITIES = [
     },
     {
       "popularity": 527,
-      "slug": "germany/hannover",
+      "slug": "/germany/hannover",
       "city": "Hannover",
       "A2": "Lower Saxony",
       "country": "Germany",
@@ -5261,7 +5261,7 @@ const CITIES = [
     },
     {
       "popularity": 528,
-      "slug": "samoa/apia",
+      "slug": "/samoa/apia",
       "city": "Apia",
       "A2": "Tuamasaga",
       "country": "Samoa",
@@ -5271,7 +5271,7 @@ const CITIES = [
     },
     {
       "popularity": 529,
-      "slug": "united-states/california/oakland",
+      "slug": "/united-states/california/oakland",
       "city": "Oakland",
       "A2": "California",
       "country": "United States",
@@ -5281,7 +5281,7 @@ const CITIES = [
     },
     {
       "popularity": 530,
-      "slug": "austria/vienna",
+      "slug": "/austria/vienna",
       "city": "Vienna",
       "A2": "Wien",
       "country": "Austria",
@@ -5291,7 +5291,7 @@ const CITIES = [
     },
     {
       "popularity": 531,
-      "slug": "united-states/connecticut/bridgeport",
+      "slug": "/united-states/connecticut/bridgeport",
       "city": "Bridgeport",
       "A2": "Connecticut",
       "country": "United States",
@@ -5301,7 +5301,7 @@ const CITIES = [
     },
     {
       "popularity": 532,
-      "slug": "botswana/gaborone",
+      "slug": "/botswana/gaborone",
       "city": "Gaborone",
       "A2": "Gaborone",
       "country": "Botswana",
@@ -5311,7 +5311,7 @@ const CITIES = [
     },
     {
       "popularity": 533,
-      "slug": "united-states/new-york/utica",
+      "slug": "/united-states/new-york/utica",
       "city": "Utica",
       "A2": "New York",
       "country": "United States",
@@ -5321,7 +5321,7 @@ const CITIES = [
     },
     {
       "popularity": 534,
-      "slug": "argentina/ushuaia",
+      "slug": "/argentina/ushuaia",
       "city": "Ushuaia",
       "A2": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
       "country": "Argentina",
@@ -5331,7 +5331,7 @@ const CITIES = [
     },
     {
       "popularity": 535,
-      "slug": "china/shijiazhuang",
+      "slug": "/china/shijiazhuang",
       "city": "Shijiazhuang",
       "A2": "Hebei",
       "country": "China",
@@ -5341,7 +5341,7 @@ const CITIES = [
     },
     {
       "popularity": 537,
-      "slug": "colombia/salento",
+      "slug": "/colombia/salento",
       "city": "Salento",
       "A2": "Quindío",
       "country": "Colombia",
@@ -5351,7 +5351,7 @@ const CITIES = [
     },
     {
       "popularity": 538,
-      "slug": "united-states/colorado/boulder",
+      "slug": "/united-states/colorado/boulder",
       "city": "Boulder",
       "A2": "Colorado",
       "country": "United States",
@@ -5361,7 +5361,7 @@ const CITIES = [
     },
     {
       "popularity": 539,
-      "slug": "united-states/montana/helena",
+      "slug": "/united-states/montana/helena",
       "city": "Helena",
       "A2": "Montana",
       "country": "United States",
@@ -5371,7 +5371,7 @@ const CITIES = [
     },
     {
       "popularity": 540,
-      "slug": "united-states/illinois/joliet",
+      "slug": "/united-states/illinois/joliet",
       "city": "Joliet",
       "A2": "Illinois",
       "country": "United States",
@@ -5381,7 +5381,7 @@ const CITIES = [
     },
     {
       "popularity": 541,
-      "slug": "united-states/california/victorville",
+      "slug": "/united-states/california/victorville",
       "city": "Victorville",
       "A2": "California",
       "country": "United States",
@@ -5391,7 +5391,7 @@ const CITIES = [
     },
     {
       "popularity": 542,
-      "slug": "turkey/bodrum",
+      "slug": "/turkey/bodrum",
       "city": "Bodrum",
       "A2": "Muğla",
       "country": "Turkey",
@@ -5401,7 +5401,7 @@ const CITIES = [
     },
     {
       "popularity": 543,
-      "slug": "nicaragua/leon",
+      "slug": "/nicaragua/leon",
       "city": "Leon",
       "A2": "León",
       "country": "Nicaragua",
@@ -5411,7 +5411,7 @@ const CITIES = [
     },
     {
       "popularity": 544,
-      "slug": "united-states/california/delano",
+      "slug": "/united-states/california/delano",
       "city": "Delano",
       "A2": "California",
       "country": "United States",
@@ -5421,7 +5421,7 @@ const CITIES = [
     },
     {
       "popularity": 545,
-      "slug": "united-states/oklahoma/tulsa",
+      "slug": "/united-states/oklahoma/tulsa",
       "city": "Tulsa",
       "A2": "Oklahoma",
       "country": "United States",
@@ -5431,7 +5431,7 @@ const CITIES = [
     },
     {
       "popularity": 546,
-      "slug": "china/shanghai",
+      "slug": "/china/shanghai",
       "city": "Shanghai",
       "A2": "Shanghai",
       "country": "China",
@@ -5441,7 +5441,7 @@ const CITIES = [
     },
     {
       "popularity": 547,
-      "slug": "congo-(brazzaville)/brazzaville",
+      "slug": "/congo-(brazzaville)/brazzaville",
       "city": "Brazzaville",
       "A2": "Brazzaville",
       "country": "Congo (Brazzaville)",
@@ -5451,7 +5451,7 @@ const CITIES = [
     },
     {
       "popularity": 548,
-      "slug": "niger/niamey",
+      "slug": "/niger/niamey",
       "city": "Niamey",
       "A2": "Niamey",
       "country": "Niger",
@@ -5461,7 +5461,7 @@ const CITIES = [
     },
     {
       "popularity": 549,
-      "slug": "united-states/illinois/waukegan",
+      "slug": "/united-states/illinois/waukegan",
       "city": "Waukegan",
       "A2": "Illinois",
       "country": "United States",
@@ -5471,7 +5471,7 @@ const CITIES = [
     },
     {
       "popularity": 550,
-      "slug": "france/lille",
+      "slug": "/france/lille",
       "city": "Lille",
       "A2": "Hauts de France",
       "country": "France",
@@ -5481,7 +5481,7 @@ const CITIES = [
     },
     {
       "popularity": 551,
-      "slug": "pakistan/islamabad",
+      "slug": "/pakistan/islamabad",
       "city": "Islamabad",
       "A2": "Islāmābād",
       "country": "Pakistan",
@@ -5491,7 +5491,7 @@ const CITIES = [
     },
     {
       "popularity": 552,
-      "slug": "mexico/tulum",
+      "slug": "/mexico/tulum",
       "city": "Tulum",
       "A2": "Quintana Roo",
       "country": "Mexico",
@@ -5501,7 +5501,7 @@ const CITIES = [
     },
     {
       "popularity": 553,
-      "slug": "united-states/california/lodi",
+      "slug": "/united-states/california/lodi",
       "city": "Lodi",
       "A2": "California",
       "country": "United States",
@@ -5511,7 +5511,7 @@ const CITIES = [
     },
     {
       "popularity": 554,
-      "slug": "united-states/illinois/normal",
+      "slug": "/united-states/illinois/normal",
       "city": "Normal",
       "A2": "Illinois",
       "country": "United States",
@@ -5521,7 +5521,7 @@ const CITIES = [
     },
     {
       "popularity": 555,
-      "slug": "united-states/washington/kennewick",
+      "slug": "/united-states/washington/kennewick",
       "city": "Kennewick",
       "A2": "Washington",
       "country": "United States",
@@ -5531,7 +5531,7 @@ const CITIES = [
     },
     {
       "popularity": 556,
-      "slug": "united-states/new-york/ithaca",
+      "slug": "/united-states/new-york/ithaca",
       "city": "Ithaca",
       "A2": "New York",
       "country": "United States",
@@ -5541,7 +5541,7 @@ const CITIES = [
     },
     {
       "popularity": 557,
-      "slug": "south-africa/soweto",
+      "slug": "/south-africa/soweto",
       "city": "Soweto",
       "A2": "Gauteng",
       "country": "South Africa",
@@ -5551,7 +5551,7 @@ const CITIES = [
     },
     {
       "popularity": 558,
-      "slug": "peru/chachapoyas",
+      "slug": "/peru/chachapoyas",
       "city": "Chachapoyas",
       "A2": "Amazonas",
       "country": "Peru",
@@ -5561,7 +5561,7 @@ const CITIES = [
     },
     {
       "popularity": 559,
-      "slug": "united-states/ohio/dayton",
+      "slug": "/united-states/ohio/dayton",
       "city": "Dayton",
       "A2": "Ohio",
       "country": "United States",
@@ -5571,7 +5571,7 @@ const CITIES = [
     },
     {
       "popularity": 560,
-      "slug": "united-kingdom/manchester",
+      "slug": "/united-kingdom/manchester",
       "city": "Manchester",
       "A2": "Manchester",
       "country": "United Kingdom",
@@ -5581,7 +5581,7 @@ const CITIES = [
     },
     {
       "popularity": 561,
-      "slug": "united-states/mississippi/gulfport",
+      "slug": "/united-states/mississippi/gulfport",
       "city": "Gulfport",
       "A2": "Mississippi",
       "country": "United States",
@@ -5591,7 +5591,7 @@ const CITIES = [
     },
     {
       "popularity": 562,
-      "slug": "united-states/iowa/dubuque",
+      "slug": "/united-states/iowa/dubuque",
       "city": "Dubuque",
       "A2": "Iowa",
       "country": "United States",
@@ -5601,7 +5601,7 @@ const CITIES = [
     },
     {
       "popularity": 563,
-      "slug": "costa-rica/liberia",
+      "slug": "/costa-rica/liberia",
       "city": "Liberia",
       "A2": "Guanacaste",
       "country": "Costa Rica",
@@ -5611,7 +5611,7 @@ const CITIES = [
     },
     {
       "popularity": 564,
-      "slug": "switzerland/zurich",
+      "slug": "/switzerland/zurich",
       "city": "Zurich",
       "A2": "Zürich",
       "country": "Switzerland",
@@ -5621,7 +5621,7 @@ const CITIES = [
     },
     {
       "popularity": 565,
-      "slug": "united-states/oregon/corvallis",
+      "slug": "/united-states/oregon/corvallis",
       "city": "Corvallis",
       "A2": "Oregon",
       "country": "United States",
@@ -5631,7 +5631,7 @@ const CITIES = [
     },
     {
       "popularity": 566,
-      "slug": "brazil/sao-jose-dos-campos",
+      "slug": "/brazil/sao-jose-dos-campos",
       "city": "Sao Jose Dos Campos",
       "A2": "São Paulo",
       "country": "Brazil",
@@ -5641,7 +5641,7 @@ const CITIES = [
     },
     {
       "popularity": 567,
-      "slug": "united-states/michigan/lansing",
+      "slug": "/united-states/michigan/lansing",
       "city": "Lansing",
       "A2": "Michigan",
       "country": "United States",
@@ -5651,7 +5651,7 @@ const CITIES = [
     },
     {
       "popularity": 568,
-      "slug": "united-arab-emirates/sharjah",
+      "slug": "/united-arab-emirates/sharjah",
       "city": "Sharjah",
       "A2": "Ash Shāriqah",
       "country": "United Arab Emirates",
@@ -5661,7 +5661,7 @@ const CITIES = [
     },
     {
       "popularity": 569,
-      "slug": "egypt/port-said",
+      "slug": "/egypt/port-said",
       "city": "Port Said",
       "A2": "Būr Sa‘īd",
       "country": "Egypt",
@@ -5671,7 +5671,7 @@ const CITIES = [
     },
     {
       "popularity": 570,
-      "slug": "united-states/new-york/manhattan",
+      "slug": "/united-states/new-york/manhattan",
       "city": "Manhattan",
       "A2": "New York",
       "country": "United States",
@@ -5681,7 +5681,7 @@ const CITIES = [
     },
     {
       "popularity": 571,
-      "slug": "united-states/texas/wichita-falls",
+      "slug": "/united-states/texas/wichita-falls",
       "city": "Wichita Falls",
       "A2": "Texas",
       "country": "United States",
@@ -5691,7 +5691,7 @@ const CITIES = [
     },
     {
       "popularity": 572,
-      "slug": "colombia/palermo",
+      "slug": "/colombia/palermo",
       "city": "Palermo",
       "A2": "Huila",
       "country": "Colombia",
@@ -5701,7 +5701,7 @@ const CITIES = [
     },
     {
       "popularity": 573,
-      "slug": "united-states/florida/pensacola",
+      "slug": "/united-states/florida/pensacola",
       "city": "Pensacola",
       "A2": "Florida",
       "country": "United States",
@@ -5711,7 +5711,7 @@ const CITIES = [
     },
     {
       "popularity": 574,
-      "slug": "ghana/kumasi",
+      "slug": "/ghana/kumasi",
       "city": "Kumasi",
       "A2": "Ashanti",
       "country": "Ghana",
@@ -5721,7 +5721,7 @@ const CITIES = [
     },
     {
       "popularity": 575,
-      "slug": "montenegro/budva",
+      "slug": "/montenegro/budva",
       "city": "Budva",
       "A2": "Budva",
       "country": "Montenegro",
@@ -5731,7 +5731,7 @@ const CITIES = [
     },
     {
       "popularity": 576,
-      "slug": "united-states/pennsylvania/allentown",
+      "slug": "/united-states/pennsylvania/allentown",
       "city": "Allentown",
       "A2": "Pennsylvania",
       "country": "United States",
@@ -5741,7 +5741,7 @@ const CITIES = [
     },
     {
       "popularity": 577,
-      "slug": "united-states/louisiana/shreveport",
+      "slug": "/united-states/louisiana/shreveport",
       "city": "Shreveport",
       "A2": "Louisiana",
       "country": "United States",
@@ -5751,7 +5751,7 @@ const CITIES = [
     },
     {
       "popularity": 578,
-      "slug": "south-korea/anyang",
+      "slug": "/south-korea/anyang",
       "city": "Anyang",
       "A2": "Gyeonggi",
       "country": "South Korea",
@@ -5761,7 +5761,7 @@ const CITIES = [
     },
     {
       "popularity": 579,
-      "slug": "china/tangshan",
+      "slug": "/china/tangshan",
       "city": "Tangshan",
       "A2": "Hebei",
       "country": "China",
@@ -5771,7 +5771,7 @@ const CITIES = [
     },
     {
       "popularity": 580,
-      "slug": "united-kingdom/birmingham",
+      "slug": "/united-kingdom/birmingham",
       "city": "Birmingham",
       "A2": "Birmingham",
       "country": "United Kingdom",
@@ -5781,7 +5781,7 @@ const CITIES = [
     },
     {
       "popularity": 581,
-      "slug": "united-states/arizona/flagstaff",
+      "slug": "/united-states/arizona/flagstaff",
       "city": "Flagstaff",
       "A2": "Arizona",
       "country": "United States",
@@ -5791,7 +5791,7 @@ const CITIES = [
     },
     {
       "popularity": 582,
-      "slug": "mexico/cozumel",
+      "slug": "/mexico/cozumel",
       "city": "Cozumel",
       "A2": "Quintana Roo",
       "country": "Mexico",
@@ -5801,7 +5801,7 @@ const CITIES = [
     },
     {
       "popularity": 583,
-      "slug": "congo-(kinshasa)/lubumbashi",
+      "slug": "/congo-(kinshasa)/lubumbashi",
       "city": "Lubumbashi",
       "A2": "Haut Katanga",
       "country": "Congo (Kinshasa)",
@@ -5811,7 +5811,7 @@ const CITIES = [
     },
     {
       "popularity": 584,
-      "slug": "united-states/nevada/reno",
+      "slug": "/united-states/nevada/reno",
       "city": "Reno",
       "A2": "Nevada",
       "country": "United States",
@@ -5821,7 +5821,7 @@ const CITIES = [
     },
     {
       "popularity": 585,
-      "slug": "germany/cologne",
+      "slug": "/germany/cologne",
       "city": "Cologne",
       "A2": "North Rhine Westphalia",
       "country": "Germany",
@@ -5831,7 +5831,7 @@ const CITIES = [
     },
     {
       "popularity": 586,
-      "slug": "united-states/california/yuba-city",
+      "slug": "/united-states/california/yuba-city",
       "city": "Yuba City",
       "A2": "California",
       "country": "United States",
@@ -5841,7 +5841,7 @@ const CITIES = [
     },
     {
       "popularity": 587,
-      "slug": "pakistan/bahawalpur",
+      "slug": "/pakistan/bahawalpur",
       "city": "Bahawalpur",
       "A2": "Punjab",
       "country": "Pakistan",
@@ -5851,7 +5851,7 @@ const CITIES = [
     },
     {
       "popularity": 588,
-      "slug": "united-states/ohio/cleveland",
+      "slug": "/united-states/ohio/cleveland",
       "city": "Cleveland",
       "A2": "Ohio",
       "country": "United States",
@@ -5861,7 +5861,7 @@ const CITIES = [
     },
     {
       "popularity": 589,
-      "slug": "uruguay/montevideo",
+      "slug": "/uruguay/montevideo",
       "city": "Montevideo",
       "A2": "Montevideo",
       "country": "Uruguay",
@@ -5871,7 +5871,7 @@ const CITIES = [
     },
     {
       "popularity": 590,
-      "slug": "united-states/alaska/anchorage",
+      "slug": "/united-states/alaska/anchorage",
       "city": "Anchorage",
       "A2": "Alaska",
       "country": "United States",
@@ -5881,7 +5881,7 @@ const CITIES = [
     },
     {
       "popularity": 591,
-      "slug": "united-states/illinois/champaign",
+      "slug": "/united-states/illinois/champaign",
       "city": "Champaign",
       "A2": "Illinois",
       "country": "United States",
@@ -5891,7 +5891,7 @@ const CITIES = [
     },
     {
       "popularity": 592,
-      "slug": "china/linyi",
+      "slug": "/china/linyi",
       "city": "Linyi",
       "A2": "Shandong",
       "country": "China",
@@ -5901,7 +5901,7 @@ const CITIES = [
     },
     {
       "popularity": 593,
-      "slug": "pakistan/peshawar",
+      "slug": "/pakistan/peshawar",
       "city": "Peshawar",
       "A2": "Khyber Pakhtunkhwa",
       "country": "Pakistan",
@@ -5911,7 +5911,7 @@ const CITIES = [
     },
     {
       "popularity": 594,
-      "slug": "united-states/oregon/eugene",
+      "slug": "/united-states/oregon/eugene",
       "city": "Eugene",
       "A2": "Oregon",
       "country": "United States",
@@ -5921,7 +5921,7 @@ const CITIES = [
     },
     {
       "popularity": 595,
-      "slug": "venezuela/maracaibo",
+      "slug": "/venezuela/maracaibo",
       "city": "Maracaibo",
       "A2": "Zulia",
       "country": "Venezuela",
@@ -5931,7 +5931,7 @@ const CITIES = [
     },
     {
       "popularity": 596,
-      "slug": "zambia/lusaka",
+      "slug": "/zambia/lusaka",
       "city": "Lusaka",
       "A2": "Lusaka",
       "country": "Zambia",
@@ -5941,7 +5941,7 @@ const CITIES = [
     },
     {
       "popularity": 597,
-      "slug": "togo/lome",
+      "slug": "/togo/lome",
       "city": "Lome",
       "A2": "Maritime",
       "country": "Togo",
@@ -5951,7 +5951,7 @@ const CITIES = [
     },
     {
       "popularity": 598,
-      "slug": "united-states/connecticut/new-haven",
+      "slug": "/united-states/connecticut/new-haven",
       "city": "New Haven",
       "A2": "Connecticut",
       "country": "United States",
@@ -5961,7 +5961,7 @@ const CITIES = [
     },
     {
       "popularity": 599,
-      "slug": "netherlands/nijmegen",
+      "slug": "/netherlands/nijmegen",
       "city": "Nijmegen",
       "A2": "Gelderland",
       "country": "Netherlands",
@@ -5971,7 +5971,7 @@ const CITIES = [
     },
     {
       "popularity": 600,
-      "slug": "china/hangzhou",
+      "slug": "/china/hangzhou",
       "city": "Hangzhou",
       "A2": "Zhejiang",
       "country": "China",
@@ -5981,7 +5981,7 @@ const CITIES = [
     },
     {
       "popularity": 601,
-      "slug": "china/zhengzhou",
+      "slug": "/china/zhengzhou",
       "city": "Zhengzhou",
       "A2": "Henan",
       "country": "China",
@@ -5991,7 +5991,7 @@ const CITIES = [
     },
     {
       "popularity": 602,
-      "slug": "spain/a-coruna",
+      "slug": "/spain/a-coruna",
       "city": "A Coruna",
       "A2": "Galicia",
       "country": "Spain",
@@ -6001,7 +6001,7 @@ const CITIES = [
     },
     {
       "popularity": 603,
-      "slug": "turkey/konya",
+      "slug": "/turkey/konya",
       "city": "Konya",
       "A2": "Konya",
       "country": "Turkey",
@@ -6011,7 +6011,7 @@ const CITIES = [
     },
     {
       "popularity": 604,
-      "slug": "united-states/wisconsin/appleton",
+      "slug": "/united-states/wisconsin/appleton",
       "city": "Appleton",
       "A2": "Wisconsin",
       "country": "United States",
@@ -6021,7 +6021,7 @@ const CITIES = [
     },
     {
       "popularity": 605,
-      "slug": "bangladesh/dhaka",
+      "slug": "/bangladesh/dhaka",
       "city": "Dhaka",
       "A2": "Dhaka",
       "country": "Bangladesh",
@@ -6031,7 +6031,7 @@ const CITIES = [
     },
     {
       "popularity": 606,
-      "slug": "united-states/oregon/medford",
+      "slug": "/united-states/oregon/medford",
       "city": "Medford",
       "A2": "Oregon",
       "country": "United States",
@@ -6041,7 +6041,7 @@ const CITIES = [
     },
     {
       "popularity": 607,
-      "slug": "brazil/brasilia",
+      "slug": "/brazil/brasilia",
       "city": "Brasilia",
       "A2": "Distrito Federal",
       "country": "Brazil",
@@ -6051,7 +6051,7 @@ const CITIES = [
     },
     {
       "popularity": 608,
-      "slug": "united-states/california/merced",
+      "slug": "/united-states/california/merced",
       "city": "Merced",
       "A2": "California",
       "country": "United States",
@@ -6061,7 +6061,7 @@ const CITIES = [
     },
     {
       "popularity": 609,
-      "slug": "china/kunming",
+      "slug": "/china/kunming",
       "city": "Kunming",
       "A2": "Yunnan",
       "country": "China",
@@ -6071,7 +6071,7 @@ const CITIES = [
     },
     {
       "popularity": 610,
-      "slug": "united-states/california/visalia",
+      "slug": "/united-states/california/visalia",
       "city": "Visalia",
       "A2": "California",
       "country": "United States",
@@ -6081,7 +6081,7 @@ const CITIES = [
     },
     {
       "popularity": 611,
-      "slug": "china/zhoukou",
+      "slug": "/china/zhoukou",
       "city": "Zhoukou",
       "A2": "Henan",
       "country": "China",
@@ -6091,7 +6091,7 @@ const CITIES = [
     },
     {
       "popularity": 612,
-      "slug": "united-states/wyoming/cheyenne",
+      "slug": "/united-states/wyoming/cheyenne",
       "city": "Cheyenne",
       "A2": "Wyoming",
       "country": "United States",
@@ -6101,7 +6101,7 @@ const CITIES = [
     },
     {
       "popularity": 613,
-      "slug": "brazil/sao-luis",
+      "slug": "/brazil/sao-luis",
       "city": "Sao Luis",
       "A2": "Maranhão",
       "country": "Brazil",
@@ -6111,7 +6111,7 @@ const CITIES = [
     },
     {
       "popularity": 614,
-      "slug": "china/zunyi",
+      "slug": "/china/zunyi",
       "city": "Zunyi",
       "A2": "Guizhou",
       "country": "China",
@@ -6121,7 +6121,7 @@ const CITIES = [
     },
     {
       "popularity": 615,
-      "slug": "china/nanchang",
+      "slug": "/china/nanchang",
       "city": "Nanchang",
       "A2": "Jiangxi",
       "country": "China",
@@ -6131,7 +6131,7 @@ const CITIES = [
     },
     {
       "popularity": 617,
-      "slug": "angola/huambo",
+      "slug": "/angola/huambo",
       "city": "Huambo",
       "A2": "Huambo",
       "country": "Angola",
@@ -6141,7 +6141,7 @@ const CITIES = [
     },
     {
       "popularity": 618,
-      "slug": "united-states/virginia/lynchburg",
+      "slug": "/united-states/virginia/lynchburg",
       "city": "Lynchburg",
       "A2": "Virginia",
       "country": "United States",
@@ -6151,7 +6151,7 @@ const CITIES = [
     },
     {
       "popularity": 619,
-      "slug": "rwanda/kigali",
+      "slug": "/rwanda/kigali",
       "city": "Kigali",
       "A2": "Kigali",
       "country": "Rwanda",
@@ -6161,7 +6161,7 @@ const CITIES = [
     },
     {
       "popularity": 620,
-      "slug": "algeria/algiers",
+      "slug": "/algeria/algiers",
       "city": "Algiers",
       "A2": "Alger",
       "country": "Algeria",
@@ -6171,7 +6171,7 @@ const CITIES = [
     },
     {
       "popularity": 621,
-      "slug": "united-states/california/bakersfield",
+      "slug": "/united-states/california/bakersfield",
       "city": "Bakersfield",
       "A2": "California",
       "country": "United States",
@@ -6181,7 +6181,7 @@ const CITIES = [
     },
     {
       "popularity": 622,
-      "slug": "brazil/jundiai",
+      "slug": "/brazil/jundiai",
       "city": "Jundiai",
       "A2": "São Paulo",
       "country": "Brazil",
@@ -6191,7 +6191,7 @@ const CITIES = [
     },
     {
       "popularity": 623,
-      "slug": "united-kingdom/portsmouth",
+      "slug": "/united-kingdom/portsmouth",
       "city": "Portsmouth",
       "A2": "Portsmouth",
       "country": "United Kingdom",
@@ -6201,7 +6201,7 @@ const CITIES = [
     },
     {
       "popularity": 624,
-      "slug": "united-states/michigan/ann-arbor",
+      "slug": "/united-states/michigan/ann-arbor",
       "city": "Ann Arbor",
       "A2": "Michigan",
       "country": "United States",
@@ -6211,7 +6211,7 @@ const CITIES = [
     },
     {
       "popularity": 625,
-      "slug": "united-states/nevada/carson-city",
+      "slug": "/united-states/nevada/carson-city",
       "city": "Carson City",
       "A2": "Nevada",
       "country": "United States",
@@ -6221,7 +6221,7 @@ const CITIES = [
     },
     {
       "popularity": 626,
-      "slug": "china/baoding",
+      "slug": "/china/baoding",
       "city": "Baoding",
       "A2": "Hebei",
       "country": "China",
@@ -6231,7 +6231,7 @@ const CITIES = [
     },
     {
       "popularity": 627,
-      "slug": "pakistan/multan",
+      "slug": "/pakistan/multan",
       "city": "Multan",
       "A2": "Punjab",
       "country": "Pakistan",
@@ -6241,7 +6241,7 @@ const CITIES = [
     },
     {
       "popularity": 628,
-      "slug": "united-states/south-carolina/columbia",
+      "slug": "/united-states/south-carolina/columbia",
       "city": "Columbia",
       "A2": "South Carolina",
       "country": "United States",
@@ -6251,7 +6251,7 @@ const CITIES = [
     },
     {
       "popularity": 629,
-      "slug": "united-states/pennsylvania/erie",
+      "slug": "/united-states/pennsylvania/erie",
       "city": "Erie",
       "A2": "Pennsylvania",
       "country": "United States",
@@ -6261,7 +6261,7 @@ const CITIES = [
     },
     {
       "popularity": 630,
-      "slug": "united-states/south-dakota/sioux-falls",
+      "slug": "/united-states/south-dakota/sioux-falls",
       "city": "Sioux Falls",
       "A2": "South Dakota",
       "country": "United States",
@@ -6271,7 +6271,7 @@ const CITIES = [
     },
     {
       "popularity": 631,
-      "slug": "china/nanyang",
+      "slug": "/china/nanyang",
       "city": "Nanyang",
       "A2": "Henan",
       "country": "China",
@@ -6281,7 +6281,7 @@ const CITIES = [
     },
     {
       "popularity": 632,
-      "slug": "congo-(kinshasa)/kisangani",
+      "slug": "/congo-(kinshasa)/kisangani",
       "city": "Kisangani",
       "A2": "Tshopo",
       "country": "Congo (Kinshasa)",
@@ -6291,7 +6291,7 @@ const CITIES = [
     },
     {
       "popularity": 633,
-      "slug": "colombia/cali",
+      "slug": "/colombia/cali",
       "city": "Cali",
       "A2": "Valle del Cauca",
       "country": "Colombia",
@@ -6301,7 +6301,7 @@ const CITIES = [
     },
     {
       "popularity": 634,
-      "slug": "united-states/iowa/iowa-city",
+      "slug": "/united-states/iowa/iowa-city",
       "city": "Iowa City",
       "A2": "Iowa",
       "country": "United States",
@@ -6311,7 +6311,7 @@ const CITIES = [
     },
     {
       "popularity": 636,
-      "slug": "united-states/nebraska/omaha",
+      "slug": "/united-states/nebraska/omaha",
       "city": "Omaha",
       "A2": "Nebraska",
       "country": "United States",
@@ -6321,7 +6321,7 @@ const CITIES = [
     },
     {
       "popularity": 637,
-      "slug": "the-gambia/banjul",
+      "slug": "/the-gambia/banjul",
       "city": "Banjul",
       "A2": "Banjul",
       "country": "The Gambia",
@@ -6331,7 +6331,7 @@ const CITIES = [
     },
     {
       "popularity": 638,
-      "slug": "united-kingdom/bournemouth",
+      "slug": "/united-kingdom/bournemouth",
       "city": "Bournemouth",
       "A2": "Bournemouth",
       "country": "United Kingdom",
@@ -6341,7 +6341,7 @@ const CITIES = [
     },
     {
       "popularity": 639,
-      "slug": "pakistan/rawalpindi",
+      "slug": "/pakistan/rawalpindi",
       "city": "Rawalpindi",
       "A2": "Punjab",
       "country": "Pakistan",
@@ -6351,7 +6351,7 @@ const CITIES = [
     },
     {
       "popularity": 640,
-      "slug": "pakistan/sargodha",
+      "slug": "/pakistan/sargodha",
       "city": "Sargodha",
       "A2": "Punjab",
       "country": "Pakistan",
@@ -6361,7 +6361,7 @@ const CITIES = [
     },
     {
       "popularity": 641,
-      "slug": "nigeria/abuja",
+      "slug": "/nigeria/abuja",
       "city": "Abuja",
       "A2": "Federal Capital Territory",
       "country": "Nigeria",
@@ -6371,7 +6371,7 @@ const CITIES = [
     },
     {
       "popularity": 642,
-      "slug": "united-states/new-jersey/vineland",
+      "slug": "/united-states/new-jersey/vineland",
       "city": "Vineland",
       "A2": "New Jersey",
       "country": "United States",
@@ -6381,7 +6381,7 @@ const CITIES = [
     },
     {
       "popularity": 643,
-      "slug": "united-states/washington/spokane",
+      "slug": "/united-states/washington/spokane",
       "city": "Spokane",
       "A2": "Washington",
       "country": "United States",
@@ -6391,7 +6391,7 @@ const CITIES = [
     },
     {
       "popularity": 644,
-      "slug": "india/indore",
+      "slug": "/india/indore",
       "city": "Indore",
       "A2": "Madhya Pradesh",
       "country": "India",
@@ -6401,7 +6401,7 @@ const CITIES = [
     },
     {
       "popularity": 645,
-      "slug": "united-states/tennessee/chattanooga",
+      "slug": "/united-states/tennessee/chattanooga",
       "city": "Chattanooga",
       "A2": "Tennessee",
       "country": "United States",
@@ -6411,7 +6411,7 @@ const CITIES = [
     },
     {
       "popularity": 646,
-      "slug": "timor-leste/dili",
+      "slug": "/timor-leste/dili",
       "city": "Dili",
       "A2": "Díli",
       "country": "Timor Leste",
@@ -6421,7 +6421,7 @@ const CITIES = [
     },
     {
       "popularity": 647,
-      "slug": "pakistan/karachi",
+      "slug": "/pakistan/karachi",
       "city": "Karachi",
       "A2": "Sindh",
       "country": "Pakistan",
@@ -6431,7 +6431,7 @@ const CITIES = [
     },
     {
       "popularity": 648,
-      "slug": "united-states/new-york/schenectady",
+      "slug": "/united-states/new-york/schenectady",
       "city": "Schenectady",
       "A2": "New York",
       "country": "United States",
@@ -6441,7 +6441,7 @@ const CITIES = [
     },
     {
       "popularity": 649,
-      "slug": "united-states/texas/waco",
+      "slug": "/united-states/texas/waco",
       "city": "Waco",
       "A2": "Texas",
       "country": "United States",
@@ -6451,7 +6451,7 @@ const CITIES = [
     },
     {
       "popularity": 650,
-      "slug": "united-states/california/stockton",
+      "slug": "/united-states/california/stockton",
       "city": "Stockton",
       "A2": "California",
       "country": "United States",
@@ -6461,7 +6461,7 @@ const CITIES = [
     },
     {
       "popularity": 651,
-      "slug": "united-states/alabama/auburn",
+      "slug": "/united-states/alabama/auburn",
       "city": "Auburn",
       "A2": "Alabama",
       "country": "United States",
@@ -6471,7 +6471,7 @@ const CITIES = [
     },
     {
       "popularity": 652,
-      "slug": "united-states/washington/yakima",
+      "slug": "/united-states/washington/yakima",
       "city": "Yakima",
       "A2": "Washington",
       "country": "United States",
@@ -6481,7 +6481,7 @@ const CITIES = [
     },
     {
       "popularity": 653,
-      "slug": "canada/oshawa",
+      "slug": "/canada/oshawa",
       "city": "Oshawa",
       "A2": "Ontario",
       "country": "Canada",
@@ -6491,7 +6491,7 @@ const CITIES = [
     },
     {
       "popularity": 654,
-      "slug": "china/yantai",
+      "slug": "/china/yantai",
       "city": "Yantai",
       "A2": "Shandong",
       "country": "China",
@@ -6501,7 +6501,7 @@ const CITIES = [
     },
     {
       "popularity": 655,
-      "slug": "nigeria/kano",
+      "slug": "/nigeria/kano",
       "city": "Kano",
       "A2": "Kano",
       "country": "Nigeria",
@@ -6511,7 +6511,7 @@ const CITIES = [
     },
     {
       "popularity": 656,
-      "slug": "united-states/virginia/harrisonburg",
+      "slug": "/united-states/virginia/harrisonburg",
       "city": "Harrisonburg",
       "A2": "Virginia",
       "country": "United States",
@@ -6521,7 +6521,7 @@ const CITIES = [
     },
     {
       "popularity": 657,
-      "slug": "tajikistan/dushanbe",
+      "slug": "/tajikistan/dushanbe",
       "city": "Dushanbe",
       "A2": "Dushanbe",
       "country": "Tajikistan",
@@ -6531,7 +6531,7 @@ const CITIES = [
     },
     {
       "popularity": 658,
-      "slug": "united-states/washington/bellingham",
+      "slug": "/united-states/washington/bellingham",
       "city": "Bellingham",
       "A2": "Washington",
       "country": "United States",
@@ -6541,7 +6541,7 @@ const CITIES = [
     },
     {
       "popularity": 659,
-      "slug": "china/changchun",
+      "slug": "/china/changchun",
       "city": "Changchun",
       "A2": "Jilin",
       "country": "China",
@@ -6551,7 +6551,7 @@ const CITIES = [
     },
     {
       "popularity": 660,
-      "slug": "cambodia/sihanoukville",
+      "slug": "/cambodia/sihanoukville",
       "city": "Sihanoukville",
       "A2": "Sihanoukville",
       "country": "Cambodia",
@@ -6561,7 +6561,7 @@ const CITIES = [
     },
     {
       "popularity": 661,
-      "slug": "united-states/wisconsin/milwaukee",
+      "slug": "/united-states/wisconsin/milwaukee",
       "city": "Milwaukee",
       "A2": "Wisconsin",
       "country": "United States",
@@ -6571,7 +6571,7 @@ const CITIES = [
     },
     {
       "popularity": 662,
-      "slug": "brazil/itapema",
+      "slug": "/brazil/itapema",
       "city": "Itapema",
       "A2": "Santa Catarina",
       "country": "Brazil",
@@ -6581,7 +6581,7 @@ const CITIES = [
     },
     {
       "popularity": 663,
-      "slug": "japan/fukuoka",
+      "slug": "/japan/fukuoka",
       "city": "Fukuoka",
       "A2": "Fukuoka",
       "country": "Japan",
@@ -6591,7 +6591,7 @@ const CITIES = [
     },
     {
       "popularity": 664,
-      "slug": "united-states/california/fairfield",
+      "slug": "/united-states/california/fairfield",
       "city": "Fairfield",
       "A2": "California",
       "country": "United States",
@@ -6601,7 +6601,7 @@ const CITIES = [
     },
     {
       "popularity": 665,
-      "slug": "cyprus/limassol",
+      "slug": "/cyprus/limassol",
       "city": "Limassol",
       "A2": "Lemesós",
       "country": "Cyprus",
@@ -6611,7 +6611,7 @@ const CITIES = [
     },
     {
       "popularity": 666,
-      "slug": "italy/venice",
+      "slug": "/italy/venice",
       "city": "Venice",
       "A2": "Veneto",
       "country": "Italy",
@@ -6621,7 +6621,7 @@ const CITIES = [
     },
     {
       "popularity": 667,
-      "slug": "india/thane",
+      "slug": "/india/thane",
       "city": "Thane",
       "A2": "Mahārāshtra",
       "country": "India",
@@ -6631,7 +6631,7 @@ const CITIES = [
     },
     {
       "popularity": 668,
-      "slug": "jamaica/kingston",
+      "slug": "/jamaica/kingston",
       "city": "Kingston",
       "A2": "Kingston",
       "country": "Jamaica",
@@ -6641,7 +6641,7 @@ const CITIES = [
     },
     {
       "popularity": 669,
-      "slug": "algeria/oran",
+      "slug": "/algeria/oran",
       "city": "Oran",
       "A2": "Oran",
       "country": "Algeria",
@@ -6651,7 +6651,7 @@ const CITIES = [
     },
     {
       "popularity": 670,
-      "slug": "nigeria/zaria",
+      "slug": "/nigeria/zaria",
       "city": "Zaria",
       "A2": "Kaduna",
       "country": "Nigeria",
@@ -6661,7 +6661,7 @@ const CITIES = [
     },
     {
       "popularity": 671,
-      "slug": "canada/barrie",
+      "slug": "/canada/barrie",
       "city": "Barrie",
       "A2": "Ontario",
       "country": "Canada",
@@ -6671,7 +6671,7 @@ const CITIES = [
     },
     {
       "popularity": 672,
-      "slug": "pakistan/quetta",
+      "slug": "/pakistan/quetta",
       "city": "Quetta",
       "A2": "Balochistān",
       "country": "Pakistan",
@@ -6681,7 +6681,7 @@ const CITIES = [
     },
     {
       "popularity": 673,
-      "slug": "china/shenyang",
+      "slug": "/china/shenyang",
       "city": "Shenyang",
       "A2": "Liaoning",
       "country": "China",
@@ -6691,7 +6691,7 @@ const CITIES = [
     },
     {
       "popularity": 674,
-      "slug": "iraq/kirkuk",
+      "slug": "/iraq/kirkuk",
       "city": "Kirkuk",
       "A2": "Kirkūk",
       "country": "Iraq",
@@ -6701,7 +6701,7 @@ const CITIES = [
     },
     {
       "popularity": 675,
-      "slug": "united-kingdom/huddersfield",
+      "slug": "/united-kingdom/huddersfield",
       "city": "Huddersfield",
       "A2": "Kirklees",
       "country": "United Kingdom",
@@ -6711,7 +6711,7 @@ const CITIES = [
     },
     {
       "popularity": 676,
-      "slug": "brazil/salvador",
+      "slug": "/brazil/salvador",
       "city": "Salvador",
       "A2": "Bahia",
       "country": "Brazil",
@@ -6721,7 +6721,7 @@ const CITIES = [
     },
     {
       "popularity": 677,
-      "slug": "haiti/port-au-prince",
+      "slug": "/haiti/port-au-prince",
       "city": "Port Au Prince",
       "A2": "Ouest",
       "country": "Haiti",
@@ -6731,7 +6731,7 @@ const CITIES = [
     },
     {
       "popularity": 678,
-      "slug": "united-states/arizona/casa-grande",
+      "slug": "/united-states/arizona/casa-grande",
       "city": "Casa Grande",
       "A2": "Arizona",
       "country": "United States",
@@ -6741,7 +6741,7 @@ const CITIES = [
     },
     {
       "popularity": 679,
-      "slug": "japan/sendai",
+      "slug": "/japan/sendai",
       "city": "Sendai",
       "A2": "Miyagi",
       "country": "Japan",
@@ -6751,7 +6751,7 @@ const CITIES = [
     },
     {
       "popularity": 680,
-      "slug": "nicaragua/managua",
+      "slug": "/nicaragua/managua",
       "city": "Managua",
       "A2": "Managua",
       "country": "Nicaragua",
@@ -6761,7 +6761,7 @@ const CITIES = [
     },
     {
       "popularity": 681,
-      "slug": "pakistan/gujranwala",
+      "slug": "/pakistan/gujranwala",
       "city": "Gujranwala",
       "A2": "Punjab",
       "country": "Pakistan",
@@ -6771,7 +6771,7 @@ const CITIES = [
     },
     {
       "popularity": 682,
-      "slug": "united-states/oregon/winston",
+      "slug": "/united-states/oregon/winston",
       "city": "Winston",
       "A2": "Oregon",
       "country": "United States",
@@ -6781,7 +6781,7 @@ const CITIES = [
     },
     {
       "popularity": 683,
-      "slug": "brazil/joao-pessoa",
+      "slug": "/brazil/joao-pessoa",
       "city": "Joao Pessoa",
       "A2": "Paraíba",
       "country": "Brazil",
@@ -6791,7 +6791,7 @@ const CITIES = [
     },
     {
       "popularity": 684,
-      "slug": "el-salvador/san-salvador",
+      "slug": "/el-salvador/san-salvador",
       "city": "San Salvador",
       "A2": "San Salvador",
       "country": "El Salvador",
@@ -6801,7 +6801,7 @@ const CITIES = [
     },
     {
       "popularity": 685,
-      "slug": "cyprus/nicosia",
+      "slug": "/cyprus/nicosia",
       "city": "Nicosia",
       "A2": "Lefkosía",
       "country": "Cyprus",
@@ -6811,7 +6811,7 @@ const CITIES = [
     },
     {
       "popularity": 686,
-      "slug": "united-states/south-carolina/greenville",
+      "slug": "/united-states/south-carolina/greenville",
       "city": "Greenville",
       "A2": "South Carolina",
       "country": "United States",
@@ -6821,7 +6821,7 @@ const CITIES = [
     },
     {
       "popularity": 687,
-      "slug": "united-states/california/manteca",
+      "slug": "/united-states/california/manteca",
       "city": "Manteca",
       "A2": "California",
       "country": "United States",
@@ -6831,7 +6831,7 @@ const CITIES = [
     },
     {
       "popularity": 688,
-      "slug": "united-states/colorado/fort-collins",
+      "slug": "/united-states/colorado/fort-collins",
       "city": "Fort Collins",
       "A2": "Colorado",
       "country": "United States",
@@ -6841,7 +6841,7 @@ const CITIES = [
     },
     {
       "popularity": 689,
-      "slug": "panama/bocas-del-toro",
+      "slug": "/panama/bocas-del-toro",
       "city": "Bocas Del Toro",
       "A2": "Bocas del Toro",
       "country": "Panama",
@@ -6851,7 +6851,7 @@ const CITIES = [
     },
     {
       "popularity": 690,
-      "slug": "united-kingdom/glasgow",
+      "slug": "/united-kingdom/glasgow",
       "city": "Glasgow",
       "A2": "Glasgow City",
       "country": "United Kingdom",
@@ -6861,7 +6861,7 @@ const CITIES = [
     },
     {
       "popularity": 691,
-      "slug": "china/luoyang",
+      "slug": "/china/luoyang",
       "city": "Luoyang",
       "A2": "Henan",
       "country": "China",
@@ -6871,7 +6871,7 @@ const CITIES = [
     },
     {
       "popularity": 692,
-      "slug": "united-states/washington/marysville",
+      "slug": "/united-states/washington/marysville",
       "city": "Marysville",
       "A2": "Washington",
       "country": "United States",
@@ -6881,7 +6881,7 @@ const CITIES = [
     },
     {
       "popularity": 693,
-      "slug": "china/handan",
+      "slug": "/china/handan",
       "city": "Handan",
       "A2": "Hebei",
       "country": "China",
@@ -6891,7 +6891,7 @@ const CITIES = [
     },
     {
       "popularity": 694,
-      "slug": "india/chennai",
+      "slug": "/india/chennai",
       "city": "Chennai",
       "A2": "Tamil Nādu",
       "country": "India",
@@ -6901,7 +6901,7 @@ const CITIES = [
     },
     {
       "popularity": 695,
-      "slug": "spain/granada",
+      "slug": "/spain/granada",
       "city": "Granada",
       "A2": "Andalusia",
       "country": "Spain",
@@ -6911,7 +6911,7 @@ const CITIES = [
     },
     {
       "popularity": 696,
-      "slug": "united-states/colorado/grand-junction",
+      "slug": "/united-states/colorado/grand-junction",
       "city": "Grand Junction",
       "A2": "Colorado",
       "country": "United States",
@@ -6921,7 +6921,7 @@ const CITIES = [
     },
     {
       "popularity": 697,
-      "slug": "chile/la-serena",
+      "slug": "/chile/la-serena",
       "city": "La Serena",
       "A2": "Coquimbo",
       "country": "Chile",
@@ -6931,7 +6931,7 @@ const CITIES = [
     },
     {
       "popularity": 698,
-      "slug": "germany/dortmund",
+      "slug": "/germany/dortmund",
       "city": "Dortmund",
       "A2": "North Rhine Westphalia",
       "country": "Germany",
@@ -6941,7 +6941,7 @@ const CITIES = [
     },
     {
       "popularity": 699,
-      "slug": "united-states/texas/abilene",
+      "slug": "/united-states/texas/abilene",
       "city": "Abilene",
       "A2": "Texas",
       "country": "United States",
@@ -6951,7 +6951,7 @@ const CITIES = [
     },
     {
       "popularity": 700,
-      "slug": "united-states/montana/great-falls",
+      "slug": "/united-states/montana/great-falls",
       "city": "Great Falls",
       "A2": "Montana",
       "country": "United States",
@@ -6961,7 +6961,7 @@ const CITIES = [
     },
     {
       "popularity": 701,
-      "slug": "north-korea/pyongyang",
+      "slug": "/north-korea/pyongyang",
       "city": "Pyongyang",
       "A2": "P’yŏngyang",
       "country": "North Korea",
@@ -6971,7 +6971,7 @@ const CITIES = [
     },
     {
       "popularity": 702,
-      "slug": "united-states/washington/olympia",
+      "slug": "/united-states/washington/olympia",
       "city": "Olympia",
       "A2": "Washington",
       "country": "United States",
@@ -6981,7 +6981,7 @@ const CITIES = [
     },
     {
       "popularity": 703,
-      "slug": "united-states/florida/orlando",
+      "slug": "/united-states/florida/orlando",
       "city": "Orlando",
       "A2": "Florida",
       "country": "United States",
@@ -6991,7 +6991,7 @@ const CITIES = [
     },
     {
       "popularity": 704,
-      "slug": "united-kingdom/southampton",
+      "slug": "/united-kingdom/southampton",
       "city": "Southampton",
       "A2": "Southampton",
       "country": "United Kingdom",
@@ -7001,7 +7001,7 @@ const CITIES = [
     },
     {
       "popularity": 705,
-      "slug": "united-states/utah/logan",
+      "slug": "/united-states/utah/logan",
       "city": "Logan",
       "A2": "Utah",
       "country": "United States",
@@ -7011,7 +7011,7 @@ const CITIES = [
     },
     {
       "popularity": 706,
-      "slug": "china/fuzhou",
+      "slug": "/china/fuzhou",
       "city": "Fuzhou",
       "A2": "Fujian",
       "country": "China",
@@ -7021,7 +7021,7 @@ const CITIES = [
     },
     {
       "popularity": 707,
-      "slug": "cabo-verde/praia",
+      "slug": "/cabo-verde/praia",
       "city": "Praia",
       "A2": "Praia",
       "country": "Cabo Verde",
@@ -7031,7 +7031,7 @@ const CITIES = [
     },
     {
       "popularity": 708,
-      "slug": "united-kingdom/coventry",
+      "slug": "/united-kingdom/coventry",
       "city": "Coventry",
       "A2": "Coventry",
       "country": "United Kingdom",
@@ -7041,7 +7041,7 @@ const CITIES = [
     },
     {
       "popularity": 709,
-      "slug": "india/bhopal",
+      "slug": "/india/bhopal",
       "city": "Bhopal",
       "A2": "Madhya Pradesh",
       "country": "India",
@@ -7051,7 +7051,7 @@ const CITIES = [
     },
     {
       "popularity": 710,
-      "slug": "united-states/montana/missoula",
+      "slug": "/united-states/montana/missoula",
       "city": "Missoula",
       "A2": "Montana",
       "country": "United States",
@@ -7061,7 +7061,7 @@ const CITIES = [
     },
     {
       "popularity": 711,
-      "slug": "burkina-faso/ouagadougou",
+      "slug": "/burkina-faso/ouagadougou",
       "city": "Ouagadougou",
       "A2": "Centre",
       "country": "Burkina Faso",
@@ -7071,7 +7071,7 @@ const CITIES = [
     },
     {
       "popularity": 712,
-      "slug": "united-states/missouri/kansas-city",
+      "slug": "/united-states/missouri/kansas-city",
       "city": "Kansas City",
       "A2": "Missouri",
       "country": "United States",
@@ -7081,7 +7081,7 @@ const CITIES = [
     },
     {
       "popularity": 713,
-      "slug": "venezuela/maracay",
+      "slug": "/venezuela/maracay",
       "city": "Maracay",
       "A2": "Aragua",
       "country": "Venezuela",
@@ -7091,7 +7091,7 @@ const CITIES = [
     },
     {
       "popularity": 714,
-      "slug": "united-states/california/hesperia",
+      "slug": "/united-states/california/hesperia",
       "city": "Hesperia",
       "A2": "California",
       "country": "United States",
@@ -7101,7 +7101,7 @@ const CITIES = [
     },
     {
       "popularity": 715,
-      "slug": "côte-d'ivoire/abidjan",
+      "slug": "/côte-d'ivoire/abidjan",
       "city": "Abidjan",
       "A2": "Abidjan",
       "country": "Côte d'Ivoire",
@@ -7111,7 +7111,7 @@ const CITIES = [
     },
     {
       "popularity": 716,
-      "slug": "new-zealand/dunedin",
+      "slug": "/new-zealand/dunedin",
       "city": "Dunedin",
       "A2": "Otago",
       "country": "New Zealand",
@@ -7121,7 +7121,7 @@ const CITIES = [
     },
     {
       "popularity": 717,
-      "slug": "china/qiqihar",
+      "slug": "/china/qiqihar",
       "city": "Qiqihar",
       "A2": "Heilongjiang",
       "country": "China",
@@ -7131,7 +7131,7 @@ const CITIES = [
     },
     {
       "popularity": 718,
-      "slug": "brazil/vitoria",
+      "slug": "/brazil/vitoria",
       "city": "Vitoria",
       "A2": "Espírito Santo",
       "country": "Brazil",
@@ -7141,7 +7141,7 @@ const CITIES = [
     },
     {
       "popularity": 719,
-      "slug": "bahrain/manama",
+      "slug": "/bahrain/manama",
       "city": "Manama",
       "A2": "Al ‘Āşimah",
       "country": "Bahrain",
@@ -7151,7 +7151,7 @@ const CITIES = [
     },
     {
       "popularity": 720,
-      "slug": "united-states/california/tulare",
+      "slug": "/united-states/california/tulare",
       "city": "Tulare",
       "A2": "California",
       "country": "United States",
@@ -7161,7 +7161,7 @@ const CITIES = [
     },
     {
       "popularity": 721,
-      "slug": "brunei/bandar-seri-begawan",
+      "slug": "/brunei/bandar-seri-begawan",
       "city": "Bandar Seri Begawan",
       "A2": "Brunei and Muara",
       "country": "Brunei",
@@ -7171,7 +7171,7 @@ const CITIES = [
     },
     {
       "popularity": 722,
-      "slug": "guinea/conakry",
+      "slug": "/guinea/conakry",
       "city": "Conakry",
       "A2": "Conakry",
       "country": "Guinea",
@@ -7181,7 +7181,7 @@ const CITIES = [
     },
     {
       "popularity": 723,
-      "slug": "united-states/michigan/detroit",
+      "slug": "/united-states/michigan/detroit",
       "city": "Detroit",
       "A2": "Michigan",
       "country": "United States",
@@ -7191,7 +7191,7 @@ const CITIES = [
     },
     {
       "popularity": 724,
-      "slug": "germany/heidelberg",
+      "slug": "/germany/heidelberg",
       "city": "Heidelberg",
       "A2": "Baden Württemberg",
       "country": "Germany",
@@ -7201,7 +7201,7 @@ const CITIES = [
     },
     {
       "popularity": 725,
-      "slug": "colombia/santa-marta",
+      "slug": "/colombia/santa-marta",
       "city": "Santa Marta",
       "A2": "Magdalena",
       "country": "Colombia",
@@ -7211,7 +7211,7 @@ const CITIES = [
     },
     {
       "popularity": 726,
-      "slug": "france/rennes",
+      "slug": "/france/rennes",
       "city": "Rennes",
       "A2": "Bretagne",
       "country": "France",
@@ -7221,7 +7221,7 @@ const CITIES = [
     },
     {
       "popularity": 727,
-      "slug": "united-states/wisconsin/la-crosse",
+      "slug": "/united-states/wisconsin/la-crosse",
       "city": "La Crosse",
       "A2": "Wisconsin",
       "country": "United States",
@@ -7231,7 +7231,7 @@ const CITIES = [
     },
     {
       "popularity": 728,
-      "slug": "united-states/california/tracy",
+      "slug": "/united-states/california/tracy",
       "city": "Tracy",
       "A2": "California",
       "country": "United States",
@@ -7241,7 +7241,7 @@ const CITIES = [
     },
     {
       "popularity": 729,
-      "slug": "nicaragua/san-juan-del-sur",
+      "slug": "/nicaragua/san-juan-del-sur",
       "city": "San Juan Del Sur",
       "A2": "Rivas",
       "country": "Nicaragua",
@@ -7251,7 +7251,7 @@ const CITIES = [
     },
     {
       "popularity": 730,
-      "slug": "north-korea/wonsan",
+      "slug": "/north-korea/wonsan",
       "city": "Wonsan",
       "A2": "Kangwŏn",
       "country": "North Korea",
@@ -7261,7 +7261,7 @@ const CITIES = [
     },
     {
       "popularity": 731,
-      "slug": "spain/pamplona",
+      "slug": "/spain/pamplona",
       "city": "Pamplona",
       "A2": "Navarre",
       "country": "Spain",
@@ -7271,7 +7271,7 @@ const CITIES = [
     },
     {
       "popularity": 732,
-      "slug": "malawi/lilongwe",
+      "slug": "/malawi/lilongwe",
       "city": "Lilongwe",
       "A2": "Lilongwe",
       "country": "Malawi",
@@ -7281,7 +7281,7 @@ const CITIES = [
     },
     {
       "popularity": 733,
-      "slug": "canada/brampton",
+      "slug": "/canada/brampton",
       "city": "Brampton",
       "A2": "Ontario",
       "country": "Canada",
@@ -7291,7 +7291,7 @@ const CITIES = [
     },
     {
       "popularity": 734,
-      "slug": "argentina/san-juan",
+      "slug": "/argentina/san-juan",
       "city": "San Juan",
       "A2": "San Juan",
       "country": "Argentina",
@@ -7301,7 +7301,7 @@ const CITIES = [
     },
     {
       "popularity": 735,
-      "slug": "greece/thessaloniki",
+      "slug": "/greece/thessaloniki",
       "city": "Thessaloniki",
       "A2": "Kentrikí Makedonía",
       "country": "Greece",
@@ -7311,7 +7311,7 @@ const CITIES = [
     },
     {
       "popularity": 736,
-      "slug": "argentina/santa-fe",
+      "slug": "/argentina/santa-fe",
       "city": "Santa Fe",
       "A2": "Santa Fe",
       "country": "Argentina",
@@ -7321,7 +7321,7 @@ const CITIES = [
     },
     {
       "popularity": 737,
-      "slug": "cameroon/douala",
+      "slug": "/cameroon/douala",
       "city": "Douala",
       "A2": "Littoral",
       "country": "Cameroon",
@@ -7331,7 +7331,7 @@ const CITIES = [
     },
     {
       "popularity": 738,
-      "slug": "united-states/ohio/canton",
+      "slug": "/united-states/ohio/canton",
       "city": "Canton",
       "A2": "Ohio",
       "country": "United States",
@@ -7341,7 +7341,7 @@ const CITIES = [
     },
     {
       "popularity": 739,
-      "slug": "mexico/juarez",
+      "slug": "/mexico/juarez",
       "city": "Juarez",
       "A2": "Chihuahua",
       "country": "Mexico",
@@ -7351,7 +7351,7 @@ const CITIES = [
     },
     {
       "popularity": 740,
-      "slug": "china/tianjin",
+      "slug": "/china/tianjin",
       "city": "Tianjin",
       "A2": "Tianjin",
       "country": "China",
@@ -7361,7 +7361,7 @@ const CITIES = [
     },
     {
       "popularity": 741,
-      "slug": "united-states/california/hemet",
+      "slug": "/united-states/california/hemet",
       "city": "Hemet",
       "A2": "California",
       "country": "United States",
@@ -7371,7 +7371,7 @@ const CITIES = [
     },
     {
       "popularity": 742,
-      "slug": "lesotho/maseru",
+      "slug": "/lesotho/maseru",
       "city": "Maseru",
       "A2": "Maseru",
       "country": "Lesotho",
@@ -7381,7 +7381,7 @@ const CITIES = [
     },
     {
       "popularity": 743,
-      "slug": "united-states/massachusetts/springfield",
+      "slug": "/united-states/massachusetts/springfield",
       "city": "Springfield",
       "A2": "Massachusetts",
       "country": "United States",
@@ -7391,7 +7391,7 @@ const CITIES = [
     },
     {
       "popularity": 744,
-      "slug": "china/qingdao",
+      "slug": "/china/qingdao",
       "city": "Qingdao",
       "A2": "Shandong",
       "country": "China",
@@ -7401,7 +7401,7 @@ const CITIES = [
     },
     {
       "popularity": 745,
-      "slug": "brazil/campo-grande",
+      "slug": "/brazil/campo-grande",
       "city": "Campo Grande",
       "A2": "Mato Grosso do Sul",
       "country": "Brazil",
@@ -7411,7 +7411,7 @@ const CITIES = [
     },
     {
       "popularity": 746,
-      "slug": "united-states/virginia/virginia-beach",
+      "slug": "/united-states/virginia/virginia-beach",
       "city": "Virginia Beach",
       "A2": "Virginia",
       "country": "United States",
@@ -7421,7 +7421,7 @@ const CITIES = [
     },
     {
       "popularity": 747,
-      "slug": "united-states/new-hampshire/nashua",
+      "slug": "/united-states/new-hampshire/nashua",
       "city": "Nashua",
       "A2": "New Hampshire",
       "country": "United States",
@@ -7431,7 +7431,7 @@ const CITIES = [
     },
     {
       "popularity": 748,
-      "slug": "iran/tabriz",
+      "slug": "/iran/tabriz",
       "city": "Tabriz",
       "A2": "Āz̄arbāyjān e Sharqī",
       "country": "Iran",
@@ -7441,7 +7441,7 @@ const CITIES = [
     },
     {
       "popularity": 749,
-      "slug": "ireland/cork",
+      "slug": "/ireland/cork",
       "city": "Cork",
       "A2": "Cork",
       "country": "Ireland",
@@ -7451,7 +7451,7 @@ const CITIES = [
     },
     {
       "popularity": 750,
-      "slug": "united-states/maryland/frederick",
+      "slug": "/united-states/maryland/frederick",
       "city": "Frederick",
       "A2": "Maryland",
       "country": "United States",
@@ -7461,7 +7461,7 @@ const CITIES = [
     },
     {
       "popularity": 751,
-      "slug": "united-kingdom/bristol",
+      "slug": "/united-kingdom/bristol",
       "city": "Bristol",
       "A2": "Bristol, City of",
       "country": "United Kingdom",
@@ -7471,7 +7471,7 @@ const CITIES = [
     },
     {
       "popularity": 752,
-      "slug": "netherlands/utrecht",
+      "slug": "/netherlands/utrecht",
       "city": "Utrecht",
       "A2": "Utrecht",
       "country": "Netherlands",
@@ -7481,7 +7481,7 @@ const CITIES = [
     },
     {
       "popularity": 753,
-      "slug": "brazil/anapolis",
+      "slug": "/brazil/anapolis",
       "city": "Anapolis",
       "A2": "Goiás",
       "country": "Brazil",
@@ -7491,7 +7491,7 @@ const CITIES = [
     },
     {
       "popularity": 754,
-      "slug": "united-states/california/redding",
+      "slug": "/united-states/california/redding",
       "city": "Redding",
       "A2": "California",
       "country": "United States",
@@ -7501,7 +7501,7 @@ const CITIES = [
     },
     {
       "popularity": 755,
-      "slug": "australia/hobart",
+      "slug": "/australia/hobart",
       "city": "Hobart",
       "A2": "Tasmania",
       "country": "Australia",
@@ -7511,7 +7511,7 @@ const CITIES = [
     },
     {
       "popularity": 756,
-      "slug": "united-states/idaho/sandpoint",
+      "slug": "/united-states/idaho/sandpoint",
       "city": "Sandpoint",
       "A2": "Idaho",
       "country": "United States",
@@ -7521,7 +7521,7 @@ const CITIES = [
     },
     {
       "popularity": 757,
-      "slug": "spain/marbella",
+      "slug": "/spain/marbella",
       "city": "Marbella",
       "A2": "Andalusia",
       "country": "Spain",
@@ -7531,7 +7531,7 @@ const CITIES = [
     },
     {
       "popularity": 758,
-      "slug": "united-states/florida/key-west",
+      "slug": "/united-states/florida/key-west",
       "city": "Key West",
       "A2": "Florida",
       "country": "United States",
@@ -7541,7 +7541,7 @@ const CITIES = [
     },
     {
       "popularity": 759,
-      "slug": "czechia/sumperk",
+      "slug": "/czechia/sumperk",
       "city": "Sumperk",
       "A2": "Olomoucký Kraj",
       "country": "Czechia",
@@ -7551,7 +7551,7 @@ const CITIES = [
     },
     {
       "popularity": 760,
-      "slug": "iran/qom",
+      "slug": "/iran/qom",
       "city": "Qom",
       "A2": "Qom",
       "country": "Iran",
@@ -7561,7 +7561,7 @@ const CITIES = [
     },
     {
       "popularity": 761,
-      "slug": "congo-(kinshasa)/mbuji-mayi",
+      "slug": "/congo-(kinshasa)/mbuji-mayi",
       "city": "Mbuji Mayi",
       "A2": "Kasaï Oriental",
       "country": "Congo (Kinshasa)",
@@ -7571,7 +7571,7 @@ const CITIES = [
     },
     {
       "popularity": 762,
-      "slug": "argentina/la-plata",
+      "slug": "/argentina/la-plata",
       "city": "La Plata",
       "A2": "Buenos Aires",
       "country": "Argentina",
@@ -7581,7 +7581,7 @@ const CITIES = [
     },
     {
       "popularity": 763,
-      "slug": "germany/hof",
+      "slug": "/germany/hof",
       "city": "Hof",
       "A2": "Bavaria",
       "country": "Germany",
@@ -7591,7 +7591,7 @@ const CITIES = [
     },
     {
       "popularity": 764,
-      "slug": "united-states/pennsylvania/philadelphia",
+      "slug": "/united-states/pennsylvania/philadelphia",
       "city": "Philadelphia",
       "A2": "Pennsylvania",
       "country": "United States",
@@ -7601,7 +7601,7 @@ const CITIES = [
     },
     {
       "popularity": 765,
-      "slug": "united-states/hawaii/hilo",
+      "slug": "/united-states/hawaii/hilo",
       "city": "Hilo",
       "A2": "Hawaii",
       "country": "United States",
@@ -7611,7 +7611,7 @@ const CITIES = [
     },
     {
       "popularity": 766,
-      "slug": "france/nantes",
+      "slug": "/france/nantes",
       "city": "Nantes",
       "A2": "Pays de la Loire",
       "country": "France",
@@ -7621,7 +7621,7 @@ const CITIES = [
     },
     {
       "popularity": 767,
-      "slug": "australia/canberra",
+      "slug": "/australia/canberra",
       "city": "Canberra",
       "A2": "Australian Capital Territory",
       "country": "Australia",
@@ -7631,7 +7631,7 @@ const CITIES = [
     },
     {
       "popularity": 768,
-      "slug": "united-states/florida/fort-lauderdale",
+      "slug": "/united-states/florida/fort-lauderdale",
       "city": "Fort Lauderdale",
       "A2": "Florida",
       "country": "United States",
@@ -7641,7 +7641,7 @@ const CITIES = [
     },
     {
       "popularity": 769,
-      "slug": "canada/ottawa",
+      "slug": "/canada/ottawa",
       "city": "Ottawa",
       "A2": "Ontario",
       "country": "Canada",
@@ -7651,7 +7651,7 @@ const CITIES = [
     },
     {
       "popularity": 770,
-      "slug": "sierra-leone/freetown",
+      "slug": "/sierra-leone/freetown",
       "city": "Freetown",
       "A2": "Western Area",
       "country": "Sierra Leone",
@@ -7661,7 +7661,7 @@ const CITIES = [
     },
     {
       "popularity": 771,
-      "slug": "australia/adelaide",
+      "slug": "/australia/adelaide",
       "city": "Adelaide",
       "A2": "South Australia",
       "country": "Australia",
@@ -7671,7 +7671,7 @@ const CITIES = [
     },
     {
       "popularity": 772,
-      "slug": "china/nantong",
+      "slug": "/china/nantong",
       "city": "Nantong",
       "A2": "Jiangsu",
       "country": "China",
@@ -7681,7 +7681,7 @@ const CITIES = [
     },
     {
       "popularity": 773,
-      "slug": "china/nanjing",
+      "slug": "/china/nanjing",
       "city": "Nanjing",
       "A2": "Jiangsu",
       "country": "China",
@@ -7691,7 +7691,7 @@ const CITIES = [
     },
     {
       "popularity": 774,
-      "slug": "germany/erlangen",
+      "slug": "/germany/erlangen",
       "city": "Erlangen",
       "A2": "Bavaria",
       "country": "Germany",
@@ -7701,7 +7701,7 @@ const CITIES = [
     },
     {
       "popularity": 775,
-      "slug": "united-states/indiana/anderson",
+      "slug": "/united-states/indiana/anderson",
       "city": "Anderson",
       "A2": "Indiana",
       "country": "United States",
@@ -7711,7 +7711,7 @@ const CITIES = [
     },
     {
       "popularity": 776,
-      "slug": "united-kingdom/oxford",
+      "slug": "/united-kingdom/oxford",
       "city": "Oxford",
       "A2": "Oxfordshire",
       "country": "United Kingdom",
@@ -7721,7 +7721,7 @@ const CITIES = [
     },
     {
       "popularity": 777,
-      "slug": "honduras/tegucigalpa",
+      "slug": "/honduras/tegucigalpa",
       "city": "Tegucigalpa",
       "A2": "Francisco Morazán",
       "country": "Honduras",
@@ -7731,7 +7731,7 @@ const CITIES = [
     },
     {
       "popularity": 778,
-      "slug": "united-kingdom/liverpool",
+      "slug": "/united-kingdom/liverpool",
       "city": "Liverpool",
       "A2": "Liverpool",
       "country": "United Kingdom",
@@ -7741,7 +7741,7 @@ const CITIES = [
     },
     {
       "popularity": 779,
-      "slug": "morocco/essaouira",
+      "slug": "/morocco/essaouira",
       "city": "Essaouira",
       "A2": "Marrakech Safi",
       "country": "Morocco",
@@ -7751,7 +7751,7 @@ const CITIES = [
     },
     {
       "popularity": 780,
-      "slug": "montenegro/kotor",
+      "slug": "/montenegro/kotor",
       "city": "Kotor",
       "A2": "Kotor",
       "country": "Montenegro",
@@ -7761,7 +7761,7 @@ const CITIES = [
     },
     {
       "popularity": 781,
-      "slug": "united-states/nevada/sparks",
+      "slug": "/united-states/nevada/sparks",
       "city": "Sparks",
       "A2": "Nevada",
       "country": "United States",
@@ -7771,7 +7771,7 @@ const CITIES = [
     },
     {
       "popularity": 782,
-      "slug": "algeria/tebessa",
+      "slug": "/algeria/tebessa",
       "city": "Tebessa",
       "A2": "Tébessa",
       "country": "Algeria",
@@ -7781,7 +7781,7 @@ const CITIES = [
     },
     {
       "popularity": 783,
-      "slug": "united-states/florida/princeton",
+      "slug": "/united-states/florida/princeton",
       "city": "Princeton",
       "A2": "Florida",
       "country": "United States",
@@ -7791,7 +7791,7 @@ const CITIES = [
     },
     {
       "popularity": 784,
-      "slug": "netherlands/arnhem",
+      "slug": "/netherlands/arnhem",
       "city": "Arnhem",
       "A2": "Gelderland",
       "country": "Netherlands",
@@ -7801,7 +7801,7 @@ const CITIES = [
     },
     {
       "popularity": 785,
-      "slug": "netherlands/the-hague",
+      "slug": "/netherlands/the-hague",
       "city": "The Hague",
       "A2": "Zuid Holland",
       "country": "Netherlands",
@@ -7811,7 +7811,7 @@ const CITIES = [
     },
     {
       "popularity": 786,
-      "slug": "netherlands/leeuwarden",
+      "slug": "/netherlands/leeuwarden",
       "city": "Leeuwarden",
       "A2": "Fryslân",
       "country": "Netherlands",
@@ -7821,7 +7821,7 @@ const CITIES = [
     },
     {
       "popularity": 787,
-      "slug": "iran/mashhad",
+      "slug": "/iran/mashhad",
       "city": "Mashhad",
       "A2": "Khorāsān e Raẕavī",
       "country": "Iran",
@@ -7831,7 +7831,7 @@ const CITIES = [
     },
     {
       "popularity": 788,
-      "slug": "ireland/galway",
+      "slug": "/ireland/galway",
       "city": "Galway",
       "A2": "Galway",
       "country": "Ireland",
@@ -7841,7 +7841,7 @@ const CITIES = [
     },
     {
       "popularity": 789,
-      "slug": "switzerland/bern",
+      "slug": "/switzerland/bern",
       "city": "Bern",
       "A2": "Bern",
       "country": "Switzerland",
@@ -7851,7 +7851,7 @@ const CITIES = [
     },
     {
       "popularity": 791,
-      "slug": "netherlands/eindhoven",
+      "slug": "/netherlands/eindhoven",
       "city": "Eindhoven",
       "A2": "Noord Brabant",
       "country": "Netherlands",
@@ -7861,7 +7861,7 @@ const CITIES = [
     },
     {
       "popularity": 792,
-      "slug": "denmark/aalborg",
+      "slug": "/denmark/aalborg",
       "city": "Aalborg",
       "A2": "Nordjylland",
       "country": "Denmark",
@@ -7871,7 +7871,7 @@ const CITIES = [
     },
     {
       "popularity": 793,
-      "slug": "belgium/brussels",
+      "slug": "/belgium/brussels",
       "city": "Brussels",
       "A2": "Brussels Capital Region",
       "country": "Belgium",
@@ -7881,7 +7881,7 @@ const CITIES = [
     },
     {
       "popularity": 794,
-      "slug": "france/strasbourg",
+      "slug": "/france/strasbourg",
       "city": "Strasbourg",
       "A2": "Grand Est",
       "country": "France",
@@ -7891,7 +7891,7 @@ const CITIES = [
     },
     {
       "popularity": 795,
-      "slug": "china/chengdu",
+      "slug": "/china/chengdu",
       "city": "Chengdu",
       "A2": "Sichuan",
       "country": "China",
@@ -7901,7 +7901,7 @@ const CITIES = [
     },
     {
       "popularity": 796,
-      "slug": "australia/cairns",
+      "slug": "/australia/cairns",
       "city": "Cairns",
       "A2": "Queensland",
       "country": "Australia",
@@ -7911,7 +7911,7 @@ const CITIES = [
     },
     {
       "popularity": 797,
-      "slug": "united-states/florida/weston",
+      "slug": "/united-states/florida/weston",
       "city": "Weston",
       "A2": "Florida",
       "country": "United States",
@@ -7921,7 +7921,7 @@ const CITIES = [
     },
     {
       "popularity": 798,
-      "slug": "united-kingdom/leeds",
+      "slug": "/united-kingdom/leeds",
       "city": "Leeds",
       "A2": "Leeds",
       "country": "United Kingdom",
@@ -7931,7 +7931,7 @@ const CITIES = [
     },
     {
       "popularity": 799,
-      "slug": "tuvalu/funafuti",
+      "slug": "/tuvalu/funafuti",
       "city": "Funafuti",
       "A2": "Funafuti",
       "country": "Tuvalu",
@@ -7941,7 +7941,7 @@ const CITIES = [
     },
     {
       "popularity": 800,
-      "slug": "united-states/maryland/baltimore",
+      "slug": "/united-states/maryland/baltimore",
       "city": "Baltimore",
       "A2": "Maryland",
       "country": "United States",
@@ -7951,7 +7951,7 @@ const CITIES = [
     },
     {
       "popularity": 801,
-      "slug": "united-states/california/apple-valley",
+      "slug": "/united-states/california/apple-valley",
       "city": "Apple Valley",
       "A2": "California",
       "country": "United States",
@@ -7961,7 +7961,7 @@ const CITIES = [
     },
     {
       "popularity": 802,
-      "slug": "iran/tehran",
+      "slug": "/iran/tehran",
       "city": "Tehran",
       "A2": "Tehrān",
       "country": "Iran",
@@ -7971,7 +7971,7 @@ const CITIES = [
     },
     {
       "popularity": 803,
-      "slug": "united-states/florida/tallahassee",
+      "slug": "/united-states/florida/tallahassee",
       "city": "Tallahassee",
       "A2": "Florida",
       "country": "United States",
@@ -7981,7 +7981,7 @@ const CITIES = [
     },
     {
       "popularity": 804,
-      "slug": "denmark/aarhus",
+      "slug": "/denmark/aarhus",
       "city": "Aarhus",
       "A2": "Midtjylland",
       "country": "Denmark",
@@ -7991,7 +7991,7 @@ const CITIES = [
     },
     {
       "popularity": 805,
-      "slug": "brazil/sorocaba",
+      "slug": "/brazil/sorocaba",
       "city": "Sorocaba",
       "A2": "São Paulo",
       "country": "Brazil",
@@ -8001,7 +8001,7 @@ const CITIES = [
     },
     {
       "popularity": 806,
-      "slug": "australia/wollongong",
+      "slug": "/australia/wollongong",
       "city": "Wollongong",
       "A2": "New South Wales",
       "country": "Australia",
@@ -8011,7 +8011,7 @@ const CITIES = [
     },
     {
       "popularity": 807,
-      "slug": "united-states/virginia/fairfax",
+      "slug": "/united-states/virginia/fairfax",
       "city": "Fairfax",
       "A2": "Virginia",
       "country": "United States",
@@ -8021,7 +8021,7 @@ const CITIES = [
     },
     {
       "popularity": 808,
-      "slug": "united-states/florida/port-st.-lucie",
+      "slug": "/united-states/florida/port-st.-lucie",
       "city": "Port St. Lucie",
       "A2": "Florida",
       "country": "United States",
@@ -8031,7 +8031,7 @@ const CITIES = [
     },
     {
       "popularity": 809,
-      "slug": "australia/byron-bay",
+      "slug": "/australia/byron-bay",
       "city": "Byron Bay",
       "A2": "New South Wales",
       "country": "Australia",
@@ -8041,7 +8041,7 @@ const CITIES = [
     },
     {
       "popularity": 810,
-      "slug": "netherlands/zwolle",
+      "slug": "/netherlands/zwolle",
       "city": "Zwolle",
       "A2": "Overijssel",
       "country": "Netherlands",
@@ -8051,7 +8051,7 @@ const CITIES = [
     },
     {
       "popularity": 811,
-      "slug": "angola/luanda",
+      "slug": "/angola/luanda",
       "city": "Luanda",
       "A2": "Luanda",
       "country": "Angola",
@@ -8061,7 +8061,7 @@ const CITIES = [
     },
     {
       "popularity": 812,
-      "slug": "united-states/wisconsin/oshkosh",
+      "slug": "/united-states/wisconsin/oshkosh",
       "city": "Oshkosh",
       "A2": "Wisconsin",
       "country": "United States",
@@ -8071,7 +8071,7 @@ const CITIES = [
     },
     {
       "popularity": 813,
-      "slug": "pakistan/faisalabad",
+      "slug": "/pakistan/faisalabad",
       "city": "Faisalabad",
       "A2": "Punjab",
       "country": "Pakistan",
@@ -8081,7 +8081,7 @@ const CITIES = [
     },
     {
       "popularity": 814,
-      "slug": "united-states/florida/west-palm-beach",
+      "slug": "/united-states/florida/west-palm-beach",
       "city": "West Palm Beach",
       "A2": "Florida",
       "country": "United States",
@@ -8091,7 +8091,7 @@ const CITIES = [
     },
     {
       "popularity": 815,
-      "slug": "united-states/arizona/lake-havasu-city",
+      "slug": "/united-states/arizona/lake-havasu-city",
       "city": "Lake Havasu City",
       "A2": "Arizona",
       "country": "United States",
@@ -8101,7 +8101,7 @@ const CITIES = [
     },
     {
       "popularity": 816,
-      "slug": "mexico/torreon",
+      "slug": "/mexico/torreon",
       "city": "Torreon",
       "A2": "Coahuila de Zaragoza",
       "country": "Mexico",
@@ -8111,7 +8111,7 @@ const CITIES = [
     },
     {
       "popularity": 817,
-      "slug": "côte-d'ivoire/yamoussoukro",
+      "slug": "/côte-d'ivoire/yamoussoukro",
       "city": "Yamoussoukro",
       "A2": "Yamoussoukro",
       "country": "Côte d'Ivoire",
@@ -8121,7 +8121,7 @@ const CITIES = [
     },
     {
       "popularity": 818,
-      "slug": "aruba/oranjestad",
+      "slug": "/aruba/oranjestad",
       "city": "Oranjestad",
       "A2": 0,
       "country": "Aruba",
@@ -8131,7 +8131,7 @@ const CITIES = [
     },
     {
       "popularity": 819,
-      "slug": "united-states/georgia/savannah",
+      "slug": "/united-states/georgia/savannah",
       "city": "Savannah",
       "A2": "Georgia",
       "country": "United States",
@@ -8141,7 +8141,7 @@ const CITIES = [
     },
     {
       "popularity": 820,
-      "slug": "france/grenoble",
+      "slug": "/france/grenoble",
       "city": "Grenoble",
       "A2": "Auvergne Rhône Alpes",
       "country": "France",
@@ -8151,7 +8151,7 @@ const CITIES = [
     },
     {
       "popularity": 821,
-      "slug": "netherlands/deventer",
+      "slug": "/netherlands/deventer",
       "city": "Deventer",
       "A2": "Overijssel",
       "country": "Netherlands",
@@ -8161,7 +8161,7 @@ const CITIES = [
     },
     {
       "popularity": 822,
-      "slug": "ukraine/bar",
+      "slug": "/ukraine/bar",
       "city": "Bar",
       "A2": "Vinnyts’ka Oblast’",
       "country": "Ukraine",
@@ -8171,7 +8171,7 @@ const CITIES = [
     },
     {
       "popularity": 823,
-      "slug": "france/marseille",
+      "slug": "/france/marseille",
       "city": "Marseille",
       "A2": "Provence Alpes Côte d’Azur",
       "country": "France",
@@ -8181,7 +8181,7 @@ const CITIES = [
     },
     {
       "popularity": 824,
-      "slug": "united-states/south-carolina/charleston",
+      "slug": "/united-states/south-carolina/charleston",
       "city": "Charleston",
       "A2": "South Carolina",
       "country": "United States",
@@ -8191,7 +8191,7 @@ const CITIES = [
     },
     {
       "popularity": 826,
-      "slug": "netherlands/tilburg",
+      "slug": "/netherlands/tilburg",
       "city": "Tilburg",
       "A2": "Noord Brabant",
       "country": "Netherlands",
@@ -8201,7 +8201,7 @@ const CITIES = [
     },
     {
       "popularity": 827,
-      "slug": "north-korea/kaesong",
+      "slug": "/north-korea/kaesong",
       "city": "Kaesong",
       "A2": "Hwangnam",
       "country": "North Korea",
@@ -8211,7 +8211,7 @@ const CITIES = [
     },
     {
       "popularity": 828,
-      "slug": "australia/darwin",
+      "slug": "/australia/darwin",
       "city": "Darwin",
       "A2": "Northern Territory",
       "country": "Australia",
@@ -8221,7 +8221,7 @@ const CITIES = [
     },
     {
       "popularity": 829,
-      "slug": "united-states/wyoming/cody",
+      "slug": "/united-states/wyoming/cody",
       "city": "Cody",
       "A2": "Wyoming",
       "country": "United States",
@@ -8231,7 +8231,7 @@ const CITIES = [
     },
     {
       "popularity": 830,
-      "slug": "dominican-republic/jarabacoa",
+      "slug": "/dominican-republic/jarabacoa",
       "city": "Jarabacoa",
       "A2": "Cibao Sur",
       "country": "Dominican Republic",
@@ -8241,7 +8241,7 @@ const CITIES = [
     },
     {
       "popularity": 831,
-      "slug": "malta/sliema",
+      "slug": "/malta/sliema",
       "city": "Sliema",
       "A2": "Sliema",
       "country": "Malta",
@@ -8251,7 +8251,7 @@ const CITIES = [
     },
     {
       "popularity": 832,
-      "slug": "italy/rome",
+      "slug": "/italy/rome",
       "city": "Rome",
       "A2": "Lazio",
       "country": "Italy",
@@ -8261,7 +8261,7 @@ const CITIES = [
     },
     {
       "popularity": 833,
-      "slug": "mexico/puerto-vallarta",
+      "slug": "/mexico/puerto-vallarta",
       "city": "Puerto Vallarta",
       "A2": "Jalisco",
       "country": "Mexico",
@@ -8271,7 +8271,7 @@ const CITIES = [
     },
     {
       "popularity": 835,
-      "slug": "united-states/california/palo-alto",
+      "slug": "/united-states/california/palo-alto",
       "city": "Palo Alto",
       "A2": "California",
       "country": "United States",
@@ -8281,7 +8281,7 @@ const CITIES = [
     },
     {
       "popularity": 836,
-      "slug": "trinidad-and-tobago/port-of-spain",
+      "slug": "/trinidad-and-tobago/port-of-spain",
       "city": "Port Of Spain",
       "A2": "Port of Spain",
       "country": "Trinidad And Tobago",
@@ -8291,7 +8291,7 @@ const CITIES = [
     },
     {
       "popularity": 837,
-      "slug": "netherlands/breda",
+      "slug": "/netherlands/breda",
       "city": "Breda",
       "A2": "Noord Brabant",
       "country": "Netherlands",
@@ -8301,7 +8301,7 @@ const CITIES = [
     },
     {
       "popularity": 838,
-      "slug": "united-states/iowa/sioux-city",
+      "slug": "/united-states/iowa/sioux-city",
       "city": "Sioux City",
       "A2": "Iowa",
       "country": "United States",
@@ -8311,7 +8311,7 @@ const CITIES = [
     },
     {
       "popularity": 839,
-      "slug": "honduras/san-pedro-sula",
+      "slug": "/honduras/san-pedro-sula",
       "city": "San Pedro Sula",
       "A2": "Cortés",
       "country": "Honduras",
@@ -8321,7 +8321,7 @@ const CITIES = [
     },
     {
       "popularity": 840,
-      "slug": "united-states/california/sacramento",
+      "slug": "/united-states/california/sacramento",
       "city": "Sacramento",
       "A2": "California",
       "country": "United States",
@@ -8331,7 +8331,7 @@ const CITIES = [
     },
     {
       "popularity": 841,
-      "slug": "canada/cambridge",
+      "slug": "/canada/cambridge",
       "city": "Cambridge",
       "A2": "Ontario",
       "country": "Canada",
@@ -8341,7 +8341,7 @@ const CITIES = [
     },
     {
       "popularity": 842,
-      "slug": "united-states/california/santa-barbara",
+      "slug": "/united-states/california/santa-barbara",
       "city": "Santa Barbara",
       "A2": "California",
       "country": "United States",
@@ -8351,7 +8351,7 @@ const CITIES = [
     },
     {
       "popularity": 843,
-      "slug": "japan/nagoya",
+      "slug": "/japan/nagoya",
       "city": "Nagoya",
       "A2": "Aichi",
       "country": "Japan",
@@ -8361,7 +8361,7 @@ const CITIES = [
     },
     {
       "popularity": 844,
-      "slug": "united-states/california/murrieta",
+      "slug": "/united-states/california/murrieta",
       "city": "Murrieta",
       "A2": "California",
       "country": "United States",
@@ -8371,7 +8371,7 @@ const CITIES = [
     },
     {
       "popularity": 845,
-      "slug": "united-states/arizona/scottsdale",
+      "slug": "/united-states/arizona/scottsdale",
       "city": "Scottsdale",
       "A2": "Arizona",
       "country": "United States",
@@ -8381,7 +8381,7 @@ const CITIES = [
     },
     {
       "popularity": 846,
-      "slug": "italy/milan",
+      "slug": "/italy/milan",
       "city": "Milan",
       "A2": "Lombardy",
       "country": "Italy",
@@ -8391,7 +8391,7 @@ const CITIES = [
     },
     {
       "popularity": 847,
-      "slug": "congo-(kinshasa)/kananga",
+      "slug": "/congo-(kinshasa)/kananga",
       "city": "Kananga",
       "A2": "Kasaï Central",
       "country": "Congo (Kinshasa)",
@@ -8401,7 +8401,7 @@ const CITIES = [
     },
     {
       "popularity": 848,
-      "slug": "chile/valparaiso",
+      "slug": "/chile/valparaiso",
       "city": "Valparaiso",
       "A2": "Valparaíso",
       "country": "Chile",
@@ -8411,7 +8411,7 @@ const CITIES = [
     },
     {
       "popularity": 849,
-      "slug": "monaco/monaco",
+      "slug": "/monaco/monaco",
       "city": "Monaco",
       "A2": 0,
       "country": "Monaco",
@@ -8421,7 +8421,7 @@ const CITIES = [
     },
     {
       "popularity": 850,
-      "slug": "norway/tromso",
+      "slug": "/norway/tromso",
       "city": "Tromso",
       "A2": "Troms",
       "country": "Norway",
@@ -8431,7 +8431,7 @@ const CITIES = [
     },
     {
       "popularity": 851,
-      "slug": "united-states/california/mountain-view",
+      "slug": "/united-states/california/mountain-view",
       "city": "Mountain View",
       "A2": "California",
       "country": "United States",
@@ -8441,7 +8441,7 @@ const CITIES = [
     },
     {
       "popularity": 852,
-      "slug": "france/paris",
+      "slug": "/france/paris",
       "city": "Paris",
       "A2": "Île de France",
       "country": "France",
@@ -8451,7 +8451,7 @@ const CITIES = [
     },
     {
       "popularity": 853,
-      "slug": "nigeria/onitsha",
+      "slug": "/nigeria/onitsha",
       "city": "Onitsha",
       "A2": "Anambra",
       "country": "Nigeria",
@@ -8461,7 +8461,7 @@ const CITIES = [
     },
     {
       "popularity": 854,
-      "slug": "italy/florence",
+      "slug": "/italy/florence",
       "city": "Florence",
       "A2": "Tuscany",
       "country": "Italy",
@@ -8471,7 +8471,7 @@ const CITIES = [
     },
     {
       "popularity": 855,
-      "slug": "new-zealand/wanaka",
+      "slug": "/new-zealand/wanaka",
       "city": "Wanaka",
       "A2": "Otago",
       "country": "New Zealand",
@@ -8481,7 +8481,7 @@ const CITIES = [
     },
     {
       "popularity": 856,
-      "slug": "norway/trondheim",
+      "slug": "/norway/trondheim",
       "city": "Trondheim",
       "A2": "Sør Trøndelag",
       "country": "Norway",
@@ -8491,7 +8491,7 @@ const CITIES = [
     },
     {
       "popularity": 857,
-      "slug": "belgium/antwerp",
+      "slug": "/belgium/antwerp",
       "city": "Antwerp",
       "A2": "Flanders",
       "country": "Belgium",
@@ -8501,7 +8501,7 @@ const CITIES = [
     },
     {
       "popularity": 858,
-      "slug": "netherlands/zandvoort",
+      "slug": "/netherlands/zandvoort",
       "city": "Zandvoort",
       "A2": "Noord Holland",
       "country": "Netherlands",
@@ -8511,7 +8511,7 @@ const CITIES = [
     },
     {
       "popularity": 859,
-      "slug": "united-states/california/san-jose",
+      "slug": "/united-states/california/san-jose",
       "city": "San Jose",
       "A2": "California",
       "country": "United States",
@@ -8521,7 +8521,7 @@ const CITIES = [
     },
     {
       "popularity": 860,
-      "slug": "united-states/florida/fort-myers",
+      "slug": "/united-states/florida/fort-myers",
       "city": "Fort Myers",
       "A2": "Florida",
       "country": "United States",
@@ -8531,7 +8531,7 @@ const CITIES = [
     },
     {
       "popularity": 861,
-      "slug": "belize/belize-city",
+      "slug": "/belize/belize-city",
       "city": "Belize City",
       "A2": "Belize",
       "country": "Belize",
@@ -8541,7 +8541,7 @@ const CITIES = [
     },
     {
       "popularity": 862,
-      "slug": "canada/halifax",
+      "slug": "/canada/halifax",
       "city": "Halifax",
       "A2": "Nova Scotia",
       "country": "Canada",
@@ -8551,7 +8551,7 @@ const CITIES = [
     },
     {
       "popularity": 863,
-      "slug": "united-states/connecticut/stamford",
+      "slug": "/united-states/connecticut/stamford",
       "city": "Stamford",
       "A2": "Connecticut",
       "country": "United States",
@@ -8561,7 +8561,7 @@ const CITIES = [
     },
     {
       "popularity": 864,
-      "slug": "united-states/california/newport-beach",
+      "slug": "/united-states/california/newport-beach",
       "city": "Newport Beach",
       "A2": "California",
       "country": "United States",
@@ -8571,7 +8571,7 @@ const CITIES = [
     },
     {
       "popularity": 865,
-      "slug": "iran/shiraz",
+      "slug": "/iran/shiraz",
       "city": "Shiraz",
       "A2": "Fārs",
       "country": "Iran",
@@ -8581,7 +8581,7 @@ const CITIES = [
     },
     {
       "popularity": 866,
-      "slug": "malaysia/george-town",
+      "slug": "/malaysia/george-town",
       "city": "George Town",
       "A2": "Pulau Pinang",
       "country": "Malaysia",
@@ -8591,7 +8591,7 @@ const CITIES = [
     },
     {
       "popularity": 867,
-      "slug": "norway/bergen",
+      "slug": "/norway/bergen",
       "city": "Bergen",
       "A2": "Hordaland",
       "country": "Norway",
@@ -8601,7 +8601,7 @@ const CITIES = [
     },
     {
       "popularity": 868,
-      "slug": "united-states/oregon/portland",
+      "slug": "/united-states/oregon/portland",
       "city": "Portland",
       "A2": "Oregon",
       "country": "United States",
@@ -8611,7 +8611,7 @@ const CITIES = [
     },
     {
       "popularity": 869,
-      "slug": "united-states/california/south-lake-tahoe",
+      "slug": "/united-states/california/south-lake-tahoe",
       "city": "Lake Tahoe",
       "A2": "California",
       "country": "United States",
@@ -8621,7 +8621,7 @@ const CITIES = [
     },
     {
       "popularity": 870,
-      "slug": "mongolia/ulaanbaatar",
+      "slug": "/mongolia/ulaanbaatar",
       "city": "Ulaanbaatar",
       "A2": "Ulaanbaatar",
       "country": "Mongolia",
@@ -8631,7 +8631,7 @@ const CITIES = [
     },
     {
       "popularity": 871,
-      "slug": "united-states/california/oxnard",
+      "slug": "/united-states/california/oxnard",
       "city": "Oxnard",
       "A2": "California",
       "country": "United States",
@@ -8641,7 +8641,7 @@ const CITIES = [
     },
     {
       "popularity": 872,
-      "slug": "germany/kassel",
+      "slug": "/germany/kassel",
       "city": "Kassel",
       "A2": "Hesse",
       "country": "Germany",
@@ -8651,7 +8651,7 @@ const CITIES = [
     },
     {
       "popularity": 873,
-      "slug": "honduras/copan",
+      "slug": "/honduras/copan",
       "city": "Copan",
       "A2": "Copán",
       "country": "Honduras",
@@ -8661,7 +8661,7 @@ const CITIES = [
     },
     {
       "popularity": 874,
-      "slug": "united-states/arizona/phoenix",
+      "slug": "/united-states/arizona/phoenix",
       "city": "Phoenix",
       "A2": "Arizona",
       "country": "United States",
@@ -8671,7 +8671,7 @@ const CITIES = [
     },
     {
       "popularity": 875,
-      "slug": "united-states/oregon/bend",
+      "slug": "/united-states/oregon/bend",
       "city": "Bend",
       "A2": "Oregon",
       "country": "United States",
@@ -8681,7 +8681,7 @@ const CITIES = [
     },
     {
       "popularity": 876,
-      "slug": "venezuela/caracas",
+      "slug": "/venezuela/caracas",
       "city": "Caracas",
       "A2": "Distrito Capital",
       "country": "Venezuela",
@@ -8691,7 +8691,7 @@ const CITIES = [
     },
     {
       "popularity": 877,
-      "slug": "netherlands/lelystad",
+      "slug": "/netherlands/lelystad",
       "city": "Lelystad",
       "A2": "Flevoland",
       "country": "Netherlands",
@@ -8701,7 +8701,7 @@ const CITIES = [
     },
     {
       "popularity": 878,
-      "slug": "north-korea/sinuiju",
+      "slug": "/north-korea/sinuiju",
       "city": "Sinuiju",
       "A2": "P’yŏngbuk",
       "country": "North Korea",
@@ -8711,7 +8711,7 @@ const CITIES = [
     },
     {
       "popularity": 879,
-      "slug": "japan/okayama",
+      "slug": "/japan/okayama",
       "city": "Okayama",
       "A2": "Okayama",
       "country": "Japan",
@@ -8721,7 +8721,7 @@ const CITIES = [
     },
     {
       "popularity": 880,
-      "slug": "united-kingdom/sheffield",
+      "slug": "/united-kingdom/sheffield",
       "city": "Sheffield",
       "A2": "Sheffield",
       "country": "United Kingdom",
@@ -8731,7 +8731,7 @@ const CITIES = [
     },
     {
       "popularity": 881,
-      "slug": "united-states/california/monterey",
+      "slug": "/united-states/california/monterey",
       "city": "Monterey",
       "A2": "California",
       "country": "United States",
@@ -8741,7 +8741,7 @@ const CITIES = [
     },
     {
       "popularity": 882,
-      "slug": "japan/kobe",
+      "slug": "/japan/kobe",
       "city": "Kobe",
       "A2": "Hyōgo",
       "country": "Japan",
@@ -8751,7 +8751,7 @@ const CITIES = [
     },
     {
       "popularity": 883,
-      "slug": "united-states/georgia/augusta",
+      "slug": "/united-states/georgia/augusta",
       "city": "Augusta",
       "A2": "Georgia",
       "country": "United States",
@@ -8761,7 +8761,7 @@ const CITIES = [
     },
     {
       "popularity": 884,
-      "slug": "china/hefei",
+      "slug": "/china/hefei",
       "city": "Hefei",
       "A2": "Anhui",
       "country": "China",
@@ -8771,7 +8771,7 @@ const CITIES = [
     },
     {
       "popularity": 885,
-      "slug": "united-states/utah/park-city",
+      "slug": "/united-states/utah/park-city",
       "city": "Park City",
       "A2": "Utah",
       "country": "United States",
@@ -8781,7 +8781,7 @@ const CITIES = [
     },
     {
       "popularity": 886,
-      "slug": "canada/whistler",
+      "slug": "/canada/whistler",
       "city": "Whistler",
       "A2": "British Columbia",
       "country": "Canada",
@@ -8791,7 +8791,7 @@ const CITIES = [
     },
     {
       "popularity": 887,
-      "slug": "united-states/nevada/enterprise",
+      "slug": "/united-states/nevada/enterprise",
       "city": "Enterprise",
       "A2": "Nevada",
       "country": "United States",
@@ -8801,7 +8801,7 @@ const CITIES = [
     },
     {
       "popularity": 888,
-      "slug": "united-kingdom/cheltenham",
+      "slug": "/united-kingdom/cheltenham",
       "city": "Cheltenham",
       "A2": "Gloucestershire",
       "country": "United Kingdom",
@@ -8811,7 +8811,7 @@ const CITIES = [
     },
     {
       "popularity": 889,
-      "slug": "netherlands/haarlem",
+      "slug": "/netherlands/haarlem",
       "city": "Haarlem",
       "A2": "Noord Holland",
       "country": "Netherlands",
@@ -8821,7 +8821,7 @@ const CITIES = [
     },
     {
       "popularity": 890,
-      "slug": "united-states/washington/bellevue",
+      "slug": "/united-states/washington/bellevue",
       "city": "Bellevue",
       "A2": "Washington",
       "country": "United States",
@@ -8831,7 +8831,7 @@ const CITIES = [
     },
     {
       "popularity": 891,
-      "slug": "united-states/washington/spokane-valley",
+      "slug": "/united-states/washington/spokane-valley",
       "city": "Spokane Valley",
       "A2": "Washington",
       "country": "United States",
@@ -8841,7 +8841,7 @@ const CITIES = [
     },
     {
       "popularity": 892,
-      "slug": "united-states/california/menlo-park",
+      "slug": "/united-states/california/menlo-park",
       "city": "Menlo Park",
       "A2": "California",
       "country": "United States",
@@ -8851,7 +8851,7 @@ const CITIES = [
     },
     {
       "popularity": 893,
-      "slug": "united-states/wisconsin/green-bay",
+      "slug": "/united-states/wisconsin/green-bay",
       "city": "Green Bay",
       "A2": "Wisconsin",
       "country": "United States",
@@ -8861,7 +8861,7 @@ const CITIES = [
     },
     {
       "popularity": 894,
-      "slug": "united-states/texas/midland",
+      "slug": "/united-states/texas/midland",
       "city": "Midland",
       "A2": "Texas",
       "country": "United States",
@@ -8871,7 +8871,7 @@ const CITIES = [
     },
     {
       "popularity": 895,
-      "slug": "united-states/minnesota/duluth",
+      "slug": "/united-states/minnesota/duluth",
       "city": "Duluth",
       "A2": "Minnesota",
       "country": "United States",
@@ -8881,7 +8881,7 @@ const CITIES = [
     },
     {
       "popularity": 896,
-      "slug": "italy/pisa",
+      "slug": "/italy/pisa",
       "city": "Pisa",
       "A2": "Tuscany",
       "country": "Italy",
@@ -8891,7 +8891,7 @@ const CITIES = [
     },
     {
       "popularity": 897,
-      "slug": "switzerland/lugano",
+      "slug": "/switzerland/lugano",
       "city": "Lugano",
       "A2": "Ticino",
       "country": "Switzerland",
@@ -8901,7 +8901,7 @@ const CITIES = [
     },
     {
       "popularity": 898,
-      "slug": "united-states/florida/cape-coral",
+      "slug": "/united-states/florida/cape-coral",
       "city": "Cape Coral",
       "A2": "Florida",
       "country": "United States",
@@ -8911,7 +8911,7 @@ const CITIES = [
     },
     {
       "popularity": 899,
-      "slug": "united-states/california/petaluma",
+      "slug": "/united-states/california/petaluma",
       "city": "Petaluma",
       "A2": "California",
       "country": "United States",
@@ -8921,7 +8921,7 @@ const CITIES = [
     },
     {
       "popularity": 900,
-      "slug": "united-states/florida/plantation",
+      "slug": "/united-states/florida/plantation",
       "city": "Plantation",
       "A2": "Florida",
       "country": "United States",
@@ -8931,7 +8931,7 @@ const CITIES = [
     },
     {
       "popularity": 901,
-      "slug": "canada/edmonton",
+      "slug": "/canada/edmonton",
       "city": "Edmonton",
       "A2": "Alberta",
       "country": "Canada",
@@ -8941,7 +8941,7 @@ const CITIES = [
     },
     {
       "popularity": 902,
-      "slug": "united-states/massachusetts/worcester",
+      "slug": "/united-states/massachusetts/worcester",
       "city": "Worcester",
       "A2": "Massachusetts",
       "country": "United States",
@@ -8951,7 +8951,7 @@ const CITIES = [
     },
     {
       "popularity": 903,
-      "slug": "brazil/santa-teresa",
+      "slug": "/brazil/santa-teresa",
       "city": "Santa Teresa",
       "A2": "Espírito Santo",
       "country": "Brazil",
@@ -8961,7 +8961,7 @@ const CITIES = [
     },
     {
       "popularity": 904,
-      "slug": "chile/iquique",
+      "slug": "/chile/iquique",
       "city": "Iquique",
       "A2": "Tarapacá",
       "country": "Chile",
@@ -8971,7 +8971,7 @@ const CITIES = [
     },
     {
       "popularity": 905,
-      "slug": "belgium/leuven",
+      "slug": "/belgium/leuven",
       "city": "Leuven",
       "A2": "Flanders",
       "country": "Belgium",
@@ -8981,7 +8981,7 @@ const CITIES = [
     },
     {
       "popularity": 906,
-      "slug": "morocco/laayoune",
+      "slug": "/morocco/laayoune",
       "city": "Laayoune",
       "A2": "Laâyoune Sakia El Hamra",
       "country": "Morocco",
@@ -8991,7 +8991,7 @@ const CITIES = [
     },
     {
       "popularity": 907,
-      "slug": "paraguay/san-ignacio",
+      "slug": "/paraguay/san-ignacio",
       "city": "San Ignacio",
       "A2": "Misiones",
       "country": "Paraguay",
@@ -9001,7 +9001,7 @@ const CITIES = [
     },
     {
       "popularity": 908,
-      "slug": "united-states/florida/port-orange",
+      "slug": "/united-states/florida/port-orange",
       "city": "Port Orange",
       "A2": "Florida",
       "country": "United States",
@@ -9011,7 +9011,7 @@ const CITIES = [
     },
     {
       "popularity": 909,
-      "slug": "united-states/florida/sarasota",
+      "slug": "/united-states/florida/sarasota",
       "city": "Sarasota",
       "A2": "Florida",
       "country": "United States",
@@ -9021,7 +9021,7 @@ const CITIES = [
     },
     {
       "popularity": 910,
-      "slug": "italy/trieste",
+      "slug": "/italy/trieste",
       "city": "Trieste",
       "A2": "Friuli Venezia Giulia",
       "country": "Italy",
@@ -9031,7 +9031,7 @@ const CITIES = [
     },
     {
       "popularity": 911,
-      "slug": "united-states/florida/daytona-beach",
+      "slug": "/united-states/florida/daytona-beach",
       "city": "Daytona Beach",
       "A2": "Florida",
       "country": "United States",
@@ -9041,7 +9041,7 @@ const CITIES = [
     },
     {
       "popularity": 912,
-      "slug": "united-states/california/indio",
+      "slug": "/united-states/california/indio",
       "city": "Indio",
       "A2": "California",
       "country": "United States",
@@ -9051,7 +9051,7 @@ const CITIES = [
     },
     {
       "popularity": 913,
-      "slug": "united-states/florida/bradenton",
+      "slug": "/united-states/florida/bradenton",
       "city": "Bradenton",
       "A2": "Florida",
       "country": "United States",
@@ -9061,7 +9061,7 @@ const CITIES = [
     },
     {
       "popularity": 914,
-      "slug": "united-states/louisiana/lake-charles",
+      "slug": "/united-states/louisiana/lake-charles",
       "city": "Lake Charles",
       "A2": "Louisiana",
       "country": "United States",
@@ -9071,7 +9071,7 @@ const CITIES = [
     },
     {
       "popularity": 915,
-      "slug": "philippines/san-mateo",
+      "slug": "/philippines/san-mateo",
       "city": "San Mateo",
       "A2": "Rizal",
       "country": "Philippines",
@@ -9081,7 +9081,7 @@ const CITIES = [
     },
     {
       "popularity": 916,
-      "slug": "japan/kitakyushu",
+      "slug": "/japan/kitakyushu",
       "city": "Kitakyushu",
       "A2": "Fukuoka",
       "country": "Japan",
@@ -9091,7 +9091,7 @@ const CITIES = [
     },
     {
       "popularity": 917,
-      "slug": "oman/muscat",
+      "slug": "/oman/muscat",
       "city": "Muscat",
       "A2": "Masqaţ",
       "country": "Oman",
@@ -9101,7 +9101,7 @@ const CITIES = [
     },
     {
       "popularity": 918,
-      "slug": "united-states/alabama/tuscaloosa",
+      "slug": "/united-states/alabama/tuscaloosa",
       "city": "Tuscaloosa",
       "A2": "Alabama",
       "country": "United States",
@@ -9111,7 +9111,7 @@ const CITIES = [
     },
     {
       "popularity": 919,
-      "slug": "united-states/california/brentwood",
+      "slug": "/united-states/california/brentwood",
       "city": "Brentwood",
       "A2": "California",
       "country": "United States",
@@ -9121,7 +9121,7 @@ const CITIES = [
     },
     {
       "popularity": 920,
-      "slug": "netherlands/kralendijk",
+      "slug": "/netherlands/kralendijk",
       "city": "Kralendijk",
       "A2": 0,
       "country": "Netherlands",
@@ -9131,7 +9131,7 @@ const CITIES = [
     },
     {
       "popularity": 921,
-      "slug": "china/shenzhen",
+      "slug": "/china/shenzhen",
       "city": "Shenzhen",
       "A2": "Guangdong",
       "country": "China",
@@ -9141,7 +9141,7 @@ const CITIES = [
     },
     {
       "popularity": 922,
-      "slug": "united-states/florida/bonita-springs",
+      "slug": "/united-states/florida/bonita-springs",
       "city": "Bonita Springs",
       "A2": "Florida",
       "country": "United States",
@@ -9151,7 +9151,7 @@ const CITIES = [
     },
     {
       "popularity": 923,
-      "slug": "brazil/manaus",
+      "slug": "/brazil/manaus",
       "city": "Manaus",
       "A2": "Amazonas",
       "country": "Brazil",
@@ -9161,7 +9161,7 @@ const CITIES = [
     },
     {
       "popularity": 924,
-      "slug": "mexico/mexicali",
+      "slug": "/mexico/mexicali",
       "city": "Mexicali",
       "A2": "Baja California",
       "country": "Mexico",
@@ -9171,7 +9171,7 @@ const CITIES = [
     },
     {
       "popularity": 925,
-      "slug": "israel/haifa",
+      "slug": "/israel/haifa",
       "city": "Haifa",
       "A2": "Haifa",
       "country": "Israel",
@@ -9181,7 +9181,7 @@ const CITIES = [
     },
     {
       "popularity": 926,
-      "slug": "france/cannes",
+      "slug": "/france/cannes",
       "city": "Cannes",
       "A2": "Provence Alpes Côte d’Azur",
       "country": "France",
@@ -9191,7 +9191,7 @@ const CITIES = [
     },
     {
       "popularity": 927,
-      "slug": "cyprus/larnaca",
+      "slug": "/cyprus/larnaca",
       "city": "Larnaca",
       "A2": "Lárnaka",
       "country": "Cyprus",
@@ -9201,7 +9201,7 @@ const CITIES = [
     },
     {
       "popularity": 928,
-      "slug": "united-states/texas/galveston",
+      "slug": "/united-states/texas/galveston",
       "city": "Galveston",
       "A2": "Texas",
       "country": "United States",
@@ -9211,7 +9211,7 @@ const CITIES = [
     },
     {
       "popularity": 929,
-      "slug": "philippines/santa-rosa",
+      "slug": "/philippines/santa-rosa",
       "city": "Santa Rosa",
       "A2": "Laguna",
       "country": "Philippines",
@@ -9221,7 +9221,7 @@ const CITIES = [
     },
     {
       "popularity": 930,
-      "slug": "ghana/accra",
+      "slug": "/ghana/accra",
       "city": "Accra",
       "A2": "Greater Accra",
       "country": "Ghana",
@@ -9231,7 +9231,7 @@ const CITIES = [
     },
     {
       "popularity": 931,
-      "slug": "british-virgin-islands/road-town",
+      "slug": "/british-virgin-islands/road-town",
       "city": "Road Town",
       "A2": 0,
       "country": "British Virgin Islands",
@@ -9241,7 +9241,7 @@ const CITIES = [
     },
     {
       "popularity": 932,
-      "slug": "united-kingdom/shrewsbury",
+      "slug": "/united-kingdom/shrewsbury",
       "city": "Shrewsbury",
       "A2": "Shropshire",
       "country": "United Kingdom",
@@ -9251,7 +9251,7 @@ const CITIES = [
     },
     {
       "popularity": 933,
-      "slug": "gibraltar/gibraltar",
+      "slug": "/gibraltar/gibraltar",
       "city": "Gibraltar",
       "A2": 0,
       "country": "Gibraltar",
@@ -9261,7 +9261,7 @@ const CITIES = [
     },
     {
       "popularity": 934,
-      "slug": "belgium/bruges",
+      "slug": "/belgium/bruges",
       "city": "Bruges",
       "A2": "Flanders",
       "country": "Belgium",
@@ -9271,7 +9271,7 @@ const CITIES = [
     },
     {
       "popularity": 935,
-      "slug": "china/wuhan",
+      "slug": "/china/wuhan",
       "city": "Wuhan",
       "A2": "Hubei",
       "country": "China",
@@ -9281,7 +9281,7 @@ const CITIES = [
     },
     {
       "popularity": 936,
-      "slug": "united-states/california/palm-desert",
+      "slug": "/united-states/california/palm-desert",
       "city": "Palm Desert",
       "A2": "California",
       "country": "United States",
@@ -9291,7 +9291,7 @@ const CITIES = [
     },
     {
       "popularity": 937,
-      "slug": "united-states/california/cathedral-city",
+      "slug": "/united-states/california/cathedral-city",
       "city": "Cathedral City",
       "A2": "California",
       "country": "United States",
@@ -9301,7 +9301,7 @@ const CITIES = [
     },
     {
       "popularity": 938,
-      "slug": "united-states/california/carlsbad",
+      "slug": "/united-states/california/carlsbad",
       "city": "Carlsbad",
       "A2": "California",
       "country": "United States",
@@ -9311,7 +9311,7 @@ const CITIES = [
     },
     {
       "popularity": 939,
-      "slug": "united-states/idaho/coeur-d'alene",
+      "slug": "/united-states/idaho/coeur-d'alene",
       "city": "Coeur D'Alene",
       "A2": "Idaho",
       "country": "United States",
@@ -9321,7 +9321,7 @@ const CITIES = [
     },
     {
       "popularity": 940,
-      "slug": "italy/trento",
+      "slug": "/italy/trento",
       "city": "Trento",
       "A2": "Trentino Alto Adige",
       "country": "Italy",
@@ -9331,7 +9331,7 @@ const CITIES = [
     },
     {
       "popularity": 941,
-      "slug": "united-states/california/oceanside",
+      "slug": "/united-states/california/oceanside",
       "city": "Oceanside",
       "A2": "California",
       "country": "United States",
@@ -9341,7 +9341,7 @@ const CITIES = [
     },
     {
       "popularity": 942,
-      "slug": "france/annecy",
+      "slug": "/france/annecy",
       "city": "Annecy",
       "A2": "Auvergne Rhône Alpes",
       "country": "France",
@@ -9351,7 +9351,7 @@ const CITIES = [
     },
     {
       "popularity": 943,
-      "slug": "spain/ibiza",
+      "slug": "/spain/ibiza",
       "city": "Ibiza",
       "A2": "Balearic Islands",
       "country": "Spain",
@@ -9361,7 +9361,7 @@ const CITIES = [
     },
     {
       "popularity": 944,
-      "slug": "switzerland/basel",
+      "slug": "/switzerland/basel",
       "city": "Basel",
       "A2": "Basel Stadt",
       "country": "Switzerland",
@@ -9371,7 +9371,7 @@ const CITIES = [
     },
     {
       "popularity": 946,
-      "slug": "france/bordeaux",
+      "slug": "/france/bordeaux",
       "city": "Bordeaux",
       "A2": "Nouvelle Aquitaine",
       "country": "France",
@@ -9381,7 +9381,7 @@ const CITIES = [
     },
     {
       "popularity": 947,
-      "slug": "canada/banff",
+      "slug": "/canada/banff",
       "city": "Banff",
       "A2": "Alberta",
       "country": "Canada",
@@ -9391,7 +9391,7 @@ const CITIES = [
     },
     {
       "popularity": 948,
-      "slug": "italy/padova",
+      "slug": "/italy/padova",
       "city": "Padova",
       "A2": "Veneto",
       "country": "Italy",
@@ -9401,7 +9401,7 @@ const CITIES = [
     },
     {
       "popularity": 949,
-      "slug": "jersey/saint-helier",
+      "slug": "/jersey/saint-helier",
       "city": "Saint Helier",
       "A2": 0,
       "country": "Jersey",
@@ -9411,7 +9411,7 @@ const CITIES = [
     },
     {
       "popularity": 950,
-      "slug": "united-states/texas/san-angelo",
+      "slug": "/united-states/texas/san-angelo",
       "city": "San Angelo",
       "A2": "Texas",
       "country": "United States",
@@ -9421,7 +9421,7 @@ const CITIES = [
     },
     {
       "popularity": 951,
-      "slug": "japan/ube",
+      "slug": "/japan/ube",
       "city": "Ube",
       "A2": "Yamaguchi",
       "country": "Japan",
@@ -9431,7 +9431,7 @@ const CITIES = [
     },
     {
       "popularity": 952,
-      "slug": "united-states/montana/bozeman",
+      "slug": "/united-states/montana/bozeman",
       "city": "Bozeman",
       "A2": "Montana",
       "country": "United States",
@@ -9441,7 +9441,7 @@ const CITIES = [
     },
     {
       "popularity": 953,
-      "slug": "united-states/california/temecula",
+      "slug": "/united-states/california/temecula",
       "city": "Temecula",
       "A2": "California",
       "country": "United States",
@@ -9451,7 +9451,7 @@ const CITIES = [
     },
     {
       "popularity": 954,
-      "slug": "united-states/california/san-clemente",
+      "slug": "/united-states/california/san-clemente",
       "city": "San Clemente",
       "A2": "California",
       "country": "United States",
@@ -9461,7 +9461,7 @@ const CITIES = [
     },
     {
       "popularity": 955,
-      "slug": "united-states/oregon/beaverton",
+      "slug": "/united-states/oregon/beaverton",
       "city": "Beaverton",
       "A2": "Oregon",
       "country": "United States",
@@ -9471,7 +9471,7 @@ const CITIES = [
     },
     {
       "popularity": 956,
-      "slug": "united-arab-emirates/abu-dhabi",
+      "slug": "/united-arab-emirates/abu-dhabi",
       "city": "Abu Dhabi",
       "A2": "Abū Z̧aby",
       "country": "United Arab Emirates",
@@ -9481,7 +9481,7 @@ const CITIES = [
     },
     {
       "popularity": 957,
-      "slug": "jamaica/montego-bay",
+      "slug": "/jamaica/montego-bay",
       "city": "Montego Bay",
       "A2": "Saint James",
       "country": "Jamaica",
@@ -9491,7 +9491,7 @@ const CITIES = [
     },
     {
       "popularity": 958,
-      "slug": "austria/salzburg",
+      "slug": "/austria/salzburg",
       "city": "Salzburg",
       "A2": "Salzburg",
       "country": "Austria",
@@ -9501,7 +9501,7 @@ const CITIES = [
     },
     {
       "popularity": 959,
-      "slug": "united-states/california/vista",
+      "slug": "/united-states/california/vista",
       "city": "Vista",
       "A2": "California",
       "country": "United States",
@@ -9511,7 +9511,7 @@ const CITIES = [
     },
     {
       "popularity": 961,
-      "slug": "italy/naples",
+      "slug": "/italy/naples",
       "city": "Naples",
       "A2": "Campania",
       "country": "Italy",
@@ -9521,7 +9521,7 @@ const CITIES = [
     },
     {
       "popularity": 962,
-      "slug": "saudi-arabia/jeddah",
+      "slug": "/saudi-arabia/jeddah",
       "city": "Jeddah",
       "A2": "Makkah al Mukarramah",
       "country": "Saudi Arabia",
@@ -9531,7 +9531,7 @@ const CITIES = [
     },
     {
       "popularity": 963,
-      "slug": "austria/innsbruck",
+      "slug": "/austria/innsbruck",
       "city": "Innsbruck",
       "A2": "Tirol",
       "country": "Austria",
@@ -9541,7 +9541,7 @@ const CITIES = [
     },
     {
       "popularity": 964,
-      "slug": "philippines/san-sebastian",
+      "slug": "/philippines/san-sebastian",
       "city": "San Sebastian",
       "A2": "Samar",
       "country": "Philippines",
@@ -9551,7 +9551,7 @@ const CITIES = [
     },
     {
       "popularity": 965,
-      "slug": "switzerland/lausanne",
+      "slug": "/switzerland/lausanne",
       "city": "Lausanne",
       "A2": "Vaud",
       "country": "Switzerland",
@@ -9561,7 +9561,7 @@ const CITIES = [
     },
     {
       "popularity": 966,
-      "slug": "united-states/colorado/centennial",
+      "slug": "/united-states/colorado/centennial",
       "city": "Centennial",
       "A2": "Colorado",
       "country": "United States",
@@ -9571,7 +9571,7 @@ const CITIES = [
     },
     {
       "popularity": 967,
-      "slug": "japan/nagasaki",
+      "slug": "/japan/nagasaki",
       "city": "Nagasaki",
       "A2": "Nagasaki",
       "country": "Japan",
@@ -9581,7 +9581,7 @@ const CITIES = [
     },
     {
       "popularity": 968,
-      "slug": "netherlands/almere",
+      "slug": "/netherlands/almere",
       "city": "Almere",
       "A2": "Flevoland",
       "country": "Netherlands",
@@ -9591,7 +9591,7 @@ const CITIES = [
     },
     {
       "popularity": 969,
-      "slug": "united-states/new-mexico/taos",
+      "slug": "/united-states/new-mexico/taos",
       "city": "Taos",
       "A2": "New Mexico",
       "country": "United States",
@@ -9601,7 +9601,7 @@ const CITIES = [
     },
     {
       "popularity": 970,
-      "slug": "italy/genoa",
+      "slug": "/italy/genoa",
       "city": "Genoa",
       "A2": "Liguria",
       "country": "Italy",
@@ -9611,7 +9611,7 @@ const CITIES = [
     },
     {
       "popularity": 971,
-      "slug": "north-korea/hamhung",
+      "slug": "/north-korea/hamhung",
       "city": "Hamhung",
       "A2": "Hamnam",
       "country": "North Korea",
@@ -9621,7 +9621,7 @@ const CITIES = [
     },
     {
       "popularity": 972,
-      "slug": "solomon-islands/honiara",
+      "slug": "/solomon-islands/honiara",
       "city": "Honiara",
       "A2": "Honiara",
       "country": "Solomon Islands",
@@ -9631,7 +9631,7 @@ const CITIES = [
     },
     {
       "popularity": 973,
-      "slug": "macau/macau",
+      "slug": "/macau/macau",
       "city": "Macau",
       "A2": 0,
       "country": "Macau",
@@ -9641,7 +9641,7 @@ const CITIES = [
     },
     {
       "popularity": 974,
-      "slug": "united-states/nevada/incline-village",
+      "slug": "/united-states/nevada/incline-village",
       "city": "Incline Village",
       "A2": "Nevada",
       "country": "United States",
@@ -9651,7 +9651,7 @@ const CITIES = [
     },
     {
       "popularity": 975,
-      "slug": "mauritania/nouakchott",
+      "slug": "/mauritania/nouakchott",
       "city": "Nouakchott",
       "A2": 0,
       "country": "Mauritania",
@@ -9661,7 +9661,7 @@ const CITIES = [
     },
     {
       "popularity": 976,
-      "slug": "united-states/nevada/henderson",
+      "slug": "/united-states/nevada/henderson",
       "city": "Henderson",
       "A2": "Nevada",
       "country": "United States",
@@ -9671,7 +9671,7 @@ const CITIES = [
     },
     {
       "popularity": 977,
-      "slug": "kuwait/kuwait-city",
+      "slug": "/kuwait/kuwait-city",
       "city": "Kuwait City",
       "A2": "Al ‘Āşimah",
       "country": "Kuwait",
@@ -9681,7 +9681,7 @@ const CITIES = [
     },
     {
       "popularity": 978,
-      "slug": "japan/osaka",
+      "slug": "/japan/osaka",
       "city": "Osaka",
       "A2": "Ōsaka",
       "country": "Japan",
@@ -9691,7 +9691,7 @@ const CITIES = [
     },
     {
       "popularity": 979,
-      "slug": "greece/rethymno",
+      "slug": "/greece/rethymno",
       "city": "Rethymno",
       "A2": "Kríti",
       "country": "Greece",
@@ -9701,7 +9701,7 @@ const CITIES = [
     },
     {
       "popularity": 980,
-      "slug": "philippines/santa-maria",
+      "slug": "/philippines/santa-maria",
       "city": "Santa Maria",
       "A2": "Bulacan",
       "country": "Philippines",
@@ -9711,7 +9711,7 @@ const CITIES = [
     },
     {
       "popularity": 981,
-      "slug": "france/biarritz",
+      "slug": "/france/biarritz",
       "city": "Biarritz",
       "A2": "Nouvelle Aquitaine",
       "country": "France",
@@ -9721,7 +9721,7 @@ const CITIES = [
     },
     {
       "popularity": 982,
-      "slug": "turkey/bursa",
+      "slug": "/turkey/bursa",
       "city": "Bursa",
       "A2": "Bursa",
       "country": "Turkey",
@@ -9731,7 +9731,7 @@ const CITIES = [
     },
     {
       "popularity": 983,
-      "slug": "china/foshan",
+      "slug": "/china/foshan",
       "city": "Foshan",
       "A2": "Guangdong",
       "country": "China",
@@ -9741,7 +9741,7 @@ const CITIES = [
     },
     {
       "popularity": 984,
-      "slug": "norway/alesund",
+      "slug": "/norway/alesund",
       "city": "Alesund",
       "A2": "Møre og Romsdal",
       "country": "Norway",
@@ -9751,7 +9751,7 @@ const CITIES = [
     },
     {
       "popularity": 985,
-      "slug": "israel/beersheba",
+      "slug": "/israel/beersheba",
       "city": "Beersheba",
       "A2": "Southern",
       "country": "Israel",
@@ -9761,7 +9761,7 @@ const CITIES = [
     },
     {
       "popularity": 986,
-      "slug": "united-states/california/napa",
+      "slug": "/united-states/california/napa",
       "city": "Napa",
       "A2": "California",
       "country": "United States",
@@ -9771,7 +9771,7 @@ const CITIES = [
     },
     {
       "popularity": 987,
-      "slug": "united-states/montana/billings",
+      "slug": "/united-states/montana/billings",
       "city": "Billings",
       "A2": "Montana",
       "country": "United States",
@@ -9781,7 +9781,7 @@ const CITIES = [
     },
     {
       "popularity": 988,
-      "slug": "united-kingdom/stanley",
+      "slug": "/united-kingdom/stanley",
       "city": "Stanley",
       "A2": "Wakefield",
       "country": "United Kingdom",
@@ -9791,7 +9791,7 @@ const CITIES = [
     },
     {
       "popularity": 989,
-      "slug": "italy/bologna",
+      "slug": "/italy/bologna",
       "city": "Bologna",
       "A2": "Emilia Romagna",
       "country": "Italy",
@@ -9801,7 +9801,7 @@ const CITIES = [
     },
     {
       "popularity": 990,
-      "slug": "the-bahamas/nassau",
+      "slug": "/the-bahamas/nassau",
       "city": "Nassau",
       "A2": 0,
       "country": "The Bahamas",
@@ -9811,7 +9811,7 @@ const CITIES = [
     },
     {
       "popularity": 991,
-      "slug": "germany/darmstadt",
+      "slug": "/germany/darmstadt",
       "city": "Darmstadt",
       "A2": "Hesse",
       "country": "Germany",
@@ -9821,7 +9821,7 @@ const CITIES = [
     },
     {
       "popularity": 992,
-      "slug": "canada/hamilton",
+      "slug": "/canada/hamilton",
       "city": "Hamilton",
       "A2": "Ontario",
       "country": "Canada",
@@ -9831,7 +9831,7 @@ const CITIES = [
     },
     {
       "popularity": 993,
-      "slug": "china/zhangzhou",
+      "slug": "/china/zhangzhou",
       "city": "Zhangzhou",
       "A2": "Fujian",
       "country": "China",
@@ -9841,7 +9841,7 @@ const CITIES = [
     },
     {
       "popularity": 994,
-      "slug": "iraq/erbil",
+      "slug": "/iraq/erbil",
       "city": "Erbil",
       "A2": "Arbīl",
       "country": "Iraq",
@@ -9851,7 +9851,7 @@ const CITIES = [
     },
     {
       "popularity": 995,
-      "slug": "italy/modena",
+      "slug": "/italy/modena",
       "city": "Modena",
       "A2": "Emilia Romagna",
       "country": "Italy",
@@ -9861,7 +9861,7 @@ const CITIES = [
     },
     {
       "popularity": 996,
-      "slug": "japan/kagoshima",
+      "slug": "/japan/kagoshima",
       "city": "Kagoshima",
       "A2": "Kagoshima",
       "country": "Japan",
@@ -9871,7 +9871,7 @@ const CITIES = [
     },
     {
       "popularity": 997,
-      "slug": "united-kingdom/brighton",
+      "slug": "/united-kingdom/brighton",
       "city": "Brighton",
       "A2": "Brighton and Hove",
       "country": "United Kingdom",
@@ -9881,7 +9881,7 @@ const CITIES = [
     },
     {
       "popularity": 998,
-      "slug": "norway/arendal",
+      "slug": "/norway/arendal",
       "city": "Arendal",
       "A2": "Aust Agder",
       "country": "Norway",
@@ -9891,7 +9891,7 @@ const CITIES = [
     },
     {
       "popularity": 999,
-      "slug": "luxembourg/luxembourg",
+      "slug": "/luxembourg/luxembourg",
       "city": "Luxembourg",
       "A2": "Luxembourg",
       "country": "Luxembourg",
@@ -9901,7 +9901,7 @@ const CITIES = [
     },
     {
       "popularity": 1000,
-      "slug": "germany/dusseldorf",
+      "slug": "/germany/dusseldorf",
       "city": "Dusseldorf",
       "A2": "North Rhine Westphalia",
       "country": "Germany",
@@ -9911,7 +9911,7 @@ const CITIES = [
     },
     {
       "popularity": 1001,
-      "slug": "finland/rovaniemi",
+      "slug": "/finland/rovaniemi",
       "city": "Rovaniemi",
       "A2": "Lappi",
       "country": "Finland",
@@ -9921,7 +9921,7 @@ const CITIES = [
     },
     {
       "popularity": 1002,
-      "slug": "italy/monza",
+      "slug": "/italy/monza",
       "city": "Monza",
       "A2": "Lombardy",
       "country": "Italy",
@@ -9931,7 +9931,7 @@ const CITIES = [
     },
     {
       "popularity": 1004,
-      "slug": "saudi-arabia/mecca",
+      "slug": "/saudi-arabia/mecca",
       "city": "Mecca",
       "A2": "Makkah al Mukarramah",
       "country": "Saudi Arabia",
@@ -9942,9 +9942,9 @@ const CITIES = [
   ] 
 
   export function getCityBySlug(slugParam) {
-    console.log('getting city');
-    console.log(slugParam);
-    return CITIES.filter((city) => city.slug === slugParam);
+    const slug = slugParam.replace('/where','')
+
+    return CITIES.filter((city) => city.slug === slug);
   }
   
   export function getAllEvents() {

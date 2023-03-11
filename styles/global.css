@@ -1,12 +1,45 @@
-html,
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
+
 body {
-  padding: 0;
-  margin: 0;
-  background-color: #000000;
+  /* ##### TESTING ##### */
+  --test-color: rgb(0, 255, 0);
+  --test-border: solid 1px rgb(0, 255, 0);
+
+  /* ##### FONTS ##### */ 
+  --font-fam-base: 'Montserrat', sans-serif;
+  --font-weight-light: 300;
+  --font-weight-bold: 700;
+
+  --font-size-reg: 15px;
+  --font-size-small: 12px;
+  --font-size-lg: 22px;
+  --font-size-xl: 28px;
+
+  --line-height-reg: calc(var(--font-size-reg) * 1.5);
+  
+  /* ##### COLORS ##### */
+  --color-rich-black: rgb(1,2,3);
+  --color-light-black: rgb(30, 30, 30);
+  --color-just-white: rgb(255, 255, 255);
+
+  /* ##### LAYOUT ##### */
+  --width-max: 1120px;
+
+  /* SPACERS */
+  --spacer-base: 8px;
+  --spacer-vsmall: var(--spacer-base);
+  --spacer-small: calc(var(--spacer-base) * 2); 
+  --spacer-reg: calc(var(--spacer-base) * 4);
+  --spacer-large: calc(var(--spacer-base) * 5);
+  --spacer-xlarge: calc(var(--spacer-base) * 8);
+
+  /* ##### END VARS ##### */
+  background-color: var(--color-rich-black);
 }
 
 * {
-  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
 main {
@@ -28,7 +61,7 @@ footer {
 }
 
 p, h1, h2, h3, h4, h5, h6 {
-  color: #ffffff;
+  color: #000000;
 }
 
 a {

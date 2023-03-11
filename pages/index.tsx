@@ -1,6 +1,8 @@
 import Head from 'next/head'
 import Image from 'next/image'
 
+import SearchBar from '@/components/search/searchBar'
+
 import styles from '@/pages/index.module.css'
 
 export default function Home() {
@@ -12,9 +14,11 @@ export default function Home() {
       </Head>
 
       <main>
+
         <h1 className={styles.title}>
           Welcome to TravelXIndustry
         </h1>
+        <SearchBar />
       </main>
 
       <footer className={styles.footer}>

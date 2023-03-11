@@ -1,0 +1,11 @@
+#the place lookup algo
+
+USE PATH -> JSON -> PARAMS FUNCTION -> DB -> GOOGLE.
+- quickest/simplest lookup on favs.
+- don't render 
+
+USE PATH -> FUNCTION -> JSON -> 
+
+USE PARAMS -> FUNCTION -> JSON -> DB -> GOOGLE
+
+#STATES will be a todo -- "top locations in florida" etc
